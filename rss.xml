@@ -4,7 +4,7 @@
         <title></title>
         <link>https://luzhaoyang.com</link>
         <description></description>
-        <lastBuildDate>Fri, 07 Feb 2020 10:49:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Feb 2020 11:08:00 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://luzhaoyang.com/feed.atom" rel="self" type="application/rss+xml"/>
@@ -12,7 +12,7 @@
             <title><![CDATA[My First Post]]></title>
             <link>https://luzhaoyang.com/posts/my-first-post.html</link>
             <guid>https://luzhaoyang.com/posts/my-first-post.html</guid>
-            <pubDate>Fri, 07 Feb 2020 10:49:35 GMT</pubDate>
+            <pubDate>Fri, 07 Feb 2020 11:08:00 GMT</pubDate>
             <description><![CDATA[Meta description, one of the three TDK tags on the original page, is also a page optimization element that SEO staff need to focus on optimization.]]></description>
             <enclosure url="https://octodex.github.com/images/minion.png">
             </enclosure>
@@ -21,35 +21,32 @@
             <title><![CDATA[JavaScript：ES2019的新特性]]></title>
             <link>https://luzhaoyang.com/zh/posts/javascript-es2019-de-xin-te-xing.html</link>
             <guid>https://luzhaoyang.com/zh/posts/javascript-es2019-de-xin-te-xing.html</guid>
-            <pubDate>Fri, 07 Feb 2020 10:49:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[前端代码美化的艺术]]></title>
-            <link>https://luzhaoyang.com/zh/posts/qian-duan-dai-ma-mei-hua-de-yi-zhu.html</link>
-            <guid>https://luzhaoyang.com/zh/posts/qian-duan-dai-ma-mei-hua-de-yi-zhu.html</guid>
-            <pubDate>Fri, 07 Feb 2020 10:49:35 GMT</pubDate>
-            <description><![CDATA[在我看来，代码质量不仅体现在逻辑上，也要体现在形式上。尤其前端代码，在日渐复杂的单页面开发中，代码格式化不仅是为了美观，也是为了更好的阅读及检查。关于代码的格式化并没有统一的标准，每个人都有自己的见解，所以本文的目的以探讨和推荐为主。]]></description>
-            <enclosure url="https://luzhaoyang.com/images/前端代码美化的艺术/640.webp">
-            </enclosure>
+            <pubDate>Fri, 07 Feb 2020 11:08:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[刚刚还好好的，咋突然跨域了？]]></title>
             <link>https://luzhaoyang.com/zh/posts/gang-gang-huan-hao-hao-de-zha-tu-ran-kua-yu-liao-.html</link>
             <guid>https://luzhaoyang.com/zh/posts/gang-gang-huan-hao-hao-de-zha-tu-ran-kua-yu-liao-.html</guid>
-            <pubDate>Fri, 07 Feb 2020 10:49:35 GMT</pubDate>
-            <description><![CDATA[这种安全策略就决定了 file: 协议访问的应用无法使用 XMLHttpRequest 对象，并且明确说明了跨域请求仅支持以下协议：http, data, chrome, chrome-extension, https。]]></description>
+            <pubDate>Fri, 07 Feb 2020 11:08:00 GMT</pubDate>
+            <description><![CDATA[里面的错误提示很清晰，其实就是发生跨域了。]]></description>
             <enclosure url="https://luzhaoyang.com/images/刚刚还好好的，咋突然跨域了？/640-1.webp">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[前端代码美化的艺术]]></title>
+            <link>https://luzhaoyang.com/zh/posts/qian-duan-dai-ma-mei-hua-de-yi-zhu.html</link>
+            <guid>https://luzhaoyang.com/zh/posts/qian-duan-dai-ma-mei-hua-de-yi-zhu.html</guid>
+            <pubDate>Fri, 07 Feb 2020 11:08:00 GMT</pubDate>
+            <description><![CDATA[在我看来，代码质量不仅体现在逻辑上，也要体现在形式上。尤其前端代码，在日渐复杂的单页面开发中，代码格式化不仅是为了美观，也是为了更好的阅读及检查。关于代码的格式化并没有统一的标准，每个人都有自己的见解，所以本文的目的以探讨和推荐为主。]]></description>
+            <enclosure url="https://luzhaoyang.com/images/前端代码美化的艺术/640.webp">
             </enclosure>
         </item>
         <item>
             <title><![CDATA[巧用CSS实现酷炫的充电动画]]></title>
             <link>https://luzhaoyang.com/zh/posts/qiao-yongcss-shi-xian-ku-xuan-de-chong-dian-dong-hua.html</link>
             <guid>https://luzhaoyang.com/zh/posts/qiao-yongcss-shi-xian-ku-xuan-de-chong-dian-dong-hua.html</guid>
-            <pubDate>Fri, 07 Feb 2020 10:49:35 GMT</pubDate>
-            <description><![CDATA[到这里，其实只有一个知识点：
-使用 filter: hue-rotate() 对渐变色彩进行色彩过渡变换动画
-我们无法对一个渐变色直接进行 animation ，这里通过滤镜对色相进行调整，从而实现了渐变色的变换动画。
-上述例子完整的 Demo：CodePen Demo -- Battery Animation One]]></description>
+            <pubDate>Fri, 07 Feb 2020 11:08:00 GMT</pubDate>
+            <description><![CDATA[有内味了，如果要求不高，这个勉强也就能够交差了。通过蓝色渐变表示电量，通过色块的位移动画实现充电的动画。但是总感觉少了点什么。]]></description>
             <enclosure url="https://luzhaoyang.com/images/巧用CSS实现酷炫的充电动画/微信图片_20200101150753.jpg">
             </enclosure>
         </item>
@@ -57,19 +54,19 @@
             <title><![CDATA[理清TeX、KeTeX、MathJax、LeTeX……的关系及符号表示集合]]></title>
             <link>https://luzhaoyang.com/zh/posts/li-qingtex-ketex-mathjax-letex......-de-guan-xi-ji-fu-hao-biao-shi-ji-he.html</link>
             <guid>https://luzhaoyang.com/zh/posts/li-qingtex-ketex-mathjax-letex......-de-guan-xi-ji-fu-hao-biao-shi-ji-he.html</guid>
-            <pubDate>Fri, 07 Feb 2020 10:49:35 GMT</pubDate>
+            <pubDate>Fri, 07 Feb 2020 11:08:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[最常用的Git命令总结]]></title>
             <link>https://luzhaoyang.com/zh/posts/zui-chang-yong-degit-ming-ling-zong-jie.html</link>
             <guid>https://luzhaoyang.com/zh/posts/zui-chang-yong-degit-ming-ling-zong-jie.html</guid>
-            <pubDate>Fri, 07 Feb 2020 10:49:35 GMT</pubDate>
+            <pubDate>Fri, 07 Feb 2020 11:08:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[谷歌新提案：WebBundlesAPI可在脱机状态实现内容分发]]></title>
             <link>https://luzhaoyang.com/zh/posts/gu-ge-xin-ti-an-webbundlesapi-ke-zai-tuo-ji-zhuang-tai-shi-xian-nei-rong-fen-fa.html</link>
             <guid>https://luzhaoyang.com/zh/posts/gu-ge-xin-ti-an-webbundlesapi-ke-zai-tuo-ji-zhuang-tai-shi-xian-nei-rong-fen-fa.html</guid>
-            <pubDate>Fri, 07 Feb 2020 10:49:35 GMT</pubDate>
+            <pubDate>Fri, 07 Feb 2020 11:08:00 GMT</pubDate>
             <description><![CDATA[::: tip
 在 2019 年 Chrome 开发者峰会 上，谷歌预览了全新的 Web Bundles API。这是一种基础架构 API，开发人员可以通过它以任何格式（电子邮件、FTP 甚至 USB）分发他们的 Web 内容，而内容本身不会有任何改动。这种技术不仅能够以闪电般的速度交付 Web 内容，而且即使用户处于脱机状态，也可以实现点对点内容分发。
 :::]]></description>
@@ -80,67 +77,68 @@
             <title><![CDATA[Array原型方法源码实现大解密]]></title>
             <link>https://luzhaoyang.com/zh/posts/array-yuan-xing-fang-fa-yuan-ma-shi-xian-da-jie-mi.html</link>
             <guid>https://luzhaoyang.com/zh/posts/array-yuan-xing-fang-fa-yuan-ma-shi-xian-da-jie-mi.html</guid>
-            <pubDate>Fri, 07 Feb 2020 10:49:35 GMT</pubDate>
+            <pubDate>Fri, 07 Feb 2020 11:08:00 GMT</pubDate>
             <description><![CDATA[map方法的主要功能就是把原数组中的每个元素按顺序执行一次 callbackfn 函数，并且把所有返回的结果组合在一起生成一个新的数组，map方法的返回值就是这个新数组。]]></description>
         </item>
         <item>
             <title><![CDATA[CSS第四级选择器]]></title>
             <link>https://luzhaoyang.com/zh/posts/css-di-si-ji-xuan-ze-qi.html</link>
             <guid>https://luzhaoyang.com/zh/posts/css-di-si-ji-xuan-ze-qi.html</guid>
-            <pubDate>Fri, 07 Feb 2020 10:49:35 GMT</pubDate>
+            <pubDate>Fri, 07 Feb 2020 11:08:00 GMT</pubDate>
             <description><![CDATA[}]]></description>
             <enclosure url="https://luzhaoyang.com/images/CSS第四级选择器/640-4.webp">
-            </enclosure>
-        </item>
-        <item>
-            <title><![CDATA[HybridApp离线包方案实践]]></title>
-            <link>https://luzhaoyang.com/zh/posts/hybridapp-chi-xian-bao-fang-an-shi-jian.html</link>
-            <guid>https://luzhaoyang.com/zh/posts/hybridapp-chi-xian-bao-fang-an-shi-jian.html</guid>
-            <pubDate>Fri, 07 Feb 2020 10:49:35 GMT</pubDate>
-            <description><![CDATA[当然还有很多其它方面的优化，这里就不再赘述了。本文重点讲的是，在与静态资源服务器建立连接，然后接收前端静态资源的过程。由于这个过程过于依赖用户当前所处的网络环境，因此也成了最不可控因素。当用户处于弱网时，页面加载速度可能会达到 4 到 5 s 甚至更久，严重影响用户体验。而离线包方案就是解决该问题的一个比较成熟的方案。]]></description>
-            <enclosure url="https://luzhaoyang.com/images/HybridApp离线包方案实践/微信图片_20200101163308.jpg">
             </enclosure>
         </item>
         <item>
             <title><![CDATA[JS中可以提升幸福度的小技巧]]></title>
             <link>https://luzhaoyang.com/zh/posts/js-zhong-ke-yi-ti-sheng-xing-fu-du-de-xiao-ji-qiao.html</link>
             <guid>https://luzhaoyang.com/zh/posts/js-zhong-ke-yi-ti-sheng-xing-fu-du-de-xiao-ji-qiao.html</guid>
-            <pubDate>Fri, 07 Feb 2020 10:49:35 GMT</pubDate>
-            <description><![CDATA[`]]></description>
+            <pubDate>Fri, 07 Feb 2020 11:08:00 GMT</pubDate>
+            <description><![CDATA[// NaN
+  { valueOf: () => '3' };
+// 3
+`]]></description>
         </item>
         <item>
             <title><![CDATA[JavaScript运行原理]]></title>
             <link>https://luzhaoyang.com/zh/posts/javascript-yun-xing-yuan-li.html</link>
             <guid>https://luzhaoyang.com/zh/posts/javascript-yun-xing-yuan-li.html</guid>
-            <pubDate>Fri, 07 Feb 2020 10:49:35 GMT</pubDate>
-            <description><![CDATA[除此之外的其它引擎，可以自行搜索了解。接下来，我们将深入研究这些引擎，以了解它们是如何翻译 JavaScript 文件的。]]></description>
+            <pubDate>Fri, 07 Feb 2020 11:08:00 GMT</pubDate>
+            <description><![CDATA[目前有多种 JavaScript 引擎在可供使用。您可以在 Wikipedia 上查阅所有可用的 JavaScript 引擎。它们也被称为 ECMAScript 引擎，这样叫的具体原因会在下文中提及。下面是一些我们日常可能会用到的 JavaScript 引擎：]]></description>
             <enclosure url="https://luzhaoyang.com/images/JavaScript运行原理/640-7.webp">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[HybridApp离线包方案实践]]></title>
+            <link>https://luzhaoyang.com/zh/posts/hybridapp-chi-xian-bao-fang-an-shi-jian.html</link>
+            <guid>https://luzhaoyang.com/zh/posts/hybridapp-chi-xian-bao-fang-an-shi-jian.html</guid>
+            <pubDate>Fri, 07 Feb 2020 11:08:00 GMT</pubDate>
+            <description><![CDATA[首先阐述下大概思路：]]></description>
+            <enclosure url="https://luzhaoyang.com/images/HybridApp离线包方案实践/微信图片_20200101163308.jpg">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Vue这些修饰符帮我节省五分之一的开发时间]]></title>
+            <link>https://luzhaoyang.com/zh/posts/vue-zhe-xie-xiu-shi-fu-bang-wo-jie-sheng-wu-fen-zhi-yi-de-kai-fa-shi-jian.html</link>
+            <guid>https://luzhaoyang.com/zh/posts/vue-zhe-xie-xiu-shi-fu-bang-wo-jie-sheng-wu-fen-zhi-yi-de-kai-fa-shi-jian.html</guid>
+            <pubDate>Fri, 07 Feb 2020 11:08:00 GMT</pubDate>
+            <description><![CDATA[需要注意的是，它只能过滤首尾的空格！首尾，中间的是不会过滤的]]></description>
+            <enclosure url="https://luzhaoyang.com/images/Vue这些修饰符帮我节省五分之一的开发时间/微信图片_20200113110946.jpg">
             </enclosure>
         </item>
         <item>
             <title><![CDATA[Web常见攻击总结]]></title>
             <link>https://luzhaoyang.com/zh/posts/web-chang-jian-gong-ji-zong-jie.html</link>
             <guid>https://luzhaoyang.com/zh/posts/web-chang-jian-gong-ji-zong-jie.html</guid>
-            <pubDate>Fri, 07 Feb 2020 10:49:35 GMT</pubDate>
-            <description><![CDATA[你输入的内容: {{{text}}}h2>
-
+            <pubDate>Fri, 07 Feb 2020 11:08:00 GMT</pubDate>
+            <description><![CDATA[
 `]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Vue这些修饰符帮我节省五分之一的开发时间]]></title>
-            <link>https://luzhaoyang.com/zh/posts/vue-zhe-xie-xiu-shi-fu-bang-wo-jie-sheng-wu-fen-zhi-yi-de-kai-fa-shi-jian.html</link>
-            <guid>https://luzhaoyang.com/zh/posts/vue-zhe-xie-xiu-shi-fu-bang-wo-jie-sheng-wu-fen-zhi-yi-de-kai-fa-shi-jian.html</guid>
-            <pubDate>Fri, 07 Feb 2020 10:49:35 GMT</pubDate>
-            <description><![CDATA[如果你先输入数字，那它就会限制你输入的只能是数字。
-如果你先输入字符串，那它就相当于没有加.number]]></description>
-            <enclosure url="https://luzhaoyang.com/images/Vue这些修饰符帮我节省五分之一的开发时间/微信图片_20200113110946.jpg">
-            </enclosure>
         </item>
         <item>
             <title><![CDATA[我的首篇文章]]></title>
             <link>https://luzhaoyang.com/zh/posts/my-first-post.html</link>
             <guid>https://luzhaoyang.com/zh/posts/my-first-post.html</guid>
-            <pubDate>Fri, 07 Feb 2020 10:49:35 GMT</pubDate>
+            <pubDate>Fri, 07 Feb 2020 11:08:00 GMT</pubDate>
             <description><![CDATA[描述（meta description），是原页面三大标签TDK中之一，同时也是SEO人员需要着重优化的一个页面优化元素。]]></description>
             <enclosure url="https://luzhaoyang.com/logo.png">
             </enclosure>
@@ -149,19 +147,15 @@
             <title><![CDATA[一篇常做错的经典JS闭包面试题]]></title>
             <link>https://luzhaoyang.com/zh/posts/yi-pian-chang-zuo-cuo-de-jing-dianjs-bi-bao-mian-shi-ti.html</link>
             <guid>https://luzhaoyang.com/zh/posts/yi-pian-chang-zuo-cuo-de-jing-dianjs-bi-bao-mian-shi-ti.html</guid>
-            <pubDate>Fri, 07 Feb 2020 10:49:35 GMT</pubDate>
-            <description><![CDATA[funName = funName.substr('function '.length);
-  funName = funName.substr(0, funName.indexOf('('));
-  return funName;
-}
-`]]></description>
+            <pubDate>Fri, 07 Feb 2020 11:08:00 GMT</pubDate>
+            <description><![CDATA[可以用 fn.name 来判断，如果有 name 就是具名函数，如果没有 name 就是匿名函数。]]></description>
         </item>
         <item>
             <title><![CDATA[了解wasm的前世今身]]></title>
             <link>https://luzhaoyang.com/zh/posts/liao-jiewasm-de-qian-shi-jin-shen.html</link>
             <guid>https://luzhaoyang.com/zh/posts/liao-jiewasm-de-qian-shi-jin-shen.html</guid>
-            <pubDate>Fri, 07 Feb 2020 10:49:35 GMT</pubDate>
-            <description><![CDATA[在项目运行的过程中，引擎会对执行次数较多的 function 记性优化，引擎将其代码编译成 Machine Code 后打包送到顶部的 Just-In-Time(JIT) Compiler，下次再执行这个 function，就会直接执行编译好的 Machine Code。但是由于 JavaScript 的动态变量，上一秒可能是 Array，下一秒就变成了 Object。那么上一次引擎所做的优化，就失去了作用，此时又要再一次进行优化。]]></description>
+            <pubDate>Fri, 07 Feb 2020 11:08:00 GMT</pubDate>
+            <description><![CDATA[但是除了逻辑复杂、代码量大，还有另一个原因是 JavaScript 这门语言本身的缺陷，JavaScript 没有静态变量类型。这门解释型编程语言的作者 Brendan Eich，仓促的创造了这门如果被广泛使用的语言，以至于 JavaScript 的发展史甚至在某种层面上变成了填坑史。为什么说没有静态类型会降低效率。这会涉及到一些 JavaScript 引擎的一些知识。]]></description>
             <enclosure url="https://luzhaoyang.com/images/了解wasm的前世今身/640-5.webp">
             </enclosure>
         </item>
@@ -169,16 +163,16 @@
             <title><![CDATA[你真的懂package.json吗?]]></title>
             <link>https://luzhaoyang.com/zh/posts/ni-zhen-de-dongpackage.json-ma-.html</link>
             <guid>https://luzhaoyang.com/zh/posts/ni-zhen-de-dongpackage.json-ma-.html</guid>
-            <pubDate>Fri, 07 Feb 2020 10:49:35 GMT</pubDate>
-            <description><![CDATA[比较特别的是，npm run 新建的这个 Shell，会将当前目录的 node_modules/.bin 子目录加入 PATH 变量，执行结束后，再将 PATH 变量恢复原样。
-这意味着，当前目录的 node_modules/.bin 子目录里面的所有脚本，都可以直接用脚本名调用，而不必加上路径。比如，当前项目的依赖里面有 Mocha，只要直接写 mocha test 就可以了。]]></description>
+            <pubDate>Fri, 07 Feb 2020 11:08:00 GMT</pubDate>
+            <description><![CDATA[console.log('cool')
+`]]></description>
         </item>
         <item>
             <title><![CDATA[你连HTTPS原理都不懂，还讲“中间人攻击”？]]></title>
             <link>https://luzhaoyang.com/zh/posts/ni-lianhttps-yuan-li-du-bu-dong-huan-jiang-zhong-jian-ren-gong-ji-.html</link>
             <guid>https://luzhaoyang.com/zh/posts/ni-lianhttps-yuan-li-du-bu-dong-huan-jiang-zhong-jian-ren-gong-ji-.html</guid>
-            <pubDate>Fri, 07 Feb 2020 10:49:35 GMT</pubDate>
-            <description><![CDATA[以上任意一步都满足的情况下浏览器才认为证书是合法的。]]></description>
+            <pubDate>Fri, 07 Feb 2020 11:08:00 GMT</pubDate>
+            <description><![CDATA[由于缺少对证书的验证，所以客户端虽然发起的是 HTTPS 请求，但客户端完全不知道自己的网络已被拦截，传输内容被中间人全部窃取。]]></description>
             <enclosure url="https://luzhaoyang.com/images/你连HTTPS原理都不懂，还讲“中间人攻击”？/微信图片_20200101162809.jpg">
             </enclosure>
         </item>
