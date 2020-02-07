@@ -10,13 +10,13 @@
             "title": "My First Post",
             "summary": "Meta description, one of the three TDK tags on the original page, is also a page optimization element that SEO staff need to focus on optimization.",
             "image": "https://octodex.github.com/images/minion.png",
-            "date_modified": "2020-02-07T11:08:00.718Z"
+            "date_modified": "2020-02-07T11:18:28.339Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/javascript-es2019-de-xin-te-xing.html",
             "url": "https://luzhaoyang.com/zh/posts/javascript-es2019-de-xin-te-xing.html",
             "title": "JavaScript：ES2019的新特性",
-            "date_modified": "2020-02-07T11:08:00.719Z"
+            "date_modified": "2020-02-07T11:18:28.342Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/gang-gang-huan-hao-hao-de-zha-tu-ran-kua-yu-liao-.html",
@@ -24,7 +24,7 @@
             "title": "刚刚还好好的，咋突然跨域了？",
             "summary": "里面的错误提示很清晰，其实就是发生跨域了。",
             "image": "https://luzhaoyang.com/images/刚刚还好好的，咋突然跨域了？/640-1.webp",
-            "date_modified": "2020-02-07T11:08:00.720Z"
+            "date_modified": "2020-02-07T11:18:28.343Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/qian-duan-dai-ma-mei-hua-de-yi-zhu.html",
@@ -32,7 +32,7 @@
             "title": "前端代码美化的艺术",
             "summary": "在我看来，代码质量不仅体现在逻辑上，也要体现在形式上。尤其前端代码，在日渐复杂的单页面开发中，代码格式化不仅是为了美观，也是为了更好的阅读及检查。关于代码的格式化并没有统一的标准，每个人都有自己的见解，所以本文的目的以探讨和推荐为主。",
             "image": "https://luzhaoyang.com/images/前端代码美化的艺术/640.webp",
-            "date_modified": "2020-02-07T11:08:00.721Z"
+            "date_modified": "2020-02-07T11:18:28.344Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/qiao-yongcss-shi-xian-ku-xuan-de-chong-dian-dong-hua.html",
@@ -40,80 +40,87 @@
             "title": "巧用CSS实现酷炫的充电动画",
             "summary": "有内味了，如果要求不高，这个勉强也就能够交差了。通过蓝色渐变表示电量，通过色块的位移动画实现充电的动画。但是总感觉少了点什么。",
             "image": "https://luzhaoyang.com/images/巧用CSS实现酷炫的充电动画/微信图片_20200101150753.jpg",
-            "date_modified": "2020-02-07T11:08:00.721Z"
-        },
-        {
-            "id": "https://luzhaoyang.com/zh/posts/li-qingtex-ketex-mathjax-letex......-de-guan-xi-ji-fu-hao-biao-shi-ji-he.html",
-            "url": "https://luzhaoyang.com/zh/posts/li-qingtex-ketex-mathjax-letex......-de-guan-xi-ji-fu-hao-biao-shi-ji-he.html",
-            "title": "理清TeX、KeTeX、MathJax、LeTeX……的关系及符号表示集合",
-            "date_modified": "2020-02-07T11:08:00.721Z"
+            "date_modified": "2020-02-07T11:18:28.344Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/zui-chang-yong-degit-ming-ling-zong-jie.html",
             "url": "https://luzhaoyang.com/zh/posts/zui-chang-yong-degit-ming-ling-zong-jie.html",
             "title": "最常用的Git命令总结",
-            "date_modified": "2020-02-07T11:08:00.721Z"
+            "summary": "git branch origin :分支名 删除远处仓库分支\ngit merge 分支名 合并分支到当前分支上",
+            "date_modified": "2020-02-07T11:18:28.344Z"
+        },
+        {
+            "id": "https://luzhaoyang.com/zh/posts/li-qingtex-ketex-mathjax-letex......-de-guan-xi-ji-fu-hao-biao-shi-ji-he.html",
+            "url": "https://luzhaoyang.com/zh/posts/li-qingtex-ketex-mathjax-letex......-de-guan-xi-ji-fu-hao-biao-shi-ji-he.html",
+            "title": "理清TeX、KeTeX、MathJax、LeTeX……的关系及符号表示集合",
+            "date_modified": "2020-02-07T11:18:28.344Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/gu-ge-xin-ti-an-webbundlesapi-ke-zai-tuo-ji-zhuang-tai-shi-xian-nei-rong-fen-fa.html",
             "url": "https://luzhaoyang.com/zh/posts/gu-ge-xin-ti-an-webbundlesapi-ke-zai-tuo-ji-zhuang-tai-shi-xian-nei-rong-fen-fa.html",
             "title": "谷歌新提案：WebBundlesAPI可在脱机状态实现内容分发",
-            "summary": "::: tip\n在 2019 年 Chrome 开发者峰会 上，谷歌预览了全新的 Web Bundles API。这是一种基础架构 API，开发人员可以通过它以任何格式（电子邮件、FTP 甚至 USB）分发他们的 Web 内容，而内容本身不会有任何改动。这种技术不仅能够以闪电般的速度交付 Web 内容，而且即使用户处于脱机状态，也可以实现点对点内容分发。\n:::",
             "image": "https://luzhaoyang.com/images/谷歌新提案：WebBundlesAPI可在脱机状态实现内容分发/640.webp",
-            "date_modified": "2020-02-07T11:08:00.721Z"
-        },
-        {
-            "id": "https://luzhaoyang.com/zh/posts/array-yuan-xing-fang-fa-yuan-ma-shi-xian-da-jie-mi.html",
-            "url": "https://luzhaoyang.com/zh/posts/array-yuan-xing-fang-fa-yuan-ma-shi-xian-da-jie-mi.html",
-            "title": "Array原型方法源码实现大解密",
-            "summary": "map方法的主要功能就是把原数组中的每个元素按顺序执行一次 callbackfn 函数，并且把所有返回的结果组合在一起生成一个新的数组，map方法的返回值就是这个新数组。",
-            "date_modified": "2020-02-07T11:08:00.721Z"
+            "date_modified": "2020-02-07T11:18:28.344Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/css-di-si-ji-xuan-ze-qi.html",
             "url": "https://luzhaoyang.com/zh/posts/css-di-si-ji-xuan-ze-qi.html",
             "title": "CSS第四级选择器",
-            "summary": "}",
+            "summary": "div {\n  /* 一些应用在所有 div 元素上的样式 */\n}\n`",
             "image": "https://luzhaoyang.com/images/CSS第四级选择器/640-4.webp",
-            "date_modified": "2020-02-07T11:08:00.721Z"
+            "date_modified": "2020-02-07T11:18:28.344Z"
+        },
+        {
+            "id": "https://luzhaoyang.com/zh/posts/array-yuan-xing-fang-fa-yuan-ma-shi-xian-da-jie-mi.html",
+            "url": "https://luzhaoyang.com/zh/posts/array-yuan-xing-fang-fa-yuan-ma-shi-xian-da-jie-mi.html",
+            "title": "Array原型方法源码实现大解密",
+            "summary": "完整的结构是Array.prototype.map(callbackfn[, thisArg])，map函数接收两个参数，一个是必填项回调函数，另一个是可选项 callbackfn 函数执行时的 this 值。",
+            "date_modified": "2020-02-07T11:18:28.344Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/js-zhong-ke-yi-ti-sheng-xing-fu-du-de-xiao-ji-qiao.html",
             "url": "https://luzhaoyang.com/zh/posts/js-zhong-ke-yi-ti-sheng-xing-fu-du-de-xiao-ji-qiao.html",
             "title": "JS中可以提升幸福度的小技巧",
-            "summary": "// NaN\n  { valueOf: () => '3' };\n// 3\n`",
-            "date_modified": "2020-02-07T11:08:00.721Z"
-        },
-        {
-            "id": "https://luzhaoyang.com/zh/posts/javascript-yun-xing-yuan-li.html",
-            "url": "https://luzhaoyang.com/zh/posts/javascript-yun-xing-yuan-li.html",
-            "title": "JavaScript运行原理",
-            "summary": "目前有多种 JavaScript 引擎在可供使用。您可以在 Wikipedia 上查阅所有可用的 JavaScript 引擎。它们也被称为 ECMAScript 引擎，这样叫的具体原因会在下文中提及。下面是一些我们日常可能会用到的 JavaScript 引擎：",
-            "image": "https://luzhaoyang.com/images/JavaScript运行原理/640-7.webp",
-            "date_modified": "2020-02-07T11:08:00.721Z"
+            "summary": "// 0\nundefined * 1;\n// NaN\n1 * { valueOf: () => '3' };\n// 3\n`",
+            "date_modified": "2020-02-07T11:18:28.344Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/hybridapp-chi-xian-bao-fang-an-shi-jian.html",
             "url": "https://luzhaoyang.com/zh/posts/hybridapp-chi-xian-bao-fang-an-shi-jian.html",
             "title": "HybridApp离线包方案实践",
-            "summary": "首先阐述下大概思路：",
+            "summary": "当然还有很多其它方面的优化，这里就不再赘述了。本文重点讲的是，在与静态资源服务器建立连接，然后接收前端静态资源的过程。由于这个过程过于依赖用户当前所处的网络环境，因此也成了最不可控因素。当用户处于弱网时，页面加载速度可能会达到 4 到 5 s 甚至更久，严重影响用户体验。而离线包方案就是解决该问题的一个比较成熟的方案。",
             "image": "https://luzhaoyang.com/images/HybridApp离线包方案实践/微信图片_20200101163308.jpg",
-            "date_modified": "2020-02-07T11:08:00.721Z"
+            "date_modified": "2020-02-07T11:18:28.344Z"
         },
         {
-            "id": "https://luzhaoyang.com/zh/posts/vue-zhe-xie-xiu-shi-fu-bang-wo-jie-sheng-wu-fen-zhi-yi-de-kai-fa-shi-jian.html",
-            "url": "https://luzhaoyang.com/zh/posts/vue-zhe-xie-xiu-shi-fu-bang-wo-jie-sheng-wu-fen-zhi-yi-de-kai-fa-shi-jian.html",
-            "title": "Vue这些修饰符帮我节省五分之一的开发时间",
-            "summary": "需要注意的是，它只能过滤首尾的空格！首尾，中间的是不会过滤的",
-            "image": "https://luzhaoyang.com/images/Vue这些修饰符帮我节省五分之一的开发时间/微信图片_20200113110946.jpg",
-            "date_modified": "2020-02-07T11:08:00.721Z"
+            "id": "https://luzhaoyang.com/zh/posts/javascript-yun-xing-yuan-li.html",
+            "url": "https://luzhaoyang.com/zh/posts/javascript-yun-xing-yuan-li.html",
+            "title": "JavaScript运行原理",
+            "summary": "除此之外的其它引擎，可以自行搜索了解。接下来，我们将深入研究这些引擎，以了解它们是如何翻译 JavaScript 文件的。",
+            "image": "https://luzhaoyang.com/images/JavaScript运行原理/640-7.webp",
+            "date_modified": "2020-02-07T11:18:28.344Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/web-chang-jian-gong-ji-zong-jie.html",
             "url": "https://luzhaoyang.com/zh/posts/web-chang-jian-gong-ji-zong-jie.html",
             "title": "Web常见攻击总结",
-            "summary": "\n`",
-            "date_modified": "2020-02-07T11:08:00.722Z"
+            "summary": "你输入的内容: {{{text}}}h2>\n\n`",
+            "date_modified": "2020-02-07T11:18:28.344Z"
+        },
+        {
+            "id": "https://luzhaoyang.com/zh/posts/vue-zhe-xie-xiu-shi-fu-bang-wo-jie-sheng-wu-fen-zhi-yi-de-kai-fa-shi-jian.html",
+            "url": "https://luzhaoyang.com/zh/posts/vue-zhe-xie-xiu-shi-fu-bang-wo-jie-sheng-wu-fen-zhi-yi-de-kai-fa-shi-jian.html",
+            "title": "Vue这些修饰符帮我节省五分之一的开发时间",
+            "summary": "如果你先输入数字，那它就会限制你输入的只能是数字。\n如果你先输入字符串，那它就相当于没有加.number",
+            "image": "https://luzhaoyang.com/images/Vue这些修饰符帮我节省五分之一的开发时间/微信图片_20200113110946.jpg",
+            "date_modified": "2020-02-07T11:18:28.344Z"
+        },
+        {
+            "id": "https://luzhaoyang.com/zh/posts/yi-pian-chang-zuo-cuo-de-jing-dianjs-bi-bao-mian-shi-ti.html",
+            "url": "https://luzhaoyang.com/zh/posts/yi-pian-chang-zuo-cuo-de-jing-dianjs-bi-bao-mian-shi-ti.html",
+            "title": "一篇常做错的经典JS闭包面试题",
+            "summary": "funName = funName.substr('function '.length);\n  funName = funName.substr(0, funName.indexOf('('));\n  return funName;\n}\n`",
+            "date_modified": "2020-02-07T11:18:28.345Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/my-first-post.html",
@@ -121,37 +128,30 @@
             "title": "我的首篇文章",
             "summary": "描述（meta description），是原页面三大标签TDK中之一，同时也是SEO人员需要着重优化的一个页面优化元素。",
             "image": "https://luzhaoyang.com/logo.png",
-            "date_modified": "2020-02-07T11:08:00.722Z"
-        },
-        {
-            "id": "https://luzhaoyang.com/zh/posts/yi-pian-chang-zuo-cuo-de-jing-dianjs-bi-bao-mian-shi-ti.html",
-            "url": "https://luzhaoyang.com/zh/posts/yi-pian-chang-zuo-cuo-de-jing-dianjs-bi-bao-mian-shi-ti.html",
-            "title": "一篇常做错的经典JS闭包面试题",
-            "summary": "可以用 fn.name 来判断，如果有 name 就是具名函数，如果没有 name 就是匿名函数。",
-            "date_modified": "2020-02-07T11:08:00.722Z"
+            "date_modified": "2020-02-07T11:18:28.345Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/liao-jiewasm-de-qian-shi-jin-shen.html",
             "url": "https://luzhaoyang.com/zh/posts/liao-jiewasm-de-qian-shi-jin-shen.html",
             "title": "了解wasm的前世今身",
-            "summary": "但是除了逻辑复杂、代码量大，还有另一个原因是 JavaScript 这门语言本身的缺陷，JavaScript 没有静态变量类型。这门解释型编程语言的作者 Brendan Eich，仓促的创造了这门如果被广泛使用的语言，以至于 JavaScript 的发展史甚至在某种层面上变成了填坑史。为什么说没有静态类型会降低效率。这会涉及到一些 JavaScript 引擎的一些知识。",
+            "summary": "在项目运行的过程中，引擎会对执行次数较多的 function 记性优化，引擎将其代码编译成 Machine Code 后打包送到顶部的 Just-In-Time(JIT) Compiler，下次再执行这个 function，就会直接执行编译好的 Machine Code。但是由于 JavaScript 的动态变量，上一秒可能是 Array，下一秒就变成了 Object。那么上一次引擎所做的优化，就失去了作用，此时又要再一次进行优化。",
             "image": "https://luzhaoyang.com/images/了解wasm的前世今身/640-5.webp",
-            "date_modified": "2020-02-07T11:08:00.722Z"
+            "date_modified": "2020-02-07T11:18:28.345Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/ni-zhen-de-dongpackage.json-ma-.html",
             "url": "https://luzhaoyang.com/zh/posts/ni-zhen-de-dongpackage.json-ma-.html",
             "title": "你真的懂package.json吗?",
-            "summary": "console.log('cool')\n`",
-            "date_modified": "2020-02-07T11:08:00.722Z"
+            "summary": "比较特别的是，npm run 新建的这个 Shell，会将当前目录的 node_modules/.bin 子目录加入 PATH 变量，执行结束后，再将 PATH 变量恢复原样。\n这意味着，当前目录的 node_modules/.bin 子目录里面的所有脚本，都可以直接用脚本名调用，而不必加上路径。比如，当前项目的依赖里面有 Mocha，只要直接写 mocha test 就可以了。",
+            "date_modified": "2020-02-07T11:18:28.345Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/ni-lianhttps-yuan-li-du-bu-dong-huan-jiang-zhong-jian-ren-gong-ji-.html",
             "url": "https://luzhaoyang.com/zh/posts/ni-lianhttps-yuan-li-du-bu-dong-huan-jiang-zhong-jian-ren-gong-ji-.html",
             "title": "你连HTTPS原理都不懂，还讲“中间人攻击”？",
-            "summary": "由于缺少对证书的验证，所以客户端虽然发起的是 HTTPS 请求，但客户端完全不知道自己的网络已被拦截，传输内容被中间人全部窃取。",
+            "summary": "以上任意一步都满足的情况下浏览器才认为证书是合法的。",
             "image": "https://luzhaoyang.com/images/你连HTTPS原理都不懂，还讲“中间人攻击”？/微信图片_20200101162809.jpg",
-            "date_modified": "2020-02-07T11:08:00.722Z"
+            "date_modified": "2020-02-07T11:18:28.345Z"
         }
     ]
 }
