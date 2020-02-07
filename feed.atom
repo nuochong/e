@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://luzhaoyang.com</id>
     <title></title>
-    <updated>2020-02-07T09:05:32.538Z</updated>
+    <updated>2020-02-07T09:28:31.185Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://luzhaoyang.com"/>
     <link rel="self" href="https://luzhaoyang.com/feed.atom"/>
@@ -11,7 +11,7 @@
         <id>https://luzhaoyang.com/posts/my-first-post.html</id>
         <link href="https://luzhaoyang.com/posts/my-first-post.html">
         </link>
-        <updated>2020-02-07T09:05:32.507Z</updated>
+        <updated>2020-02-07T09:28:31.156Z</updated>
         <summary type="html"><![CDATA[Meta description, one of the three TDK tags on the original page, is also a page optimization element that SEO staff need to focus on optimization.]]></summary>
     </entry>
     <entry>
@@ -19,14 +19,14 @@
         <id>https://luzhaoyang.com/zh/posts/javascript-es2019-de-xin-te-xing.html</id>
         <link href="https://luzhaoyang.com/zh/posts/javascript-es2019-de-xin-te-xing.html">
         </link>
-        <updated>2020-02-07T09:05:32.509Z</updated>
+        <updated>2020-02-07T09:28:31.158Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[刚刚还好好的，咋突然跨域了？]]></title>
         <id>https://luzhaoyang.com/zh/posts/gang-gang-huan-hao-hao-de-zha-tu-ran-kua-yu-liao-.html</id>
         <link href="https://luzhaoyang.com/zh/posts/gang-gang-huan-hao-hao-de-zha-tu-ran-kua-yu-liao-.html">
         </link>
-        <updated>2020-02-07T09:05:32.510Z</updated>
+        <updated>2020-02-07T09:28:31.159Z</updated>
         <summary type="html"><![CDATA[里面的错误提示很清晰，其实就是发生跨域了。]]></summary>
     </entry>
     <entry>
@@ -34,7 +34,7 @@
         <id>https://luzhaoyang.com/zh/posts/qian-duan-dai-ma-mei-hua-de-yi-zhu.html</id>
         <link href="https://luzhaoyang.com/zh/posts/qian-duan-dai-ma-mei-hua-de-yi-zhu.html">
         </link>
-        <updated>2020-02-07T09:05:32.511Z</updated>
+        <updated>2020-02-07T09:28:31.159Z</updated>
         <summary type="html"><![CDATA[在我看来，代码质量不仅体现在逻辑上，也要体现在形式上。尤其前端代码，在日渐复杂的单页面开发中，代码格式化不仅是为了美观，也是为了更好的阅读及检查。关于代码的格式化并没有统一的标准，每个人都有自己的见解，所以本文的目的以探讨和推荐为主。]]></summary>
     </entry>
     <entry>
@@ -42,7 +42,7 @@
         <id>https://luzhaoyang.com/zh/posts/qiao-yongcss-shi-xian-ku-xuan-de-chong-dian-dong-hua.html</id>
         <link href="https://luzhaoyang.com/zh/posts/qiao-yongcss-shi-xian-ku-xuan-de-chong-dian-dong-hua.html">
         </link>
-        <updated>2020-02-07T09:05:32.511Z</updated>
+        <updated>2020-02-07T09:28:31.159Z</updated>
         <summary type="html"><![CDATA[有内味了，如果要求不高，这个勉强也就能够交差了。通过蓝色渐变表示电量，通过色块的位移动画实现充电的动画。但是总感觉少了点什么。]]></summary>
     </entry>
     <entry>
@@ -50,7 +50,7 @@
         <id>https://luzhaoyang.com/zh/posts/zui-chang-yong-degit-ming-ling-zong-jie.html</id>
         <link href="https://luzhaoyang.com/zh/posts/zui-chang-yong-degit-ming-ling-zong-jie.html">
         </link>
-        <updated>2020-02-07T09:05:32.511Z</updated>
+        <updated>2020-02-07T09:28:31.160Z</updated>
         <summary type="html"><![CDATA[git branch origin :分支名 删除远处仓库分支
 git merge 分支名 合并分支到当前分支上]]></summary>
     </entry>
@@ -59,86 +59,95 @@ git merge 分支名 合并分支到当前分支上]]></summary>
         <id>https://luzhaoyang.com/zh/posts/li-qingtex-ketex-mathjax-letex......-de-guan-xi-ji-fu-hao-biao-shi-ji-he.html</id>
         <link href="https://luzhaoyang.com/zh/posts/li-qingtex-ketex-mathjax-letex......-de-guan-xi-ji-fu-hao-biao-shi-ji-he.html">
         </link>
-        <updated>2020-02-07T09:05:32.511Z</updated>
+        <updated>2020-02-07T09:28:31.160Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[谷歌新提案：WebBundlesAPI可在脱机状态实现内容分发]]></title>
         <id>https://luzhaoyang.com/zh/posts/gu-ge-xin-ti-an-webbundlesapi-ke-zai-tuo-ji-zhuang-tai-shi-xian-nei-rong-fen-fa.html</id>
         <link href="https://luzhaoyang.com/zh/posts/gu-ge-xin-ti-an-webbundlesapi-ke-zai-tuo-ji-zhuang-tai-shi-xian-nei-rong-fen-fa.html">
         </link>
-        <updated>2020-02-07T09:05:32.511Z</updated>
+        <updated>2020-02-07T09:28:31.160Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Array原型方法源码实现大解密]]></title>
         <id>https://luzhaoyang.com/zh/posts/array-yuan-xing-fang-fa-yuan-ma-shi-xian-da-jie-mi.html</id>
         <link href="https://luzhaoyang.com/zh/posts/array-yuan-xing-fang-fa-yuan-ma-shi-xian-da-jie-mi.html">
         </link>
-        <updated>2020-02-07T09:05:32.511Z</updated>
+        <updated>2020-02-07T09:28:31.160Z</updated>
         <summary type="html"><![CDATA[完整的结构是Array.prototype.map(callbackfn[, thisArg])，map函数接收两个参数，一个是必填项回调函数，另一个是可选项 callbackfn 函数执行时的 this 值。]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HybridApp离线包方案实践]]></title>
-        <id>https://luzhaoyang.com/zh/posts/hybridapp-chi-xian-bao-fang-an-shi-jian.html</id>
-        <link href="https://luzhaoyang.com/zh/posts/hybridapp-chi-xian-bao-fang-an-shi-jian.html">
-        </link>
-        <updated>2020-02-07T09:05:32.511Z</updated>
-        <summary type="html"><![CDATA[当然还有很多其它方面的优化，这里就不再赘述了。本文重点讲的是，在与静态资源服务器建立连接，然后接收前端静态资源的过程。由于这个过程过于依赖用户当前所处的网络环境，因此也成了最不可控因素。当用户处于弱网时，页面加载速度可能会达到 4 到 5 s 甚至更久，严重影响用户体验。而离线包方案就是解决该问题的一个比较成熟的方案。]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[CSS第四级选择器]]></title>
         <id>https://luzhaoyang.com/zh/posts/css-di-si-ji-xuan-ze-qi.html</id>
         <link href="https://luzhaoyang.com/zh/posts/css-di-si-ji-xuan-ze-qi.html">
         </link>
-        <updated>2020-02-07T09:05:32.512Z</updated>
-        <summary type="html"><![CDATA[对于每一个选择器，我都会提供一个 can I use 的链接以便你可以看到哪些浏览器支持它（如果有的话）、一些简短的介绍、一个例子、和一个 Codepen 的链接，这样你就能自己去尝试一下（即使它暂时无法使用，因为将来可能会改）。]]></summary>
+        <updated>2020-02-07T09:28:31.160Z</updated>
+        <summary type="html"><![CDATA[ul li {
+  /* 一些应用在所有子元素上的样式 */
+}]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[JS中可以提升幸福度的小技巧]]></title>
         <id>https://luzhaoyang.com/zh/posts/js-zhong-ke-yi-ti-sheng-xing-fu-du-de-xiao-ji-qiao.html</id>
         <link href="https://luzhaoyang.com/zh/posts/js-zhong-ke-yi-ti-sheng-xing-fu-du-de-xiao-ji-qiao.html">
         </link>
-        <updated>2020-02-07T09:05:32.512Z</updated>
-        <summary type="html"><![CDATA[:::]]></summary>
+        <updated>2020-02-07T09:28:31.160Z</updated>
+        <summary type="html"><![CDATA[// 3
+`]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HybridApp离线包方案实践]]></title>
+        <id>https://luzhaoyang.com/zh/posts/hybridapp-chi-xian-bao-fang-an-shi-jian.html</id>
+        <link href="https://luzhaoyang.com/zh/posts/hybridapp-chi-xian-bao-fang-an-shi-jian.html">
+        </link>
+        <updated>2020-02-07T09:28:31.160Z</updated>
+        <summary type="html"><![CDATA[当然还有很多其它方面的优化，这里就不再赘述了。本文重点讲的是，在与静态资源服务器建立连接，然后接收前端静态资源的过程。由于这个过程过于依赖用户当前所处的网络环境，因此也成了最不可控因素。当用户处于弱网时，页面加载速度可能会达到 4 到 5 s 甚至更久，严重影响用户体验。而离线包方案就是解决该问题的一个比较成熟的方案。]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript运行原理]]></title>
         <id>https://luzhaoyang.com/zh/posts/javascript-yun-xing-yuan-li.html</id>
         <link href="https://luzhaoyang.com/zh/posts/javascript-yun-xing-yuan-li.html">
         </link>
-        <updated>2020-02-07T09:05:32.512Z</updated>
-        <summary type="html"><![CDATA[因此，为了给这些引擎确立一个规范，ECMA 的标准诞生了，该标准主要提供如何编写引擎和 JavaScript 所有功能的规范。这就是新功能能在 ECMAScript 6、7、8 上实现的原因。同时，引擎也进行了更新以支持这些新功能。于是，我们便可以在开发过程中检查了浏览器中 JS 高级功能的可用性。]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue这些修饰符帮我节省五分之一的开发时间]]></title>
-        <id>https://luzhaoyang.com/zh/posts/vue-zhe-xie-xiu-shi-fu-bang-wo-jie-sheng-wu-fen-zhi-yi-de-kai-fa-shi-jian.html</id>
-        <link href="https://luzhaoyang.com/zh/posts/vue-zhe-xie-xiu-shi-fu-bang-wo-jie-sheng-wu-fen-zhi-yi-de-kai-fa-shi-jian.html">
-        </link>
-        <updated>2020-02-07T09:05:32.512Z</updated>
-        <summary type="html"><![CDATA[ok
-]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一篇常做错的经典JS闭包面试题]]></title>
-        <id>https://luzhaoyang.com/zh/posts/yi-pian-chang-zuo-cuo-de-jing-dianjs-bi-bao-mian-shi-ti.html</id>
-        <link href="https://luzhaoyang.com/zh/posts/yi-pian-chang-zuo-cuo-de-jing-dianjs-bi-bao-mian-shi-ti.html">
-        </link>
-        <updated>2020-02-07T09:05:32.512Z</updated>
-        <summary type="html"><![CDATA[`]]></summary>
+        <updated>2020-02-07T09:28:31.160Z</updated>
+        <summary type="html"><![CDATA[除此之外的其它引擎，可以自行搜索了解。接下来，我们将深入研究这些引擎，以了解它们是如何翻译 JavaScript 文件的。]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Web常见攻击总结]]></title>
         <id>https://luzhaoyang.com/zh/posts/web-chang-jian-gong-ji-zong-jie.html</id>
         <link href="https://luzhaoyang.com/zh/posts/web-chang-jian-gong-ji-zong-jie.html">
         </link>
-        <updated>2020-02-07T09:05:32.512Z</updated>
-        <summary type="html"><![CDATA[`]]></summary>
+        <updated>2020-02-07T09:28:31.160Z</updated>
+        <summary type="html"><![CDATA[你输入的内容: {{{text}}}h2>
+
+`]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue这些修饰符帮我节省五分之一的开发时间]]></title>
+        <id>https://luzhaoyang.com/zh/posts/vue-zhe-xie-xiu-shi-fu-bang-wo-jie-sheng-wu-fen-zhi-yi-de-kai-fa-shi-jian.html</id>
+        <link href="https://luzhaoyang.com/zh/posts/vue-zhe-xie-xiu-shi-fu-bang-wo-jie-sheng-wu-fen-zhi-yi-de-kai-fa-shi-jian.html">
+        </link>
+        <updated>2020-02-07T09:28:31.160Z</updated>
+        <summary type="html"><![CDATA[如果你先输入数字，那它就会限制你输入的只能是数字。
+如果你先输入字符串，那它就相当于没有加.number]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一篇常做错的经典JS闭包面试题]]></title>
+        <id>https://luzhaoyang.com/zh/posts/yi-pian-chang-zuo-cuo-de-jing-dianjs-bi-bao-mian-shi-ti.html</id>
+        <link href="https://luzhaoyang.com/zh/posts/yi-pian-chang-zuo-cuo-de-jing-dianjs-bi-bao-mian-shi-ti.html">
+        </link>
+        <updated>2020-02-07T09:28:31.160Z</updated>
+        <summary type="html"><![CDATA[funName = funName.substr('function '.length);
+  funName = funName.substr(0, funName.indexOf('('));
+  return funName;
+}
+`]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[我的首篇文章]]></title>
         <id>https://luzhaoyang.com/zh/posts/my-first-post.html</id>
         <link href="https://luzhaoyang.com/zh/posts/my-first-post.html">
         </link>
-        <updated>2020-02-07T09:05:32.512Z</updated>
+        <updated>2020-02-07T09:28:31.160Z</updated>
         <summary type="html"><![CDATA[描述（meta description），是原页面三大标签TDK中之一，同时也是SEO人员需要着重优化的一个页面优化元素。]]></summary>
     </entry>
     <entry>
@@ -146,23 +155,24 @@ git merge 分支名 合并分支到当前分支上]]></summary>
         <id>https://luzhaoyang.com/zh/posts/liao-jiewasm-de-qian-shi-jin-shen.html</id>
         <link href="https://luzhaoyang.com/zh/posts/liao-jiewasm-de-qian-shi-jin-shen.html">
         </link>
-        <updated>2020-02-07T09:05:32.512Z</updated>
+        <updated>2020-02-07T09:28:31.161Z</updated>
         <summary type="html"><![CDATA[在项目运行的过程中，引擎会对执行次数较多的 function 记性优化，引擎将其代码编译成 Machine Code 后打包送到顶部的 Just-In-Time(JIT) Compiler，下次再执行这个 function，就会直接执行编译好的 Machine Code。但是由于 JavaScript 的动态变量，上一秒可能是 Array，下一秒就变成了 Object。那么上一次引擎所做的优化，就失去了作用，此时又要再一次进行优化。]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你连HTTPS原理都不懂，还讲“中间人攻击”？]]></title>
-        <id>https://luzhaoyang.com/zh/posts/ni-lianhttps-yuan-li-du-bu-dong-huan-jiang-zhong-jian-ren-gong-ji-.html</id>
-        <link href="https://luzhaoyang.com/zh/posts/ni-lianhttps-yuan-li-du-bu-dong-huan-jiang-zhong-jian-ren-gong-ji-.html">
-        </link>
-        <updated>2020-02-07T09:05:32.512Z</updated>
-        <summary type="html"><![CDATA[浏览器发起 HTTPS 请求时，服务器会返回网站的 SSL 证书，浏览器需要对证书做以下验证：]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[你真的懂package.json吗?]]></title>
         <id>https://luzhaoyang.com/zh/posts/ni-zhen-de-dongpackage.json-ma-.html</id>
         <link href="https://luzhaoyang.com/zh/posts/ni-zhen-de-dongpackage.json-ma-.html">
         </link>
-        <updated>2020-02-07T09:05:32.512Z</updated>
-        <summary type="html"><![CDATA[这意味着，当前目录的 node_modules/.bin 子目录里面的所有脚本，都可以直接用脚本名调用，而不必加上路径。比如，当前项目的依赖里面有 Mocha，只要直接写 mocha test 就可以了。]]></summary>
+        <updated>2020-02-07T09:28:31.161Z</updated>
+        <summary type="html"><![CDATA[比较特别的是，npm run 新建的这个 Shell，会将当前目录的 node_modules/.bin 子目录加入 PATH 变量，执行结束后，再将 PATH 变量恢复原样。
+这意味着，当前目录的 node_modules/.bin 子目录里面的所有脚本，都可以直接用脚本名调用，而不必加上路径。比如，当前项目的依赖里面有 Mocha，只要直接写 mocha test 就可以了。]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你连HTTPS原理都不懂，还讲“中间人攻击”？]]></title>
+        <id>https://luzhaoyang.com/zh/posts/ni-lianhttps-yuan-li-du-bu-dong-huan-jiang-zhong-jian-ren-gong-ji-.html</id>
+        <link href="https://luzhaoyang.com/zh/posts/ni-lianhttps-yuan-li-du-bu-dong-huan-jiang-zhong-jian-ren-gong-ji-.html">
+        </link>
+        <updated>2020-02-07T09:28:31.161Z</updated>
+        <summary type="html"><![CDATA[以上任意一步都满足的情况下浏览器才认为证书是合法的。]]></summary>
     </entry>
 </feed>
