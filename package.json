@@ -1,0 +1,18 @@
+{
+  "name": "nuochong.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuochong/nuochong.github.io.git"
+  },
+  "keywords": [],
+  "author": "nuochong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nuochong/nuochong.github.io/issues"
+  },
+  "homepage": "https://github.com/nuochong/nuochong.github.io#readme"
+}
