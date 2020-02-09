@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "cc2e7c3e3c64e6b8a62da9ba979ad695"
+    "revision": "48f1efdf9319cba88b4568e7944e5680"
   },
   {
     "url": "abduction.svg",
@@ -35,7 +35,7 @@ self.__precacheManifest = [
   },
   {
     "url": "about/index.html",
-    "revision": "9b3806a6be1832221cb92992096b915f"
+    "revision": "46ac137868f85598d9529ebb52748639"
   },
   {
     "url": "assets/css/0.styles.0e34bbc8.css",
@@ -66,7 +66,7 @@ self.__precacheManifest = [
     "revision": "e08cfead16fd0be21c7a9b7561329178"
   },
   {
-    "url": "assets/css/15.styles.867f2ef3.css",
+    "url": "assets/css/15.styles.913d2ea7.css",
     "revision": "6ae62e69a9beef6a8f1cb760d7d49048"
   },
   {
@@ -130,8 +130,8 @@ self.__precacheManifest = [
     "revision": "388b56d3051f9e07ccfec53a7f866be0"
   },
   {
-    "url": "assets/css/styles.195f3b74.css",
-    "revision": "ab95f54ea798a25f79fd5ccfb9d3d477"
+    "url": "assets/css/styles.4ed10a38.css",
+    "revision": "3b85d8fb4cf7660b58a5fd3eb091f405"
   },
   {
     "url": "assets/fonts/hack-regular.3eccb984.woff2",
@@ -242,8 +242,8 @@ self.__precacheManifest = [
     "revision": "a88ac8f5bee6d533da5dade888a85c51"
   },
   {
-    "url": "assets/js/15.867f2ef3.js",
-    "revision": "e5f0776a1889c43e578e95941aebfba4"
+    "url": "assets/js/15.913d2ea7.js",
+    "revision": "184ea22c0476b7805c6a896831b8debd"
   },
   {
     "url": "assets/js/16.6feccbdc.js",
@@ -330,32 +330,32 @@ self.__precacheManifest = [
     "revision": "f7cb1da0d7cdb00501032d78911a3cdf"
   },
   {
-    "url": "assets/js/35.afd51e09.js",
-    "revision": "0a18db0e0bc8528ec576f34c0a0f0500"
+    "url": "assets/js/35.e5604877.js",
+    "revision": "3283085ab79c96cd1fc711258a7df94d"
   },
   {
-    "url": "assets/js/36.3bb3f587.js",
-    "revision": "f15595e03ea4a4820e7e856b2f28859c"
+    "url": "assets/js/36.330ccf35.js",
+    "revision": "b757ce6fcf96a07fa051b3e4fbd45c3c"
   },
   {
-    "url": "assets/js/37.766309b2.js",
-    "revision": "5194a08ed551f986b98717abbe6e24e0"
+    "url": "assets/js/37.6e7835e2.js",
+    "revision": "8881f67747dfaab2e1ebc48823c1ca9a"
   },
   {
-    "url": "assets/js/38.7cf2247e.js",
-    "revision": "c56f756fa35eac76fa2dc9f419fb4ac6"
+    "url": "assets/js/38.359832e2.js",
+    "revision": "b1b28ef563f60f2d9de79996214a2f1c"
   },
   {
-    "url": "assets/js/39.54c3e038.js",
-    "revision": "4ea6616c55674fa452cfdd480716d556"
+    "url": "assets/js/39.1b19618e.js",
+    "revision": "362d8dde5a75ba3d9b1aeca5192d30fe"
   },
   {
     "url": "assets/js/4.e00acd61.js",
     "revision": "cdf3a00f6702a73d3dae0300d746c0aa"
   },
   {
-    "url": "assets/js/40.30732f85.js",
-    "revision": "f366e1f2bf80f92d9088c81a287a0b81"
+    "url": "assets/js/40.e8f5fc1b.js",
+    "revision": "f0544521c83ab39c3b07cacef3ab34e5"
   },
   {
     "url": "assets/js/41.86010f23.js",
@@ -386,12 +386,12 @@ self.__precacheManifest = [
     "revision": "3fcfcb33d65c530c0a0b56b86874999d"
   },
   {
-    "url": "assets/js/48.38aa8fa6.js",
-    "revision": "233e4d9a698623cb07c75c5109090b63"
+    "url": "assets/js/48.56870dd0.js",
+    "revision": "97810fb7ce63097f72adb4bcc6369fa4"
   },
   {
-    "url": "assets/js/49.b2ad4e7d.js",
-    "revision": "cd855eb643ab2f2c8de81fd373d4d332"
+    "url": "assets/js/49.066a9555.js",
+    "revision": "7aa9641bb4c11316411d265ce9844525"
   },
   {
     "url": "assets/js/5.c605b54d.js",
@@ -410,52 +410,52 @@ self.__precacheManifest = [
     "revision": "7d60453c44ef6f9844813f122687956c"
   },
   {
-    "url": "assets/js/53.5e698ca0.js",
-    "revision": "7f2d9f5d13b276e7ed9aca45bbccdf8d"
+    "url": "assets/js/53.33e9471c.js",
+    "revision": "d6a243f51827ab59be3f7d2a30b41422"
   },
   {
-    "url": "assets/js/54.9ff6b7ea.js",
-    "revision": "d811f9487601975876a00469e1f71c80"
+    "url": "assets/js/54.34e3cf9b.js",
+    "revision": "a7912501dcb540432aa416450c3681a5"
   },
   {
-    "url": "assets/js/55.3a3782bc.js",
-    "revision": "5dddbbf4794779596dd15f5071ce78c2"
+    "url": "assets/js/55.17e6783f.js",
+    "revision": "5d292de79eb4183fa23ec6781a0819df"
   },
   {
-    "url": "assets/js/56.b0c2e334.js",
-    "revision": "c6c8f160cc6e5a83b75b000dda0964e8"
+    "url": "assets/js/56.dd08b1f2.js",
+    "revision": "e0e7bc07d5e8e4b35a373e3116e4d3b0"
   },
   {
-    "url": "assets/js/57.aed9ddd2.js",
-    "revision": "049ed1dc8d9ab31d15708445a339fdf0"
+    "url": "assets/js/57.e666cb0d.js",
+    "revision": "ca4b94101c272d5cb73263748aa21670"
   },
   {
     "url": "assets/js/58.fa4b6c8c.js",
     "revision": "919a6dac8c3d90225b131867a81c6040"
   },
   {
-    "url": "assets/js/59.8c9ce4d9.js",
-    "revision": "ecab25950dad46d0781571c116868a1c"
+    "url": "assets/js/59.d0b254ef.js",
+    "revision": "f0f2364dc6147619963fad7e6251cc3d"
   },
   {
     "url": "assets/js/6.c6fdf831.js",
     "revision": "023d90ac9389fff29b8df7e23a973132"
   },
   {
-    "url": "assets/js/60.e2cdd71c.js",
-    "revision": "4400e2aae7d798eee412e77112cc6def"
+    "url": "assets/js/60.e49fe5d8.js",
+    "revision": "a385346dfaaf5683a855fd52260378c6"
   },
   {
-    "url": "assets/js/61.59a55f5a.js",
-    "revision": "58874334aa9060677a384a356e7e833b"
+    "url": "assets/js/61.870e4343.js",
+    "revision": "77d487be9c8ce3ff1caa9654138a9358"
   },
   {
     "url": "assets/js/62.15bd553f.js",
     "revision": "f45174793cc0a65440ecc6aacea6b99a"
   },
   {
-    "url": "assets/js/63.15886c57.js",
-    "revision": "a171cff58efbd95dba982896d352efc1"
+    "url": "assets/js/63.5bd97d86.js",
+    "revision": "0af654a33a863f516fb3fcf58b2e275e"
   },
   {
     "url": "assets/js/64.1bdc71c5.js",
@@ -466,12 +466,12 @@ self.__precacheManifest = [
     "revision": "8ac1c5f9ac11fd342731c6fb962ab00f"
   },
   {
-    "url": "assets/js/66.443c50e3.js",
-    "revision": "2382b885006c85cb12e69f6b7e26cb96"
+    "url": "assets/js/66.a051029c.js",
+    "revision": "8206b7a91689ac24d653a6fe847f80c3"
   },
   {
-    "url": "assets/js/67.ebafd381.js",
-    "revision": "b8c059fa38d18d143d45eedc5a3e8490"
+    "url": "assets/js/67.1b93668b.js",
+    "revision": "9809dfc909af5e087b4bf1bf01b67727"
   },
   {
     "url": "assets/js/68.8c1cbc96.js",
@@ -486,16 +486,16 @@ self.__precacheManifest = [
     "revision": "774070e37ad447d4692b820a4c9fd9cb"
   },
   {
-    "url": "assets/js/70.96538737.js",
-    "revision": "3f098f1aa744b9011f57be80ce105dd8"
+    "url": "assets/js/70.cb029621.js",
+    "revision": "65571670590264788375898da9481509"
   },
   {
-    "url": "assets/js/71.13168efc.js",
-    "revision": "e0c2fa1869c10d750679f723f7d99a24"
+    "url": "assets/js/71.8bb434a7.js",
+    "revision": "58d9ce8c6e40377df8ddcc71844b5e04"
   },
   {
-    "url": "assets/js/72.5fa7b6ef.js",
-    "revision": "3ec0cb6121f865fb67e8b14f710eedfe"
+    "url": "assets/js/72.94e8288c.js",
+    "revision": "52c28d7076ef54317f6ebbea810532e8"
   },
   {
     "url": "assets/js/73.49f8e9c9.js",
@@ -598,8 +598,8 @@ self.__precacheManifest = [
     "revision": "a3865eb349e4e4c2e0159232ea9250cb"
   },
   {
-    "url": "assets/js/app.195f3b74.js",
-    "revision": "dddfbd3beea99f3a2f53f9b5427afee7"
+    "url": "assets/js/app.4ed10a38.js",
+    "revision": "2a505ccd5a6549749190f9539de1f87b"
   },
   {
     "url": "assets/js/vendors~flowchart.1a689dc7.js",
@@ -607,11 +607,11 @@ self.__precacheManifest = [
   },
   {
     "url": "authors/index.html",
-    "revision": "8d919549a54beac0a7e4d620daadb221"
+    "revision": "cabd48b5816c479d4f71e7cc537ffe55"
   },
   {
     "url": "authors/nuochong.html",
-    "revision": "331cdbb9f69663d8aea9caeb98fe1f31"
+    "revision": "58556612e446a3e6119696be91921aed"
   },
   {
     "url": "autores/github_awatar1.png",
@@ -631,15 +631,15 @@ self.__precacheManifest = [
   },
   {
     "url": "categories/backend.html",
-    "revision": "313266e3ff82a96ad353905e37e796a5"
+    "revision": "9d32cb3f879033f07b1628374cdbe1b7"
   },
   {
     "url": "categories/frontend.html",
-    "revision": "c8cb674bf7ef794df4a8f8190f92f624"
+    "revision": "1d88421759d57fdbde15341765105911"
   },
   {
     "url": "categories/index.html",
-    "revision": "e1ae0d76a386429f24eb8db563ae3367"
+    "revision": "7b077deea21f1ec2aff294f0e205f389"
   },
   {
     "url": "code/test.js",
@@ -647,11 +647,11 @@ self.__precacheManifest = [
   },
   {
     "url": "comments/index.html",
-    "revision": "fcd14ec1678bae344a151f40e99c2a69"
+    "revision": "e49b53e945e3e8cb70055e312f02986b"
   },
   {
     "url": "contact/index.html",
-    "revision": "c847d64d5a687607ac559ebfc802b760"
+    "revision": "f208986aaed486336489f0e22e5413b2"
   },
   {
     "url": "fallback.png",
@@ -815,7 +815,7 @@ self.__precacheManifest = [
   },
   {
     "url": "gallery/index.html",
-    "revision": "15c7729fde49cad0924decddac977b62"
+    "revision": "1ac3fef35d44a9165980c0ab047d4c86"
   },
   {
     "url": "gallery/thumbs/2-small.jpg",
@@ -1227,7 +1227,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "6b52d21b8b4236726be76bbfb1817f93"
+    "revision": "fc0fbbd5a1e3198b603b9ef22efda9e6"
   },
   {
     "url": "ktquez-play-logo.png",
@@ -1419,15 +1419,15 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/index.html",
-    "revision": "11069098bd5e21d45ae3ca44bde45f21"
+    "revision": "8eb5a911fdacb1091ee6ea88d447b7dc"
   },
   {
     "url": "posts/my-first-post.html",
-    "revision": "a7e7887f839413813a713968099d5361"
+    "revision": "97691e812cab98a676693910c2e7485a"
   },
   {
     "url": "travel/index.html",
-    "revision": "e5dd0ac86edeb44f05b2cdd84e1ee42e"
+    "revision": "cdfa814fc1c721296eb9953680dd5b53"
   },
   {
     "url": "watermark-logo.png",
@@ -1435,195 +1435,195 @@ self.__precacheManifest = [
   },
   {
     "url": "zh/about/index.html",
-    "revision": "f2a0dc2ce57949b0448ec6aa61474555"
+    "revision": "7b9cd69cf3b0cf6d9fc70e8423d5773e"
   },
   {
     "url": "zh/authors/index.html",
-    "revision": "d59e46e9f30e42f36ec56f173cb62698"
+    "revision": "04d3b8de580c217cb7c6e261c56b6592"
   },
   {
     "url": "zh/authors/nuochong.html",
-    "revision": "f36767feaa3b7a4d2663d2d3d5c12dc1"
+    "revision": "a13ebfb262ad9402438e48983dd1b0d5"
   },
   {
     "url": "zh/categories/backend.html",
-    "revision": "df3a5e3f7e48c44f8eaf803bbd2836ea"
+    "revision": "8eeed1ed7a03ca3eb8ebb575957d7b07"
   },
   {
     "url": "zh/categories/frontend.html",
-    "revision": "16a6789b68d036b5639ed6a5a1fc87d7"
+    "revision": "6492d22d6914405535e2c783baa8eefd"
   },
   {
     "url": "zh/categories/index.html",
-    "revision": "83bc8c9a0eb1b87537c2f7b41d38b483"
+    "revision": "46bc5edbd121fb9604965f596e933440"
   },
   {
     "url": "zh/comments/index.html",
-    "revision": "3c34a1518d80fbf33ee5608f82706aeb"
+    "revision": "5f3e4e23fcbc9aa73b75a5160da7ce51"
   },
   {
     "url": "zh/contact/index.html",
-    "revision": "ba2709852bbb29630fbf7a882d0af092"
+    "revision": "ef76de5ef0509327e1f7102edaee3932"
   },
   {
     "url": "zh/gallery/index.html",
-    "revision": "501a7f2afd9b40b96938ddbed72b4319"
+    "revision": "1a808bba5b06e719669bc2c98f6a798c"
   },
   {
     "url": "zh/index.html",
-    "revision": "9831ca33a44d49f138a46a4283f94097"
+    "revision": "126fe1678c203902de5838f2c35d1c1f"
   },
   {
     "url": "zh/posts/2019-nian-shi-fou-ke-yi-pao-qicss-yu-chu-li-qi-.html",
-    "revision": "128df5b271003e7e46d822d91bce88f3"
+    "revision": "25d22f2d511ba42e99ea8cb3fbca0f1e"
   },
   {
     "url": "zh/posts/array-yuan-xing-fang-fa-yuan-ma-shi-xian-da-jie-mi.html",
-    "revision": "5385174726e6c216f8917b7be32626ec"
+    "revision": "c6ec8a2714f0f5c2f9a162d60a27ac99"
   },
   {
     "url": "zh/posts/che-di-chi-toujavascript-de-zhi-xing-ji-zhi.html",
-    "revision": "93f20e016cc4bc7fce415f14bb2e2721"
+    "revision": "e6842166a024eddcd0ddde76a77ffe48"
   },
   {
     "url": "zh/posts/cong-ling-kai-shi-xie-yi-ge-fu-hepromises.html",
-    "revision": "3076f19480ace7928efb9d8a8559305d"
+    "revision": "cabd27fd80c42d064a86f65a48c941c9"
   },
   {
     "url": "zh/posts/css-di-si-ji-xuan-ze-qi.html",
-    "revision": "05407d828cd4043096cf02f52d5c0ffa"
+    "revision": "5b93f654b393b2522c3968a53135b79f"
   },
   {
     "url": "zh/posts/css-hun-he-mo-shi.html",
-    "revision": "04601bf09e0ca4fa08f4f59a1a81b647"
+    "revision": "f27ac6fd2103bc98de43ea463e4e6975"
   },
   {
     "url": "zh/posts/gang-gang-huan-hao-hao-de-zha-tu-ran-kua-yu-liao-.html",
-    "revision": "2380da3f3ae4b4ac16617d505c2aa232"
+    "revision": "5215715c3cd7db4b15f5036ea0b7feea"
   },
   {
     "url": "zh/posts/gong-zuo-zhong-bi-xu-yao-zhang-wo-de-ji-chong-wen-jian-lu-jing-zhi-shi.html",
-    "revision": "d9066ac58e48f0492ff0afc534a470d7"
+    "revision": "6acd5d905a2646387131683666139b5c"
   },
   {
     "url": "zh/posts/gu-ge-xin-ti-an-webbundlesapi-ke-zai-tuo-ji-zhuang-tai-shi-xian-nei-rong-fen-fa.html",
-    "revision": "b1a6fa3d7a6bf1ef30d92965554331e6"
+    "revision": "c8559e808ca94e29901285c0c3358192"
   },
   {
     "url": "zh/posts/hybridapp-chi-xian-bao-fang-an-shi-jian.html",
-    "revision": "46b270d97565a0f2c64c33de450ce3e1"
+    "revision": "dc4685e0a8a00f739d0ac0cb9cc4d787"
   },
   {
     "url": "zh/posts/index.html",
-    "revision": "514acabdb4afcf29673d32456a93eab7"
+    "revision": "065fd1cc9c821f3bdbcaddffec7edf53"
   },
   {
     "url": "zh/posts/javascript-es2019-de-xin-te-xing.html",
-    "revision": "f88b6428a0d35a1a046aefcad793f2c8"
+    "revision": "a8c50711accd28fec2a0e2285af9814d"
   },
   {
     "url": "zh/posts/javascript-yun-xing-yuan-li.html",
-    "revision": "b906f260399e3a58891f9404a4528865"
+    "revision": "54b55238a2fa10e1e5497271f8a9b527"
   },
   {
     "url": "zh/posts/javascript-zhong-de-shu-ju-jie-gou.html",
-    "revision": "f07d3cb45f6cff947dfe3ef89f507992"
+    "revision": "1ca4372233e8f8942493f87bdce61edf"
   },
   {
     "url": "zh/posts/ji-yi-ciwebpack-gou-jian-ti-su.html",
-    "revision": "f2d6bf34f7e5241178977fd1e0262e4c"
+    "revision": "8f3b48dfc40e6aa3dd19e3db2faa4b93"
   },
   {
     "url": "zh/posts/ji-yuvue-hets-deweb-yi-dong-duan-xiang-mu-shi-zhan-xin-de.html",
-    "revision": "9e3b0ee29b2de5e3fc04623d9a220086"
+    "revision": "b0397cd4d77e1bca69fabde3a250405a"
   },
   {
     "url": "zh/posts/js-zhong-ke-yi-ti-sheng-xing-fu-du-de-xiao-ji-qiao.html",
-    "revision": "2ef3cdae48ba416aedd72d744bce8b73"
+    "revision": "4b912c880ef86c4c43d226a5a0925626"
   },
   {
     "url": "zh/posts/li-qingtex-ketex-mathjax-letex......-de-guan-xi-ji-fu-hao-biao-shi-ji-he.html",
-    "revision": "74f1777e460f30b60508d7af3a3ad94a"
+    "revision": "84f772f4ce99b0395bde77801fae442a"
   },
   {
     "url": "zh/posts/liao-jiewasm-de-qian-shi-jin-shen.html",
-    "revision": "2d5468d866011d673b314571edfa1c01"
+    "revision": "beae7dc543cadbc34dbe610e6195d27f"
   },
   {
     "url": "zh/posts/my-first-post.html",
-    "revision": "30cfea616acbb11c4d19c622eaecb53e"
+    "revision": "c616af502425b68ac58ddb7f6b004e8b"
   },
   {
     "url": "zh/posts/ni-lianhttps-yuan-li-du-bu-dong-huan-jiang-zhong-jian-ren-gong-ji-.html",
-    "revision": "7af1c4b9614af96da99dcf6132345458"
+    "revision": "72112d6c89dac3ffbff0290d593c3ace"
   },
   {
     "url": "zh/posts/ni-zhen-de-dongpackage.json-ma-.html",
-    "revision": "e94a23d1282a32f5ad893a1af5c3fbba"
+    "revision": "c2a5deb3b57b3c74b241c6e5ecf49507"
   },
   {
     "url": "zh/posts/qian-duan-dai-ma-mei-hua-de-yi-zhu.html",
-    "revision": "744a0c6d8b3a68fc81b6676d7cf0f457"
+    "revision": "d8d1c5bc4c9590dfb3f48ae9ff767ac9"
   },
   {
     "url": "zh/posts/qian-duan-gong-cheng-shi-bi-xu-zhang-wo-debabel-zhi-shi.html",
-    "revision": "d0db6af2ac4d653bc053bbd4ebdb5b80"
+    "revision": "0f77ce42e5b3a495cd8f8a51d88ca3e3"
   },
   {
     "url": "zh/posts/qian-duancodereview-de-zui-jia-shi-jian-fang-an-lai-liao.html",
-    "revision": "e8eae4ec7d67f934c3b47ad58c5d5a08"
+    "revision": "6720d9444b2870b77f39c6022afc7132"
   },
   {
     "url": "zh/posts/qiao-yongcss-shi-xian-ku-xuan-de-chong-dian-dong-hua.html",
-    "revision": "8de3a8076980c0e5efdae818b377c039"
+    "revision": "f9c2fab867da3a0a8be69f6c2244ca10"
   },
   {
     "url": "zh/posts/ru-he-you-ya-chu-li-qian-duan-yi-chang-.html",
-    "revision": "4be89120cab9ced136faa2a3a7e0f00d"
+    "revision": "05166ec894b3009382199a75d2e2fc95"
   },
   {
     "url": "zh/posts/tong-yi-ge-zuo-biao-gu-ge-gao-de-bai-du-di-tu-ju-ran-zhi-xiang-liao-san-ge-bu-tong-de-di-fang.html",
-    "revision": "d75efec4bae161db4a8153511d5eb89f"
+    "revision": "f9dab5b8e08b6ca34484e3f79fa0d0bc"
   },
   {
     "url": "zh/posts/vue-zhe-xie-xiu-shi-fu-bang-wo-jie-sheng-wu-fen-zhi-yi-de-kai-fa-shi-jian.html",
-    "revision": "e976f7641c62be09b61cc8f5251d5067"
+    "revision": "22f55e5da00a1a83edf784cadb957ed0"
   },
   {
     "url": "zh/posts/web-chang-jian-gong-ji-zong-jie.html",
-    "revision": "337eadb9af96a4e6c7f5bae8fd88a81b"
+    "revision": "85b8a2074caec8cdda694163d55ae3c8"
   },
   {
     "url": "zh/posts/webcomponents-ru-men-shi-li-jiao-cheng.html",
-    "revision": "e7ba33388cd80b7181b0e551beaf7ed5"
+    "revision": "fdc214cafb6b3889a82061432680de8d"
   },
   {
     "url": "zh/posts/xun-xu-jian-jin-zhang-wojavascript-han-shu-de-jin-jie-zhi-nan.html",
-    "revision": "177d6e97826a6fb54809b933952d68fb"
+    "revision": "a58cd71616cb566ed7a6fccd861c19ec"
   },
   {
     "url": "zh/posts/yi-pian-chang-zuo-cuo-de-jing-dianjs-bi-bao-mian-shi-ti.html",
-    "revision": "0e0b0da6cb1879e18bc2cc4a4575c0b1"
+    "revision": "925c89a7ad0fee9b6778efd5b670828e"
   },
   {
     "url": "zh/posts/yi-pian-wen-zhang-che-di-gao-ding-fu-wen-ben-yuan-li.html",
-    "revision": "0a100f6d06c68c7975cf042e9470f182"
+    "revision": "523304d5a26219c128d71a49a6f9899d"
   },
   {
     "url": "zh/posts/yuan-shengjs-de-zhi-shi-xi-tong-shu-li.html",
-    "revision": "36540412ca42342ebf9733a2af0395ac"
+    "revision": "7794620ff18c093aaa57391fcd28f6cb"
   },
   {
     "url": "zh/posts/zui-chang-yong-degit-ming-ling-zong-jie.html",
-    "revision": "24e3ab3282ff8cb1d269826cd1f8d3b7"
+    "revision": "fc0d2afa11c24280ba674e6950f9a267"
   },
   {
     "url": "zh/posts/zuo-kai-yuan-ying-zhi-dao-de-san-ge-fa-lu-yao-dian.html",
-    "revision": "0154695bf77b5795ccbb6abdbfedaef6"
+    "revision": "8ddb9f5e8add10fe98df49c4a58e6b46"
   },
   {
     "url": "zh/travel/index.html",
-    "revision": "17239d0b5d0490faa286b5264d90ecb0"
+    "revision": "e23858f4635fdee6670a186ed69dcb79"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
