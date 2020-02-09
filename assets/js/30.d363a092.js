@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[30],{703:function(n,a,o){"use strict";o.r(a),a.default={minute:"minuto",second:"segundo",hour:"hora",min:"min",day:"dia",week:"semana",month:"mês",year:"ano",ago:"atrás","from now":"Para o ar","min to read":"min leitura","minutes to finish":"min para terminar"}}}]);
