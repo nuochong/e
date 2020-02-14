@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://luzhaoyang.com</id>
     <title></title>
-    <updated>2020-02-12T03:28:35.076Z</updated>
+    <updated>2020-02-14T09:20:15.746Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://luzhaoyang.com"/>
     <link rel="self" href="https://luzhaoyang.com/feed.atom"/>
@@ -11,14 +11,14 @@
         <id>https://luzhaoyang.com/zh/posts/javascript-es2019-de-xin-te-xing.html</id>
         <link href="https://luzhaoyang.com/zh/posts/javascript-es2019-de-xin-te-xing.html">
         </link>
-        <updated>2020-02-12T03:28:09.726Z</updated>
+        <updated>2020-02-14T09:20:15.666Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[刚刚还好好的，咋突然跨域了？]]></title>
         <id>https://luzhaoyang.com/zh/posts/gang-gang-huan-hao-hao-de-zha-tu-ran-kua-yu-liao-.html</id>
         <link href="https://luzhaoyang.com/zh/posts/gang-gang-huan-hao-hao-de-zha-tu-ran-kua-yu-liao-.html">
         </link>
-        <updated>2020-02-12T03:28:09.727Z</updated>
+        <updated>2020-02-14T09:20:15.669Z</updated>
         <summary type="html"><![CDATA[里面的错误提示很清晰，其实就是发生跨域了。]]></summary>
     </entry>
     <entry>
@@ -26,7 +26,7 @@
         <id>https://luzhaoyang.com/zh/posts/qian-duan-dai-ma-mei-hua-de-yi-zhu.html</id>
         <link href="https://luzhaoyang.com/zh/posts/qian-duan-dai-ma-mei-hua-de-yi-zhu.html">
         </link>
-        <updated>2020-02-12T03:28:09.728Z</updated>
+        <updated>2020-02-14T09:20:15.671Z</updated>
         <summary type="html"><![CDATA[在我看来，代码质量不仅体现在逻辑上，也要体现在形式上。尤其前端代码，在日渐复杂的单页面开发中，代码格式化不仅是为了美观，也是为了更好的阅读及检查。关于代码的格式化并没有统一的标准，每个人都有自己的见解，所以本文的目的以探讨和推荐为主。]]></summary>
     </entry>
     <entry>
@@ -34,7 +34,7 @@
         <id>https://luzhaoyang.com/zh/posts/tong-yi-ge-zuo-biao-gu-ge-gao-de-bai-du-di-tu-ju-ran-zhi-xiang-liao-san-ge-bu-tong-de-di-fang.html</id>
         <link href="https://luzhaoyang.com/zh/posts/tong-yi-ge-zuo-biao-gu-ge-gao-de-bai-du-di-tu-ju-ran-zhi-xiang-liao-san-ge-bu-tong-de-di-fang.html">
         </link>
-        <updated>2020-02-12T03:28:09.728Z</updated>
+        <updated>2020-02-14T09:20:15.671Z</updated>
         <summary type="html"><![CDATA[这个事情呢，还要从 GPS （ 全球定位系统 ）开始说起。]]></summary>
     </entry>
     <entry>
@@ -42,7 +42,7 @@
         <id>https://luzhaoyang.com/zh/posts/qiao-yongcss-shi-xian-ku-xuan-de-chong-dian-dong-hua.html</id>
         <link href="https://luzhaoyang.com/zh/posts/qiao-yongcss-shi-xian-ku-xuan-de-chong-dian-dong-hua.html">
         </link>
-        <updated>2020-02-12T03:28:09.728Z</updated>
+        <updated>2020-02-14T09:20:15.671Z</updated>
         <summary type="html"><![CDATA[如果要继续优化的话，需要添加点细节。
 我们知道，低电量时，电量通常表示为红色，高电量时表示为绿色。再给整个色块添加点阴影的变化，呼吸的感觉，让充电的效果看起来确实是在动。]]></summary>
     </entry>
@@ -51,7 +51,7 @@
         <id>https://luzhaoyang.com/zh/posts/zui-chang-yong-degit-ming-ling-zong-jie.html</id>
         <link href="https://luzhaoyang.com/zh/posts/zui-chang-yong-degit-ming-ling-zong-jie.html">
         </link>
-        <updated>2020-02-12T03:28:09.728Z</updated>
+        <updated>2020-02-14T09:20:15.671Z</updated>
         <summary type="html"><![CDATA[git stash pop 恢复暂存并删除暂存记录
 git stash list 查看暂存列表
 git stash drop 暂存名(例：stash@{0}) 移除某次暂存
@@ -62,31 +62,21 @@ git stash clear 清除暂存]]></summary>
         <id>https://luzhaoyang.com/zh/posts/li-qingtex-ketex-mathjax-letex......-de-guan-xi-ji-fu-hao-biao-shi-ji-he.html</id>
         <link href="https://luzhaoyang.com/zh/posts/li-qingtex-ketex-mathjax-letex......-de-guan-xi-ji-fu-hao-biao-shi-ji-he.html">
         </link>
-        <updated>2020-02-12T03:28:09.728Z</updated>
+        <updated>2020-02-14T09:20:15.672Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[纯CSS实现目录自动编号]]></title>
         <id>https://luzhaoyang.com/zh/posts/chuncss-shi-xian-mu-lu-zi-dong-bian-hao.html</id>
         <link href="https://luzhaoyang.com/zh/posts/chuncss-shi-xian-mu-lu-zi-dong-bian-hao.html">
         </link>
-        <updated>2020-02-12T03:28:09.728Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌新提案：WebBundlesAPI可在脱机状态实现内容分发]]></title>
-        <id>https://luzhaoyang.com/zh/posts/gu-ge-xin-ti-an-webbundlesapi-ke-zai-tuo-ji-zhuang-tai-shi-xian-nei-rong-fen-fa.html</id>
-        <link href="https://luzhaoyang.com/zh/posts/gu-ge-xin-ti-an-webbundlesapi-ke-zai-tuo-ji-zhuang-tai-shi-xian-nei-rong-fen-fa.html">
-        </link>
-        <updated>2020-02-12T03:28:09.729Z</updated>
-        <summary type="html"><![CDATA[::: tip
-在 2019 年 Chrome 开发者峰会 上，谷歌预览了全新的 Web Bundles API。这是一种基础架构 API，开发人员可以通过它以任何格式（电子邮件、FTP 甚至 USB）分发他们的 Web 内容，而内容本身不会有任何改动。这种技术不仅能够以闪电般的速度交付 Web 内容，而且即使用户处于脱机状态，也可以实现点对点内容分发。
-:::]]></summary>
+        <updated>2020-02-14T09:20:15.672Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[My First Post]]></title>
         <id>https://luzhaoyang.com/posts/my-first-post.html</id>
         <link href="https://luzhaoyang.com/posts/my-first-post.html">
         </link>
-        <updated>2020-02-12T03:28:09.729Z</updated>
+        <updated>2020-02-14T09:20:15.672Z</updated>
         <summary type="html"><![CDATA[Meta description, one of the three TDK tags on the original page, is also a page optimization element that SEO staff need to focus on optimization.]]></summary>
     </entry>
     <entry>
@@ -94,110 +84,96 @@ git stash clear 清除暂存]]></summary>
         <id>https://luzhaoyang.com/zh/posts/array-yuan-xing-fang-fa-yuan-ma-shi-xian-da-jie-mi.html</id>
         <link href="https://luzhaoyang.com/zh/posts/array-yuan-xing-fang-fa-yuan-ma-shi-xian-da-jie-mi.html">
         </link>
-        <updated>2020-02-12T03:28:09.729Z</updated>
-        <summary type="html"><![CDATA[map方法的主要功能就是把原数组中的每个元素按顺序执行一次 callbackfn 函数，并且把所有返回的结果组合在一起生成一个新的数组，map方法的返回值就是这个新数组。]]></summary>
+        <updated>2020-02-14T09:20:15.673Z</updated>
+        <summary type="html"><![CDATA[几个常用数组方法的使用方式已经在【进阶 6-1 期】 中介绍过了，今天这篇文章主要看看 ECMA-262 规范中是如何定义这些方法的，并且在看完规范后我们用 JS 模拟实现下，透过源码探索一些底层的知识，希望本文对你有所帮助。]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[CSS混合模式]]></title>
         <id>https://luzhaoyang.com/zh/posts/css-hun-he-mo-shi.html</id>
         <link href="https://luzhaoyang.com/zh/posts/css-hun-he-mo-shi.html">
         </link>
-        <updated>2020-02-12T03:28:35.009Z</updated>
-        <summary type="html"><![CDATA[| :------------- | :----------- | :----------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| normal         | normal       | 正常模式     | 混合色的像素会透过所用的颜色显示出来                                                                                                                                                         |
-| multiply       | multiply     | 正片叠底模式 | 在“正片叠底”模式中，查看每个通道中的颜色信息，并将“基色”与“混合色”复合。                                                                                                                     |
-| screen         | screen       | 滤色模式     | “滤色”模式与“正片叠底”模式正好相反，它将图像的“基色”颜色与“混合色”颜色结合起来产生比两种颜色都浅的第三种颜色                                                                                 |
-| overlay        | overlay      | 叠加模式     | “叠加”模式把图像的“基色”颜色与“混合色”颜色相混合产生一种中间色。                                                                                                                             |
-| darken         | darken       | 变暗模式     | 在“变暗”模式中，查看每个通道中的颜色信息，并选择“基色”或“混合色”中较暗的颜色作为“结果色”。                                                                                                   |
-| lighten        | lighten      | 变亮模式     | 在“变亮”模式中，查看每个通道中的颜色信息，并选择“基色”或“混合色”中较亮的颜色作为“结果色”。                                                                                                   |
-| color-dodge    | color-dodge  | 颜色减淡模式 | 在“颜色减淡”模式中，查看每个通道中的颜色信息，并通过减小对比度使基色变亮以反映混合色。与黑色混合则不发生变化。                                                                               |
-| color-burn     | color-burn   | 颜色加深模式 | 在“颜色加深”模式中，查看每个通道中的颜色信息，并通过增加对比度使基色变暗以反映混合色，如果与白色混合的话将不会产生变化。                                                                     |
-| hard-light     | hard-light   | 强光模式     | “强光”模式将产生一种强光照射的效果。如果“混合色”颜色“基色”颜色的像素更亮一些，那么“结果色”颜色将更亮；如果“混合色”颜色比“基色”颜色的像素更暗一些，那么“结果色”将更暗。                       |
-| soft-light     | soft-light   | 柔光模式     | 柔光”模式会产生一种柔光照射的效果。如果“混合色”颜色比“基色颜色的像素更亮一些，那么“结果色”将更亮；如果“混合色”颜色比“基色”颜色的像素更暗一些，那么“结果色”颜色将更暗，使图像的亮度反差增大。 |
-| difference     | difference   | 差值模式     | 在“差值”模式中，查看每个通道中的颜色信息，“差值”模式是将从图像中“基色”颜色的亮度值减去“混合色”颜色的亮度值，如果结果为负，则取正值，产生反相效果。                                           |
-| exclusion      | exclusion    | 排除模式     | “排除”模式与“差值”模式相似，但是具有高对比度和低饱和度的特点。比用“差值”模式获得的颜色要柔和、更明亮一些。                                                                                   |
-| hue            | hue          | 色相模式     | “色相”模式只用“混合色”颜色的色相值进行着色，而使饱和度和亮度值保持不变。                                                                                                                     |
-| saturation     | saturation   | 饱和度模式   | “饱和度”模式的作用方式与“色相”模式相似，它只用“混合色”颜色的饱和度值进行着色，而使色相值和亮度值保持不变。                                                                                   |
-| color          | color        | 颜色模式     | “颜色”模式能够使用“混合色”颜色的饱和度值和色相值同时进行着色，而使“基色”颜色的亮度值保持不变。“颜色”模式模式可以看成是“饱合度”模式和“色相”模式的综合效果。                                   |
-| luminosity     | luminosity   | 亮度模式     | “亮度”模式能够使用“混合色”颜色的亮度值进行着色，而保持“基色”颜色的饱和度和色相数值不变。其实就是用“基色”中的“色相”和“饱和度”以及“混合色”的亮度创建“结果色”。                                 |]]></summary>
+        <updated>2020-02-14T09:20:15.673Z</updated>
+        <summary type="html"><![CDATA[其中每一种混合模式都有其自的计算模式]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[CSS第四级选择器]]></title>
         <id>https://luzhaoyang.com/zh/posts/css-di-si-ji-xuan-ze-qi.html</id>
         <link href="https://luzhaoyang.com/zh/posts/css-di-si-ji-xuan-ze-qi.html">
         </link>
-        <updated>2020-02-12T03:28:35.009Z</updated>
-        <summary type="html"><![CDATA[例如：]]></summary>
+        <updated>2020-02-14T09:20:15.673Z</updated>
+        <summary type="html"><![CDATA[事实上，这样做的方法不止一种，一些方法甚至更复杂。]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[JS中可以提升幸福度的小技巧]]></title>
         <id>https://luzhaoyang.com/zh/posts/js-zhong-ke-yi-ti-sheng-xing-fu-du-de-xiao-ji-qiao.html</id>
         <link href="https://luzhaoyang.com/zh/posts/js-zhong-ke-yi-ti-sheng-xing-fu-du-de-xiao-ji-qiao.html">
         </link>
-        <updated>2020-02-12T03:28:35.010Z</updated>
-        <summary type="html"><![CDATA[mandatory = () => {
-  throw new Error('Missing parameter!');
-};
-foo = (bar = mandatory()) => {
-  // 这里如果不传入参数，就会执行manadatory函数报出错误
-  return bar;
-};
+        <updated>2020-02-14T09:20:15.673Z</updated>
+        <summary type="html"><![CDATA[null * 1;
+// 0
+undefined * 1;
+// NaN
+1 * { valueOf: () => '3' };
+// 3
 `]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript运行原理]]></title>
-        <id>https://luzhaoyang.com/zh/posts/javascript-yun-xing-yuan-li.html</id>
-        <link href="https://luzhaoyang.com/zh/posts/javascript-yun-xing-yuan-li.html">
-        </link>
-        <updated>2020-02-12T03:28:35.011Z</updated>
-        <summary type="html"><![CDATA[JavaScript 引擎的整体工作原理就是这样。相信您无需学习 JavaScript 也可以理解。当然，您甚至可以在不知道 JavaScript 如何工作的情况下编写代码。但是，如果我们了解一些幕后的知识，或许能让我们编写出更好的代码。]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[HybridApp离线包方案实践]]></title>
         <id>https://luzhaoyang.com/zh/posts/hybridapp-chi-xian-bao-fang-an-shi-jian.html</id>
         <link href="https://luzhaoyang.com/zh/posts/hybridapp-chi-xian-bao-fang-an-shi-jian.html">
         </link>
-        <updated>2020-02-12T03:28:35.011Z</updated>
-        <summary type="html"><![CDATA[e.printStackTrace();
-    }
-    return null;
-  }
-}
-`]]></summary>
+        <updated>2020-02-14T09:20:15.673Z</updated>
+        <summary type="html"><![CDATA[当然还有很多其它方面的优化，这里就不再赘述了。本文重点讲的是，在与静态资源服务器建立连接，然后接收前端静态资源的过程。由于这个过程过于依赖用户当前所处的网络环境，因此也成了最不可控因素。当用户处于弱网时，页面加载速度可能会达到 4 到 5 s 甚至更久，严重影响用户体验。而离线包方案就是解决该问题的一个比较成熟的方案。]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Vue这些修饰符帮我节省五分之一的开发时间]]></title>
         <id>https://luzhaoyang.com/zh/posts/vue-zhe-xie-xiu-shi-fu-bang-wo-jie-sheng-wu-fen-zhi-yi-de-kai-fa-shi-jian.html</id>
         <link href="https://luzhaoyang.com/zh/posts/vue-zhe-xie-xiu-shi-fu-bang-wo-jie-sheng-wu-fen-zhi-yi-de-kai-fa-shi-jian.html">
         </link>
-        <updated>2020-02-12T03:28:35.015Z</updated>
-        <summary type="html"><![CDATA[ok
-`]]></summary>
+        <updated>2020-02-14T09:20:15.674Z</updated>
+        <summary type="html"><![CDATA[为了让你更清楚的看到，我改了一下样式，不过问题不大，相信你已经清楚看到这个大大的 hello 左右两边没有空格，尽管你在 input 框里敲烂了空格键。
+需要注意的是，它只能过滤首尾的空格！首尾，中间的是不会过滤的]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript运行原理]]></title>
+        <id>https://luzhaoyang.com/zh/posts/javascript-yun-xing-yuan-li.html</id>
+        <link href="https://luzhaoyang.com/zh/posts/javascript-yun-xing-yuan-li.html">
+        </link>
+        <updated>2020-02-14T09:20:15.674Z</updated>
+        <summary type="html"><![CDATA[::: tip
+是谁发明了 JavaScript 引擎？
+:::]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[WebComponents入门实例教程]]></title>
         <id>https://luzhaoyang.com/zh/posts/webcomponents-ru-men-shi-li-jiao-cheng.html</id>
         <link href="https://luzhaoyang.com/zh/posts/webcomponents-ru-men-shi-li-jiao-cheng.html">
         </link>
-        <updated>2020-02-12T03:28:35.015Z</updated>
-        <summary type="html"><![CDATA[yourmail@some-email.com
-    Follow
-
-`]]></summary>
+        <updated>2020-02-14T09:20:15.674Z</updated>
+        <summary type="html"><![CDATA[自定义元素``目前还是空的，下面在类里面给出这个元素的内容。]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Web常见攻击总结]]></title>
         <id>https://luzhaoyang.com/zh/posts/web-chang-jian-gong-ji-zong-jie.html</id>
         <link href="https://luzhaoyang.com/zh/posts/web-chang-jian-gong-ji-zong-jie.html">
         </link>
-        <updated>2020-02-12T03:28:35.015Z</updated>
+        <updated>2020-02-14T09:20:15.674Z</updated>
+        <summary type="html"><![CDATA[「如何防御 XSS」]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[了解wasm的前世今身]]></title>
+        <id>https://luzhaoyang.com/zh/posts/liao-jiewasm-de-qian-shi-jin-shen.html</id>
+        <link href="https://luzhaoyang.com/zh/posts/liao-jiewasm-de-qian-shi-jin-shen.html">
+        </link>
+        <updated>2020-02-14T09:20:15.674Z</updated>
+        <summary type="html"><![CDATA[但是除了逻辑复杂、代码量大，还有另一个原因是 JavaScript 这门语言本身的缺陷，JavaScript 没有静态变量类型。这门解释型编程语言的作者 Brendan Eich，仓促的创造了这门如果被广泛使用的语言，以至于 JavaScript 的发展史甚至在某种层面上变成了填坑史。为什么说没有静态类型会降低效率。这会涉及到一些 JavaScript 引擎的一些知识。]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[我的首篇文章]]></title>
         <id>https://luzhaoyang.com/zh/posts/my-first-post.html</id>
         <link href="https://luzhaoyang.com/zh/posts/my-first-post.html">
         </link>
-        <updated>2020-02-12T03:28:35.015Z</updated>
+        <updated>2020-02-14T09:20:15.675Z</updated>
         <summary type="html"><![CDATA[描述（meta description），是原页面三大标签TDK中之一，同时也是SEO人员需要着重优化的一个页面优化元素。]]></summary>
     </entry>
 </feed>
