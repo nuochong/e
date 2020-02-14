@@ -4,7 +4,7 @@
         <title></title>
         <link>https://luzhaoyang.com</link>
         <description></description>
-        <lastBuildDate>Fri, 14 Feb 2020 09:41:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Feb 2020 10:43:46 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://luzhaoyang.com/feed.atom" rel="self" type="application/rss+xml"/>
@@ -12,13 +12,13 @@
             <title><![CDATA[JavaScript：ES2019的新特性]]></title>
             <link>https://luzhaoyang.com/zh/posts/javascript-es2019-de-xin-te-xing.html</link>
             <guid>https://luzhaoyang.com/zh/posts/javascript-es2019-de-xin-te-xing.html</guid>
-            <pubDate>Fri, 14 Feb 2020 09:40:43 GMT</pubDate>
+            <pubDate>Fri, 14 Feb 2020 10:43:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[刚刚还好好的，咋突然跨域了？]]></title>
             <link>https://luzhaoyang.com/zh/posts/gang-gang-huan-hao-hao-de-zha-tu-ran-kua-yu-liao-.html</link>
             <guid>https://luzhaoyang.com/zh/posts/gang-gang-huan-hao-hao-de-zha-tu-ran-kua-yu-liao-.html</guid>
-            <pubDate>Fri, 14 Feb 2020 09:40:43 GMT</pubDate>
+            <pubDate>Fri, 14 Feb 2020 10:43:19 GMT</pubDate>
             <description><![CDATA[里面的错误提示很清晰，其实就是发生跨域了。]]></description>
             <enclosure url="https://luzhaoyang.com/images/刚刚还好好的，咋突然跨域了？/640-1.webp">
             </enclosure>
@@ -27,7 +27,7 @@
             <title><![CDATA[前端代码美化的艺术]]></title>
             <link>https://luzhaoyang.com/zh/posts/qian-duan-dai-ma-mei-hua-de-yi-zhu.html</link>
             <guid>https://luzhaoyang.com/zh/posts/qian-duan-dai-ma-mei-hua-de-yi-zhu.html</guid>
-            <pubDate>Fri, 14 Feb 2020 09:40:43 GMT</pubDate>
+            <pubDate>Fri, 14 Feb 2020 10:43:19 GMT</pubDate>
             <description><![CDATA[在我看来，代码质量不仅体现在逻辑上，也要体现在形式上。尤其前端代码，在日渐复杂的单页面开发中，代码格式化不仅是为了美观，也是为了更好的阅读及检查。关于代码的格式化并没有统一的标准，每个人都有自己的见解，所以本文的目的以探讨和推荐为主。]]></description>
             <enclosure url="https://luzhaoyang.com/images/前端代码美化的艺术/640.webp">
             </enclosure>
@@ -36,7 +36,7 @@
             <title><![CDATA[同一个坐标，谷歌、高德、百度地图居然指向了三个不同的地方]]></title>
             <link>https://luzhaoyang.com/zh/posts/tong-yi-ge-zuo-biao-gu-ge-gao-de-bai-du-di-tu-ju-ran-zhi-xiang-liao-san-ge-bu-tong-de-di-fang.html</link>
             <guid>https://luzhaoyang.com/zh/posts/tong-yi-ge-zuo-biao-gu-ge-gao-de-bai-du-di-tu-ju-ran-zhi-xiang-liao-san-ge-bu-tong-de-di-fang.html</guid>
-            <pubDate>Fri, 14 Feb 2020 09:40:43 GMT</pubDate>
+            <pubDate>Fri, 14 Feb 2020 10:43:19 GMT</pubDate>
             <description><![CDATA[这个事情呢，还要从 GPS （ 全球定位系统 ）开始说起。]]></description>
             <enclosure url="https://luzhaoyang.com/images/同一个坐标，谷歌、高德、百度地图居然指向了三个不同的地方/5caf13406227685daf019539_1024.jpg">
             </enclosure>
@@ -45,7 +45,7 @@
             <title><![CDATA[巧用CSS实现酷炫的充电动画]]></title>
             <link>https://luzhaoyang.com/zh/posts/qiao-yongcss-shi-xian-ku-xuan-de-chong-dian-dong-hua.html</link>
             <guid>https://luzhaoyang.com/zh/posts/qiao-yongcss-shi-xian-ku-xuan-de-chong-dian-dong-hua.html</guid>
-            <pubDate>Fri, 14 Feb 2020 09:40:43 GMT</pubDate>
+            <pubDate>Fri, 14 Feb 2020 10:43:19 GMT</pubDate>
             <description><![CDATA[如果要继续优化的话，需要添加点细节。
 我们知道，低电量时，电量通常表示为红色，高电量时表示为绿色。再给整个色块添加点阴影的变化，呼吸的感觉，让充电的效果看起来确实是在动。]]></description>
             <enclosure url="https://luzhaoyang.com/images/巧用CSS实现酷炫的充电动画/微信图片_20200101150753.jpg">
@@ -55,7 +55,7 @@
             <title><![CDATA[最常用的Git命令总结]]></title>
             <link>https://luzhaoyang.com/zh/posts/zui-chang-yong-degit-ming-ling-zong-jie.html</link>
             <guid>https://luzhaoyang.com/zh/posts/zui-chang-yong-degit-ming-ling-zong-jie.html</guid>
-            <pubDate>Fri, 14 Feb 2020 09:40:43 GMT</pubDate>
+            <pubDate>Fri, 14 Feb 2020 10:43:19 GMT</pubDate>
             <description><![CDATA[git stash pop 恢复暂存并删除暂存记录
 git stash list 查看暂存列表
 git stash drop 暂存名(例：stash@{0}) 移除某次暂存
@@ -65,13 +65,13 @@ git stash clear 清除暂存]]></description>
             <title><![CDATA[理清TeX、KeTeX、MathJax、LeTeX……的关系及符号表示集合]]></title>
             <link>https://luzhaoyang.com/zh/posts/li-qingtex-ketex-mathjax-letex......-de-guan-xi-ji-fu-hao-biao-shi-ji-he.html</link>
             <guid>https://luzhaoyang.com/zh/posts/li-qingtex-ketex-mathjax-letex......-de-guan-xi-ji-fu-hao-biao-shi-ji-he.html</guid>
-            <pubDate>Fri, 14 Feb 2020 09:40:43 GMT</pubDate>
+            <pubDate>Fri, 14 Feb 2020 10:43:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[纯CSS实现目录自动编号]]></title>
             <link>https://luzhaoyang.com/zh/posts/chuncss-shi-xian-mu-lu-zi-dong-bian-hao.html</link>
             <guid>https://luzhaoyang.com/zh/posts/chuncss-shi-xian-mu-lu-zi-dong-bian-hao.html</guid>
-            <pubDate>Fri, 14 Feb 2020 09:40:43 GMT</pubDate>
+            <pubDate>Fri, 14 Feb 2020 10:43:19 GMT</pubDate>
             <enclosure url="https://luzhaoyang.com/images/纯CSS实现目录自动编号/chapter1.png">
             </enclosure>
         </item>
@@ -79,7 +79,7 @@ git stash clear 清除暂存]]></description>
             <title><![CDATA[谷歌新提案：WebBundlesAPI可在脱机状态实现内容分发]]></title>
             <link>https://luzhaoyang.com/zh/posts/gu-ge-xin-ti-an-webbundlesapi-ke-zai-tuo-ji-zhuang-tai-shi-xian-nei-rong-fen-fa.html</link>
             <guid>https://luzhaoyang.com/zh/posts/gu-ge-xin-ti-an-webbundlesapi-ke-zai-tuo-ji-zhuang-tai-shi-xian-nei-rong-fen-fa.html</guid>
-            <pubDate>Fri, 14 Feb 2020 09:40:43 GMT</pubDate>
+            <pubDate>Fri, 14 Feb 2020 10:43:19 GMT</pubDate>
             <description><![CDATA[::: tip
 在 2019 年 Chrome 开发者峰会 上，谷歌预览了全新的 Web Bundles API。这是一种基础架构 API，开发人员可以通过它以任何格式（电子邮件、FTP 甚至 USB）分发他们的 Web 内容，而内容本身不会有任何改动。这种技术不仅能够以闪电般的速度交付 Web 内容，而且即使用户处于脱机状态，也可以实现点对点内容分发。
 :::]]></description>
@@ -90,7 +90,7 @@ git stash clear 清除暂存]]></description>
             <title><![CDATA[My First Post]]></title>
             <link>https://luzhaoyang.com/posts/my-first-post.html</link>
             <guid>https://luzhaoyang.com/posts/my-first-post.html</guid>
-            <pubDate>Fri, 14 Feb 2020 09:40:43 GMT</pubDate>
+            <pubDate>Fri, 14 Feb 2020 10:43:19 GMT</pubDate>
             <description><![CDATA[Meta description, one of the three TDK tags on the original page, is also a page optimization element that SEO staff need to focus on optimization.]]></description>
             <enclosure url="https://luzhaoyang.com/images/posts-base/2018/8/my-first-post.png">
             </enclosure>
@@ -99,14 +99,14 @@ git stash clear 清除暂存]]></description>
             <title><![CDATA[Array原型方法源码实现大解密]]></title>
             <link>https://luzhaoyang.com/zh/posts/array-yuan-xing-fang-fa-yuan-ma-shi-xian-da-jie-mi.html</link>
             <guid>https://luzhaoyang.com/zh/posts/array-yuan-xing-fang-fa-yuan-ma-shi-xian-da-jie-mi.html</guid>
-            <pubDate>Fri, 14 Feb 2020 09:40:43 GMT</pubDate>
+            <pubDate>Fri, 14 Feb 2020 10:43:19 GMT</pubDate>
             <description><![CDATA[map方法的主要功能就是把原数组中的每个元素按顺序执行一次 callbackfn 函数，并且把所有返回的结果组合在一起生成一个新的数组，map方法的返回值就是这个新数组。]]></description>
         </item>
         <item>
             <title><![CDATA[CSS混合模式]]></title>
             <link>https://luzhaoyang.com/zh/posts/css-hun-he-mo-shi.html</link>
             <guid>https://luzhaoyang.com/zh/posts/css-hun-he-mo-shi.html</guid>
-            <pubDate>Fri, 14 Feb 2020 09:41:17 GMT</pubDate>
+            <pubDate>Fri, 14 Feb 2020 10:43:46 GMT</pubDate>
             <description><![CDATA[| :------------- | :----------- | :----------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | normal         | normal       | 正常模式     | 混合色的像素会透过所用的颜色显示出来                                                                                                                                                         |
 | multiply       | multiply     | 正片叠底模式 | 在“正片叠底”模式中，查看每个通道中的颜色信息，并将“基色”与“混合色”复合。                                                                                                                     |
@@ -129,7 +129,7 @@ git stash clear 清除暂存]]></description>
             <title><![CDATA[CSS第四级选择器]]></title>
             <link>https://luzhaoyang.com/zh/posts/css-di-si-ji-xuan-ze-qi.html</link>
             <guid>https://luzhaoyang.com/zh/posts/css-di-si-ji-xuan-ze-qi.html</guid>
-            <pubDate>Fri, 14 Feb 2020 09:41:17 GMT</pubDate>
+            <pubDate>Fri, 14 Feb 2020 10:43:46 GMT</pubDate>
             <description><![CDATA[例如：]]></description>
             <enclosure url="https://luzhaoyang.com/images/CSS第四级选择器/640-4.webp">
             </enclosure>
@@ -138,7 +138,7 @@ git stash clear 清除暂存]]></description>
             <title><![CDATA[HybridApp离线包方案实践]]></title>
             <link>https://luzhaoyang.com/zh/posts/hybridapp-chi-xian-bao-fang-an-shi-jian.html</link>
             <guid>https://luzhaoyang.com/zh/posts/hybridapp-chi-xian-bao-fang-an-shi-jian.html</guid>
-            <pubDate>Fri, 14 Feb 2020 09:41:17 GMT</pubDate>
+            <pubDate>Fri, 14 Feb 2020 10:43:46 GMT</pubDate>
             <description><![CDATA[WebResourceResponse resourceResponse = getWebResourceResponse(url);
     if (resourceResponse == null) {
       return super.shouldInterceptRequest(view, request);
@@ -152,14 +152,14 @@ git stash clear 清除暂存]]></description>
             <title><![CDATA[JS中可以提升幸福度的小技巧]]></title>
             <link>https://luzhaoyang.com/zh/posts/js-zhong-ke-yi-ti-sheng-xing-fu-du-de-xiao-ji-qiao.html</link>
             <guid>https://luzhaoyang.com/zh/posts/js-zhong-ke-yi-ti-sheng-xing-fu-du-de-xiao-ji-qiao.html</guid>
-            <pubDate>Fri, 14 Feb 2020 09:41:17 GMT</pubDate>
+            <pubDate>Fri, 14 Feb 2020 10:43:46 GMT</pubDate>
             <description><![CDATA[要返回多行语句（例如对象文本），需要使用()而不是{}来包裹函数体。这样可以确保代码以单个语句的形式进行求值。]]></description>
         </item>
         <item>
             <title><![CDATA[JavaScript运行原理]]></title>
             <link>https://luzhaoyang.com/zh/posts/javascript-yun-xing-yuan-li.html</link>
             <guid>https://luzhaoyang.com/zh/posts/javascript-yun-xing-yuan-li.html</guid>
-            <pubDate>Fri, 14 Feb 2020 09:41:17 GMT</pubDate>
+            <pubDate>Fri, 14 Feb 2020 10:43:46 GMT</pubDate>
             <description><![CDATA[JavaScript 引擎的整体工作原理就是这样。相信您无需学习 JavaScript 也可以理解。当然，您甚至可以在不知道 JavaScript 如何工作的情况下编写代码。但是，如果我们了解一些幕后的知识，或许能让我们编写出更好的代码。]]></description>
             <enclosure url="https://luzhaoyang.com/images/JavaScript运行原理/640-7.webp">
             </enclosure>
@@ -168,7 +168,7 @@ git stash clear 清除暂存]]></description>
             <title><![CDATA[Vue这些修饰符帮我节省五分之一的开发时间]]></title>
             <link>https://luzhaoyang.com/zh/posts/vue-zhe-xie-xiu-shi-fu-bang-wo-jie-sheng-wu-fen-zhi-yi-de-kai-fa-shi-jian.html</link>
             <guid>https://luzhaoyang.com/zh/posts/vue-zhe-xie-xiu-shi-fu-bang-wo-jie-sheng-wu-fen-zhi-yi-de-kai-fa-shi-jian.html</guid>
-            <pubDate>Fri, 14 Feb 2020 09:41:17 GMT</pubDate>
+            <pubDate>Fri, 14 Feb 2020 10:43:46 GMT</pubDate>
             <description><![CDATA[ok
 ok
 ok
@@ -180,24 +180,21 @@ ok
             <title><![CDATA[Web常见攻击总结]]></title>
             <link>https://luzhaoyang.com/zh/posts/web-chang-jian-gong-ji-zong-jie.html</link>
             <guid>https://luzhaoyang.com/zh/posts/web-chang-jian-gong-ji-zong-jie.html</guid>
-            <pubDate>Fri, 14 Feb 2020 09:41:17 GMT</pubDate>
+            <pubDate>Fri, 14 Feb 2020 10:43:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[一篇常做错的经典JS闭包面试题]]></title>
+            <link>https://luzhaoyang.com/zh/posts/yi-pian-chang-zuo-cuo-de-jing-dianjs-bi-bao-mian-shi-ti.html</link>
+            <guid>https://luzhaoyang.com/zh/posts/yi-pian-chang-zuo-cuo-de-jing-dianjs-bi-bao-mian-shi-ti.html</guid>
+            <pubDate>Fri, 14 Feb 2020 10:43:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[WebComponents入门实例教程]]></title>
             <link>https://luzhaoyang.com/zh/posts/webcomponents-ru-men-shi-li-jiao-cheng.html</link>
             <guid>https://luzhaoyang.com/zh/posts/webcomponents-ru-men-shi-li-jiao-cheng.html</guid>
-            <pubDate>Fri, 14 Feb 2020 09:41:17 GMT</pubDate>
-            <description><![CDATA[User Name]]></description>
+            <pubDate>Fri, 14 Feb 2020 10:43:46 GMT</pubDate>
+            <description><![CDATA[组件是前端的发展方向，现在流行的 React 和 Vue 都是组件框架。]]></description>
             <enclosure url="https://luzhaoyang.com/images/WebComponents入门实例教程/微信图片_20200113111110.jpg">
-            </enclosure>
-        </item>
-        <item>
-            <title><![CDATA[我的首篇文章]]></title>
-            <link>https://luzhaoyang.com/zh/posts/my-first-post.html</link>
-            <guid>https://luzhaoyang.com/zh/posts/my-first-post.html</guid>
-            <pubDate>Fri, 14 Feb 2020 09:41:17 GMT</pubDate>
-            <description><![CDATA[描述（meta description），是原页面三大标签TDK中之一，同时也是SEO人员需要着重优化的一个页面优化元素。]]></description>
-            <enclosure url="https://luzhaoyang.com/images/posts-base/2018/8/my-first-post.png">
             </enclosure>
         </item>
     </channel>
