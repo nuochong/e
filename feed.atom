@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://luzhaoyang.com</id>
     <title></title>
-    <updated>2020-02-14T10:43:46.420Z</updated>
+    <updated>2020-02-14T11:05:28.633Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://luzhaoyang.com"/>
     <link rel="self" href="https://luzhaoyang.com/feed.atom"/>
@@ -11,14 +11,14 @@
         <id>https://luzhaoyang.com/zh/posts/javascript-es2019-de-xin-te-xing.html</id>
         <link href="https://luzhaoyang.com/zh/posts/javascript-es2019-de-xin-te-xing.html">
         </link>
-        <updated>2020-02-14T10:43:19.140Z</updated>
+        <updated>2020-02-14T11:05:06.581Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[刚刚还好好的，咋突然跨域了？]]></title>
         <id>https://luzhaoyang.com/zh/posts/gang-gang-huan-hao-hao-de-zha-tu-ran-kua-yu-liao-.html</id>
         <link href="https://luzhaoyang.com/zh/posts/gang-gang-huan-hao-hao-de-zha-tu-ran-kua-yu-liao-.html">
         </link>
-        <updated>2020-02-14T10:43:19.143Z</updated>
+        <updated>2020-02-14T11:05:06.582Z</updated>
         <summary type="html"><![CDATA[里面的错误提示很清晰，其实就是发生跨域了。]]></summary>
     </entry>
     <entry>
@@ -26,7 +26,7 @@
         <id>https://luzhaoyang.com/zh/posts/qian-duan-dai-ma-mei-hua-de-yi-zhu.html</id>
         <link href="https://luzhaoyang.com/zh/posts/qian-duan-dai-ma-mei-hua-de-yi-zhu.html">
         </link>
-        <updated>2020-02-14T10:43:19.144Z</updated>
+        <updated>2020-02-14T11:05:06.583Z</updated>
         <summary type="html"><![CDATA[在我看来，代码质量不仅体现在逻辑上，也要体现在形式上。尤其前端代码，在日渐复杂的单页面开发中，代码格式化不仅是为了美观，也是为了更好的阅读及检查。关于代码的格式化并没有统一的标准，每个人都有自己的见解，所以本文的目的以探讨和推荐为主。]]></summary>
     </entry>
     <entry>
@@ -34,7 +34,7 @@
         <id>https://luzhaoyang.com/zh/posts/tong-yi-ge-zuo-biao-gu-ge-gao-de-bai-du-di-tu-ju-ran-zhi-xiang-liao-san-ge-bu-tong-de-di-fang.html</id>
         <link href="https://luzhaoyang.com/zh/posts/tong-yi-ge-zuo-biao-gu-ge-gao-de-bai-du-di-tu-ju-ran-zhi-xiang-liao-san-ge-bu-tong-de-di-fang.html">
         </link>
-        <updated>2020-02-14T10:43:19.144Z</updated>
+        <updated>2020-02-14T11:05:06.583Z</updated>
         <summary type="html"><![CDATA[这个事情呢，还要从 GPS （ 全球定位系统 ）开始说起。]]></summary>
     </entry>
     <entry>
@@ -42,7 +42,7 @@
         <id>https://luzhaoyang.com/zh/posts/qiao-yongcss-shi-xian-ku-xuan-de-chong-dian-dong-hua.html</id>
         <link href="https://luzhaoyang.com/zh/posts/qiao-yongcss-shi-xian-ku-xuan-de-chong-dian-dong-hua.html">
         </link>
-        <updated>2020-02-14T10:43:19.145Z</updated>
+        <updated>2020-02-14T11:05:06.583Z</updated>
         <summary type="html"><![CDATA[如果要继续优化的话，需要添加点细节。
 我们知道，低电量时，电量通常表示为红色，高电量时表示为绿色。再给整个色块添加点阴影的变化，呼吸的感觉，让充电的效果看起来确实是在动。]]></summary>
     </entry>
@@ -51,7 +51,7 @@
         <id>https://luzhaoyang.com/zh/posts/zui-chang-yong-degit-ming-ling-zong-jie.html</id>
         <link href="https://luzhaoyang.com/zh/posts/zui-chang-yong-degit-ming-ling-zong-jie.html">
         </link>
-        <updated>2020-02-14T10:43:19.145Z</updated>
+        <updated>2020-02-14T11:05:06.583Z</updated>
         <summary type="html"><![CDATA[git stash pop 恢复暂存并删除暂存记录
 git stash list 查看暂存列表
 git stash drop 暂存名(例：stash@{0}) 移除某次暂存
@@ -62,21 +62,21 @@ git stash clear 清除暂存]]></summary>
         <id>https://luzhaoyang.com/zh/posts/li-qingtex-ketex-mathjax-letex......-de-guan-xi-ji-fu-hao-biao-shi-ji-he.html</id>
         <link href="https://luzhaoyang.com/zh/posts/li-qingtex-ketex-mathjax-letex......-de-guan-xi-ji-fu-hao-biao-shi-ji-he.html">
         </link>
-        <updated>2020-02-14T10:43:19.146Z</updated>
+        <updated>2020-02-14T11:05:06.583Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[纯CSS实现目录自动编号]]></title>
         <id>https://luzhaoyang.com/zh/posts/chuncss-shi-xian-mu-lu-zi-dong-bian-hao.html</id>
         <link href="https://luzhaoyang.com/zh/posts/chuncss-shi-xian-mu-lu-zi-dong-bian-hao.html">
         </link>
-        <updated>2020-02-14T10:43:19.146Z</updated>
+        <updated>2020-02-14T11:05:06.583Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[谷歌新提案：WebBundlesAPI可在脱机状态实现内容分发]]></title>
         <id>https://luzhaoyang.com/zh/posts/gu-ge-xin-ti-an-webbundlesapi-ke-zai-tuo-ji-zhuang-tai-shi-xian-nei-rong-fen-fa.html</id>
         <link href="https://luzhaoyang.com/zh/posts/gu-ge-xin-ti-an-webbundlesapi-ke-zai-tuo-ji-zhuang-tai-shi-xian-nei-rong-fen-fa.html">
         </link>
-        <updated>2020-02-14T10:43:19.147Z</updated>
+        <updated>2020-02-14T11:05:06.584Z</updated>
         <summary type="html"><![CDATA[::: tip
 在 2019 年 Chrome 开发者峰会 上，谷歌预览了全新的 Web Bundles API。这是一种基础架构 API，开发人员可以通过它以任何格式（电子邮件、FTP 甚至 USB）分发他们的 Web 内容，而内容本身不会有任何改动。这种技术不仅能够以闪电般的速度交付 Web 内容，而且即使用户处于脱机状态，也可以实现点对点内容分发。
 :::]]></summary>
@@ -86,15 +86,23 @@ git stash clear 清除暂存]]></summary>
         <id>https://luzhaoyang.com/posts/my-first-post.html</id>
         <link href="https://luzhaoyang.com/posts/my-first-post.html">
         </link>
-        <updated>2020-02-14T10:43:19.147Z</updated>
+        <updated>2020-02-14T11:05:06.584Z</updated>
         <summary type="html"><![CDATA[Meta description, one of the three TDK tags on the original page, is also a page optimization element that SEO staff need to focus on optimization.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS第四级选择器]]></title>
+        <id>https://luzhaoyang.com/zh/posts/css-di-si-ji-xuan-ze-qi.html</id>
+        <link href="https://luzhaoyang.com/zh/posts/css-di-si-ji-xuan-ze-qi.html">
+        </link>
+        <updated>2020-02-14T11:05:06.584Z</updated>
+        <summary type="html"><![CDATA[事实上，这样做的方法不止一种，一些方法甚至更复杂。]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Array原型方法源码实现大解密]]></title>
         <id>https://luzhaoyang.com/zh/posts/array-yuan-xing-fang-fa-yuan-ma-shi-xian-da-jie-mi.html</id>
         <link href="https://luzhaoyang.com/zh/posts/array-yuan-xing-fang-fa-yuan-ma-shi-xian-da-jie-mi.html">
         </link>
-        <updated>2020-02-14T10:43:19.148Z</updated>
+        <updated>2020-02-14T11:05:06.584Z</updated>
         <summary type="html"><![CDATA[map方法的主要功能就是把原数组中的每个元素按顺序执行一次 callbackfn 函数，并且把所有返回的结果组合在一起生成一个新的数组，map方法的返回值就是这个新数组。]]></summary>
     </entry>
     <entry>
@@ -102,7 +110,7 @@ git stash clear 清除暂存]]></summary>
         <id>https://luzhaoyang.com/zh/posts/css-hun-he-mo-shi.html</id>
         <link href="https://luzhaoyang.com/zh/posts/css-hun-he-mo-shi.html">
         </link>
-        <updated>2020-02-14T10:43:46.381Z</updated>
+        <updated>2020-02-14T11:05:28.608Z</updated>
         <summary type="html"><![CDATA[| :------------- | :----------- | :----------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | normal         | normal       | 正常模式     | 混合色的像素会透过所用的颜色显示出来                                                                                                                                                         |
 | multiply       | multiply     | 正片叠底模式 | 在“正片叠底”模式中，查看每个通道中的颜色信息，并将“基色”与“混合色”复合。                                                                                                                     |
@@ -122,20 +130,13 @@ git stash clear 清除暂存]]></summary>
 | luminosity     | luminosity   | 亮度模式     | “亮度”模式能够使用“混合色”颜色的亮度值进行着色，而保持“基色”颜色的饱和度和色相数值不变。其实就是用“基色”中的“色相”和“饱和度”以及“混合色”的亮度创建“结果色”。                                 |]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS第四级选择器]]></title>
-        <id>https://luzhaoyang.com/zh/posts/css-di-si-ji-xuan-ze-qi.html</id>
-        <link href="https://luzhaoyang.com/zh/posts/css-di-si-ji-xuan-ze-qi.html">
-        </link>
-        <updated>2020-02-14T10:43:46.381Z</updated>
-        <summary type="html"><![CDATA[例如：]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[HybridApp离线包方案实践]]></title>
         <id>https://luzhaoyang.com/zh/posts/hybridapp-chi-xian-bao-fang-an-shi-jian.html</id>
         <link href="https://luzhaoyang.com/zh/posts/hybridapp-chi-xian-bao-fang-an-shi-jian.html">
         </link>
-        <updated>2020-02-14T10:43:46.381Z</updated>
-        <summary type="html"><![CDATA[WebResourceResponse resourceResponse = getWebResourceResponse(url);
+        <updated>2020-02-14T11:05:28.608Z</updated>
+        <summary type="html"><![CDATA[final String url = request.getUrl().toString();
+    WebResourceResponse resourceResponse = getWebResourceResponse(url);
     if (resourceResponse == null) {
       return super.shouldInterceptRequest(view, request);
     }
@@ -147,7 +148,7 @@ git stash clear 清除暂存]]></summary>
         <id>https://luzhaoyang.com/zh/posts/js-zhong-ke-yi-ti-sheng-xing-fu-du-de-xiao-ji-qiao.html</id>
         <link href="https://luzhaoyang.com/zh/posts/js-zhong-ke-yi-ti-sheng-xing-fu-du-de-xiao-ji-qiao.html">
         </link>
-        <updated>2020-02-14T10:43:46.381Z</updated>
+        <updated>2020-02-14T11:05:28.608Z</updated>
         <summary type="html"><![CDATA[要返回多行语句（例如对象文本），需要使用()而不是{}来包裹函数体。这样可以确保代码以单个语句的形式进行求值。]]></summary>
     </entry>
     <entry>
@@ -155,7 +156,7 @@ git stash clear 清除暂存]]></summary>
         <id>https://luzhaoyang.com/zh/posts/javascript-yun-xing-yuan-li.html</id>
         <link href="https://luzhaoyang.com/zh/posts/javascript-yun-xing-yuan-li.html">
         </link>
-        <updated>2020-02-14T10:43:46.382Z</updated>
+        <updated>2020-02-14T11:05:28.608Z</updated>
         <summary type="html"><![CDATA[JavaScript 引擎的整体工作原理就是这样。相信您无需学习 JavaScript 也可以理解。当然，您甚至可以在不知道 JavaScript 如何工作的情况下编写代码。但是，如果我们了解一些幕后的知识，或许能让我们编写出更好的代码。]]></summary>
     </entry>
     <entry>
@@ -163,10 +164,21 @@ git stash clear 清除暂存]]></summary>
         <id>https://luzhaoyang.com/zh/posts/vue-zhe-xie-xiu-shi-fu-bang-wo-jie-sheng-wu-fen-zhi-yi-de-kai-fa-shi-jian.html</id>
         <link href="https://luzhaoyang.com/zh/posts/vue-zhe-xie-xiu-shi-fu-bang-wo-jie-sheng-wu-fen-zhi-yi-de-kai-fa-shi-jian.html">
         </link>
-        <updated>2020-02-14T10:43:46.382Z</updated>
+        <updated>2020-02-14T11:05:28.608Z</updated>
         <summary type="html"><![CDATA[ok
 ok
 ok
+`]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WebComponents入门实例教程]]></title>
+        <id>https://luzhaoyang.com/zh/posts/webcomponents-ru-men-shi-li-jiao-cheng.html</id>
+        <link href="https://luzhaoyang.com/zh/posts/webcomponents-ru-men-shi-li-jiao-cheng.html">
+        </link>
+        <updated>2020-02-14T11:05:28.608Z</updated>
+        <summary type="html"><![CDATA[yourmail@some-email.com
+    Follow
+
 `]]></summary>
     </entry>
     <entry>
@@ -174,21 +186,14 @@ ok
         <id>https://luzhaoyang.com/zh/posts/web-chang-jian-gong-ji-zong-jie.html</id>
         <link href="https://luzhaoyang.com/zh/posts/web-chang-jian-gong-ji-zong-jie.html">
         </link>
-        <updated>2020-02-14T10:43:46.382Z</updated>
+        <updated>2020-02-14T11:05:28.608Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[一篇常做错的经典JS闭包面试题]]></title>
-        <id>https://luzhaoyang.com/zh/posts/yi-pian-chang-zuo-cuo-de-jing-dianjs-bi-bao-mian-shi-ti.html</id>
-        <link href="https://luzhaoyang.com/zh/posts/yi-pian-chang-zuo-cuo-de-jing-dianjs-bi-bao-mian-shi-ti.html">
+        <title type="html"><![CDATA[我的首篇文章]]></title>
+        <id>https://luzhaoyang.com/zh/posts/my-first-post.html</id>
+        <link href="https://luzhaoyang.com/zh/posts/my-first-post.html">
         </link>
-        <updated>2020-02-14T10:43:46.382Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WebComponents入门实例教程]]></title>
-        <id>https://luzhaoyang.com/zh/posts/webcomponents-ru-men-shi-li-jiao-cheng.html</id>
-        <link href="https://luzhaoyang.com/zh/posts/webcomponents-ru-men-shi-li-jiao-cheng.html">
-        </link>
-        <updated>2020-02-14T10:43:46.382Z</updated>
-        <summary type="html"><![CDATA[组件是前端的发展方向，现在流行的 React 和 Vue 都是组件框架。]]></summary>
+        <updated>2020-02-14T11:05:28.609Z</updated>
+        <summary type="html"><![CDATA[描述（meta description），是原页面三大标签TDK中之一，同时也是SEO人员需要着重优化的一个页面优化元素。]]></summary>
     </entry>
 </feed>
