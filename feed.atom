@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://luzhaoyang.com</id>
     <title></title>
-    <updated>2020-02-15T08:56:56.108Z</updated>
+    <updated>2020-02-16T03:56:50.489Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://luzhaoyang.com"/>
     <link rel="self" href="https://luzhaoyang.com/feed.atom"/>
@@ -11,35 +11,35 @@
         <id>https://luzhaoyang.com/posts/finally-have-a-nest.html</id>
         <link href="https://luzhaoyang.com/posts/finally-have-a-nest.html">
         </link>
-        <updated>2020-02-15T08:56:11.299Z</updated>
+        <updated>2020-02-16T03:56:00.046Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript：ES2019的新特性]]></title>
         <id>https://luzhaoyang.com/zh/posts/javascript-es2019-de-xin-te-xing.html</id>
         <link href="https://luzhaoyang.com/zh/posts/javascript-es2019-de-xin-te-xing.html">
         </link>
-        <updated>2020-02-15T08:56:11.303Z</updated>
+        <updated>2020-02-16T03:56:00.050Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[终于有个窝了]]></title>
         <id>https://luzhaoyang.com/zh/posts/finally-have-a-nest.html</id>
         <link href="https://luzhaoyang.com/zh/posts/finally-have-a-nest.html">
         </link>
-        <updated>2020-02-15T08:56:11.303Z</updated>
+        <updated>2020-02-16T03:56:00.050Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[刚刚还好好的，咋突然跨域了？]]></title>
         <id>https://luzhaoyang.com/zh/posts/gang-gang-huan-hao-hao-de-zha-tu-ran-kua-yu-liao-.html</id>
         <link href="https://luzhaoyang.com/zh/posts/gang-gang-huan-hao-hao-de-zha-tu-ran-kua-yu-liao-.html">
         </link>
-        <updated>2020-02-15T08:56:11.303Z</updated>
+        <updated>2020-02-16T03:56:00.050Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[前端代码美化的艺术]]></title>
         <id>https://luzhaoyang.com/zh/posts/qian-duan-dai-ma-mei-hua-de-yi-zhu.html</id>
         <link href="https://luzhaoyang.com/zh/posts/qian-duan-dai-ma-mei-hua-de-yi-zhu.html">
         </link>
-        <updated>2020-02-15T08:56:11.304Z</updated>
+        <updated>2020-02-16T03:56:00.051Z</updated>
         <summary type="html"><![CDATA[原本只是想简单的聊一下代码格式化的问题，无奈本文拖沓了很久，在此期间，我又思考了很多，我越来越觉得代码格式化是一门艺术。为了衬托“艺术”二字，可能叫“代码美化”更贴切一点，但是本文的深度远没有标题那么宏大。]]></summary>
     </entry>
     <entry>
@@ -47,7 +47,7 @@
         <id>https://luzhaoyang.com/zh/posts/tong-yi-ge-zuo-biao-gu-ge-gao-de-bai-du-di-tu-ju-ran-zhi-xiang-liao-san-ge-bu-tong-de-di-fang.html</id>
         <link href="https://luzhaoyang.com/zh/posts/tong-yi-ge-zuo-biao-gu-ge-gao-de-bai-du-di-tu-ju-ran-zhi-xiang-liao-san-ge-bu-tong-de-di-fang.html">
         </link>
-        <updated>2020-02-15T08:56:11.304Z</updated>
+        <updated>2020-02-16T03:56:00.051Z</updated>
         <summary type="html"><![CDATA[咱们今天就来说说坐标偏移这小破事 ~
 :::]]></summary>
     </entry>
@@ -56,7 +56,7 @@
         <id>https://luzhaoyang.com/zh/posts/qiao-yongcss-shi-xian-ku-xuan-de-chong-dian-dong-hua.html</id>
         <link href="https://luzhaoyang.com/zh/posts/qiao-yongcss-shi-xian-ku-xuan-de-chong-dian-dong-hua.html">
         </link>
-        <updated>2020-02-15T08:56:11.305Z</updated>
+        <updated>2020-02-16T03:56:00.051Z</updated>
         <summary type="html"><![CDATA[方法很多，代码也很简单，直接看效果：
 微信图片\_20200101151042
 有内味了，如果要求不高，这个勉强也就能够交差了。通过蓝色渐变表示电量，通过色块的位移动画实现充电的动画。但是总感觉少了点什么。]]></summary>
@@ -66,7 +66,7 @@
         <id>https://luzhaoyang.com/zh/posts/zui-chang-yong-degit-ming-ling-zong-jie.html</id>
         <link href="https://luzhaoyang.com/zh/posts/zui-chang-yong-degit-ming-ling-zong-jie.html">
         </link>
-        <updated>2020-02-15T08:56:11.305Z</updated>
+        <updated>2020-02-16T03:56:00.052Z</updated>
         <summary type="html"><![CDATA[git branch origin :分支名 删除远处仓库分支
 git merge 分支名 合并分支到当前分支上]]></summary>
     </entry>
@@ -75,21 +75,21 @@ git merge 分支名 合并分支到当前分支上]]></summary>
         <id>https://luzhaoyang.com/zh/posts/li-qingtex-ketex-mathjax-letex......-de-guan-xi-ji-fu-hao-biao-shi-ji-he.html</id>
         <link href="https://luzhaoyang.com/zh/posts/li-qingtex-ketex-mathjax-letex......-de-guan-xi-ji-fu-hao-biao-shi-ji-he.html">
         </link>
-        <updated>2020-02-15T08:56:11.305Z</updated>
+        <updated>2020-02-16T03:56:00.052Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[纯CSS实现目录自动编号]]></title>
         <id>https://luzhaoyang.com/zh/posts/chuncss-shi-xian-mu-lu-zi-dong-bian-hao.html</id>
         <link href="https://luzhaoyang.com/zh/posts/chuncss-shi-xian-mu-lu-zi-dong-bian-hao.html">
         </link>
-        <updated>2020-02-15T08:56:11.305Z</updated>
+        <updated>2020-02-16T03:56:00.052Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[谷歌新提案：WebBundlesAPI可在脱机状态实现内容分发]]></title>
         <id>https://luzhaoyang.com/zh/posts/gu-ge-xin-ti-an-webbundlesapi-ke-zai-tuo-ji-zhuang-tai-shi-xian-nei-rong-fen-fa.html</id>
         <link href="https://luzhaoyang.com/zh/posts/gu-ge-xin-ti-an-webbundlesapi-ke-zai-tuo-ji-zhuang-tai-shi-xian-nei-rong-fen-fa.html">
         </link>
-        <updated>2020-02-15T08:56:11.305Z</updated>
+        <updated>2020-02-16T03:56:00.052Z</updated>
         <summary type="html"><![CDATA[::: tip
 在 2019 年 Chrome 开发者峰会 上，谷歌预览了全新的 Web Bundles API。这是一种基础架构 API，开发人员可以通过它以任何格式（电子邮件、FTP 甚至 USB）分发他们的 Web 内容，而内容本身不会有任何改动。这种技术不仅能够以闪电般的速度交付 Web 内容，而且即使用户处于脱机状态，也可以实现点对点内容分发。
 :::]]></summary>
@@ -99,7 +99,7 @@ git merge 分支名 合并分支到当前分支上]]></summary>
         <id>https://luzhaoyang.com/posts/my-first-post.html</id>
         <link href="https://luzhaoyang.com/posts/my-first-post.html">
         </link>
-        <updated>2020-02-15T08:56:11.305Z</updated>
+        <updated>2020-02-16T03:56:00.052Z</updated>
         <summary type="html"><![CDATA[Meta description, one of the three TDK tags on the original page, is also a page optimization element that SEO staff need to focus on optimization.]]></summary>
     </entry>
     <entry>
@@ -107,7 +107,7 @@ git merge 分支名 合并分支到当前分支上]]></summary>
         <id>https://luzhaoyang.com/zh/posts/css-hun-he-mo-shi.html</id>
         <link href="https://luzhaoyang.com/zh/posts/css-hun-he-mo-shi.html">
         </link>
-        <updated>2020-02-15T08:56:56.001Z</updated>
+        <updated>2020-02-16T03:56:50.313Z</updated>
         <summary type="html"><![CDATA[| Photoshop 图层 | CSS 混合模式 | 中文名称     | 功能描述                                                                                                                                                                                     |
 | :------------- | :----------- | :----------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | normal         | normal       | 正常模式     | 混合色的像素会透过所用的颜色显示出来                                                                                                                                                         |
@@ -132,7 +132,7 @@ git merge 分支名 合并分支到当前分支上]]></summary>
         <id>https://luzhaoyang.com/zh/posts/array-yuan-xing-fang-fa-yuan-ma-shi-xian-da-jie-mi.html</id>
         <link href="https://luzhaoyang.com/zh/posts/array-yuan-xing-fang-fa-yuan-ma-shi-xian-da-jie-mi.html">
         </link>
-        <updated>2020-02-15T08:56:56.001Z</updated>
+        <updated>2020-02-16T03:56:50.313Z</updated>
         <summary type="html"><![CDATA[}
 };
 let arr = [1, 2, 3];
@@ -147,7 +147,7 @@ console.log(result);
         <id>https://luzhaoyang.com/zh/posts/css-di-si-ji-xuan-ze-qi.html</id>
         <link href="https://luzhaoyang.com/zh/posts/css-di-si-ji-xuan-ze-qi.html">
         </link>
-        <updated>2020-02-15T08:56:56.001Z</updated>
+        <updated>2020-02-16T03:56:50.313Z</updated>
         <summary type="html"><![CDATA[例如：]]></summary>
     </entry>
     <entry>
@@ -155,7 +155,7 @@ console.log(result);
         <id>https://luzhaoyang.com/zh/posts/hybridapp-chi-xian-bao-fang-an-shi-jian.html</id>
         <link href="https://luzhaoyang.com/zh/posts/hybridapp-chi-xian-bao-fang-an-shi-jian.html">
         </link>
-        <updated>2020-02-15T08:56:56.001Z</updated>
+        <updated>2020-02-16T03:56:50.314Z</updated>
         <summary type="html"><![CDATA[@param url 资源地址
    */
   private WebResourceResponse getWebResourceResponse(String url) {
@@ -175,7 +175,7 @@ console.log(result);
         <id>https://luzhaoyang.com/zh/posts/js-zhong-ke-yi-ti-sheng-xing-fu-du-de-xiao-ji-qiao.html</id>
         <link href="https://luzhaoyang.com/zh/posts/js-zhong-ke-yi-ti-sheng-xing-fu-du-de-xiao-ji-qiao.html">
         </link>
-        <updated>2020-02-15T08:56:56.002Z</updated>
+        <updated>2020-02-16T03:56:50.314Z</updated>
         <summary type="html"><![CDATA[function foo() {
   if (a !== b) {
     console.log('aaa');
@@ -200,22 +200,22 @@ function foo() {
         <id>https://luzhaoyang.com/zh/posts/javascript-yun-xing-yuan-li.html</id>
         <link href="https://luzhaoyang.com/zh/posts/javascript-yun-xing-yuan-li.html">
         </link>
-        <updated>2020-02-15T08:56:56.002Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue这些修饰符帮我节省五分之一的开发时间]]></title>
-        <id>https://luzhaoyang.com/zh/posts/vue-zhe-xie-xiu-shi-fu-bang-wo-jie-sheng-wu-fen-zhi-yi-de-kai-fa-shi-jian.html</id>
-        <link href="https://luzhaoyang.com/zh/posts/vue-zhe-xie-xiu-shi-fu-bang-wo-jie-sheng-wu-fen-zhi-yi-de-kai-fa-shi-jian.html">
-        </link>
-        <updated>2020-02-15T08:56:56.002Z</updated>
-        <summary type="html"><![CDATA[{{value}}]]></summary>
+        <updated>2020-02-16T03:56:50.314Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[WebComponents入门实例教程]]></title>
         <id>https://luzhaoyang.com/zh/posts/webcomponents-ru-men-shi-li-jiao-cheng.html</id>
         <link href="https://luzhaoyang.com/zh/posts/webcomponents-ru-men-shi-li-jiao-cheng.html">
         </link>
-        <updated>2020-02-15T08:56:56.002Z</updated>
-        <summary type="html"><![CDATA[谷歌公司由于掌握了 Chrome 浏览器，一直在推动浏览器的原生组件，即 Web Components API。相比第三方框架，原生组件简单直接，符合直觉，不用加载任何外部模块，代码量小。目前，它还在不断发展，但已经可用于生产环境。]]></summary>
+        <updated>2020-02-16T03:56:50.314Z</updated>
+        <summary type="html"><![CDATA[User Name]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue这些修饰符帮我节省五分之一的开发时间]]></title>
+        <id>https://luzhaoyang.com/zh/posts/vue-zhe-xie-xiu-shi-fu-bang-wo-jie-sheng-wu-fen-zhi-yi-de-kai-fa-shi-jian.html</id>
+        <link href="https://luzhaoyang.com/zh/posts/vue-zhe-xie-xiu-shi-fu-bang-wo-jie-sheng-wu-fen-zhi-yi-de-kai-fa-shi-jian.html">
+        </link>
+        <updated>2020-02-16T03:56:50.314Z</updated>
+        <summary type="html"><![CDATA[为了方便大家写代码，vue.js 给大家提供了很多方便的修饰符，比如我们经常用到的取消冒泡，阻止默认事件等等~]]></summary>
     </entry>
 </feed>
