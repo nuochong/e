@@ -8,26 +8,26 @@
             "id": "https://luzhaoyang.com/posts/finally-have-a-nest.html",
             "url": "https://luzhaoyang.com/posts/finally-have-a-nest.html",
             "title": "Finally Have A Nest",
-            "date_modified": "2020-02-18T12:19:44.171Z"
+            "date_modified": "2020-02-18T14:09:55.442Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/javascript-es2019-de-xin-te-xing.html",
             "url": "https://luzhaoyang.com/zh/posts/javascript-es2019-de-xin-te-xing.html",
             "title": "JavaScript：ES2019的新特性",
-            "date_modified": "2020-02-18T12:19:44.180Z"
+            "date_modified": "2020-02-18T14:09:55.444Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/finally-have-a-nest.html",
             "url": "https://luzhaoyang.com/zh/posts/finally-have-a-nest.html",
             "title": "终于有个窝了",
-            "date_modified": "2020-02-18T12:19:44.181Z"
+            "date_modified": "2020-02-18T14:09:55.445Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/gang-gang-huan-hao-hao-de-zha-tu-ran-kua-yu-liao-.html",
             "url": "https://luzhaoyang.com/zh/posts/gang-gang-huan-hao-hao-de-zha-tu-ran-kua-yu-liao-.html",
             "title": "刚刚还好好的，咋突然跨域了？",
             "image": "https://luzhaoyang.com/images/刚刚还好好的，咋突然跨域了？/640-1.webp",
-            "date_modified": "2020-02-18T12:19:44.181Z"
+            "date_modified": "2020-02-18T14:09:55.445Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/qian-duan-dai-ma-mei-hua-de-yi-zhu.html",
@@ -35,7 +35,7 @@
             "title": "前端代码美化的艺术",
             "summary": "原本只是想简单的聊一下代码格式化的问题，无奈本文拖沓了很久，在此期间，我又思考了很多，我越来越觉得代码格式化是一门艺术。为了衬托“艺术”二字，可能叫“代码美化”更贴切一点，但是本文的深度远没有标题那么宏大。",
             "image": "https://luzhaoyang.com/images/前端代码美化的艺术/640.webp",
-            "date_modified": "2020-02-18T12:19:44.183Z"
+            "date_modified": "2020-02-18T14:09:55.446Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/tong-yi-ge-zuo-biao-gu-ge-gao-de-bai-du-di-tu-ju-ran-zhi-xiang-liao-san-ge-bu-tong-de-di-fang.html",
@@ -43,7 +43,7 @@
             "title": "同一个坐标，谷歌、高德、百度地图居然指向了三个不同的地方",
             "summary": "咱们今天就来说说坐标偏移这小破事 ~\n:::",
             "image": "https://luzhaoyang.com/images/同一个坐标，谷歌、高德、百度地图居然指向了三个不同的地方/5caf13406227685daf019539_1024.jpg",
-            "date_modified": "2020-02-18T12:19:44.183Z"
+            "date_modified": "2020-02-18T14:09:55.446Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/qiao-yongcss-shi-xian-ku-xuan-de-chong-dian-dong-hua.html",
@@ -51,27 +51,43 @@
             "title": "巧用CSS实现酷炫的充电动画",
             "summary": "方法很多，代码也很简单，直接看效果：\n微信图片\\_20200101151042\n有内味了，如果要求不高，这个勉强也就能够交差了。通过蓝色渐变表示电量，通过色块的位移动画实现充电的动画。但是总感觉少了点什么。",
             "image": "https://luzhaoyang.com/images/巧用CSS实现酷炫的充电动画/微信图片_20200101150753.jpg",
-            "date_modified": "2020-02-18T12:19:44.184Z"
+            "date_modified": "2020-02-18T14:09:55.446Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/zui-chang-yong-degit-ming-ling-zong-jie.html",
             "url": "https://luzhaoyang.com/zh/posts/zui-chang-yong-degit-ming-ling-zong-jie.html",
             "title": "最常用的Git命令总结",
             "summary": "git branch origin :分支名 删除远处仓库分支\ngit merge 分支名 合并分支到当前分支上",
-            "date_modified": "2020-02-18T12:19:44.184Z"
+            "date_modified": "2020-02-18T14:09:55.446Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/li-qingtex-ketex-mathjax-letex......-de-guan-xi-ji-fu-hao-biao-shi-ji-he.html",
             "url": "https://luzhaoyang.com/zh/posts/li-qingtex-ketex-mathjax-letex......-de-guan-xi-ji-fu-hao-biao-shi-ji-he.html",
             "title": "理清TeX、KeTeX、MathJax、LeTeX……的关系及符号表示集合",
-            "date_modified": "2020-02-18T12:19:44.185Z"
+            "date_modified": "2020-02-18T14:09:55.446Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/chuncss-shi-xian-mu-lu-zi-dong-bian-hao.html",
             "url": "https://luzhaoyang.com/zh/posts/chuncss-shi-xian-mu-lu-zi-dong-bian-hao.html",
             "title": "纯CSS实现目录自动编号",
             "image": "https://luzhaoyang.com/images/纯CSS实现目录自动编号/chapter1.png",
-            "date_modified": "2020-02-18T12:19:44.185Z"
+            "date_modified": "2020-02-18T14:09:55.447Z"
+        },
+        {
+            "id": "https://luzhaoyang.com/zh/posts/gu-ge-xin-ti-an-webbundlesapi-ke-zai-tuo-ji-zhuang-tai-shi-xian-nei-rong-fen-fa.html",
+            "url": "https://luzhaoyang.com/zh/posts/gu-ge-xin-ti-an-webbundlesapi-ke-zai-tuo-ji-zhuang-tai-shi-xian-nei-rong-fen-fa.html",
+            "title": "谷歌新提案：WebBundlesAPI可在脱机状态实现内容分发",
+            "summary": "::: tip\n在 2019 年 Chrome 开发者峰会 上，谷歌预览了全新的 Web Bundles API。这是一种基础架构 API，开发人员可以通过它以任何格式（电子邮件、FTP 甚至 USB）分发他们的 Web 内容，而内容本身不会有任何改动。这种技术不仅能够以闪电般的速度交付 Web 内容，而且即使用户处于脱机状态，也可以实现点对点内容分发。\n:::",
+            "image": "https://luzhaoyang.com/images/谷歌新提案：WebBundlesAPI可在脱机状态实现内容分发/640.webp",
+            "date_modified": "2020-02-18T14:09:55.447Z"
+        },
+        {
+            "id": "https://luzhaoyang.com/zh/posts/tong-guohtml-shu-xing-ke-gai-shan-yong-hu-de-shuang-chong-shen-fen-yan-zheng-ti-yan.html",
+            "url": "https://luzhaoyang.com/zh/posts/tong-guohtml-shu-xing-ke-gai-shan-yong-hu-de-shuang-chong-shen-fen-yan-zheng-ti-yan.html",
+            "title": "通过HTML属性可改善用户的双重身份验证体验",
+            "summary": "\n\n      Please enter the code you were sent:\n",
+            "image": "https://luzhaoyang.com/images/通过HTML属性可改善用户的双重身份验证体验/微信图片_20200218083547.jpg",
+            "date_modified": "2020-02-18T14:09:55.447Z"
         },
         {
             "id": "https://luzhaoyang.com/posts/my-first-post.html",
@@ -79,75 +95,60 @@
             "title": "My First Post",
             "summary": "Meta description, one of the three TDK tags on the original page, is also a page optimization element that SEO staff need to focus on optimization.",
             "image": "https://luzhaoyang.com/images/posts-base/2018/8/my-first-post.png",
-            "date_modified": "2020-02-18T12:19:44.185Z"
-        },
-        {
-            "id": "https://luzhaoyang.com/zh/posts/css-hun-he-mo-shi.html",
-            "url": "https://luzhaoyang.com/zh/posts/css-hun-he-mo-shi.html",
-            "title": "CSS混合模式",
-            "summary": "在 CSS3 混合模式中，目前仅有 16 种：normal，multiply,screen,overlay,darken,lighten,color-dodge,color-burn,hard-light,soft-light,difference,exclusion,hue,saturation,color,luminosity。\n其中每一种混合模式都有其自的计算模式",
-            "date_modified": "2020-02-18T12:19:44.186Z"
-        },
-        {
-            "id": "https://luzhaoyang.com/zh/posts/css-di-si-ji-xuan-ze-qi.html",
-            "url": "https://luzhaoyang.com/zh/posts/css-di-si-ji-xuan-ze-qi.html",
-            "title": "CSS第四级选择器",
-            "summary": "事实上，这样做的方法不止一种，一些方法甚至更复杂。",
-            "image": "https://luzhaoyang.com/images/CSS第四级选择器/640-4.webp",
-            "date_modified": "2020-02-18T12:19:44.186Z"
-        },
-        {
-            "id": "https://luzhaoyang.com/zh/posts/hybridapp-chi-xian-bao-fang-an-shi-jian.html",
-            "url": "https://luzhaoyang.com/zh/posts/hybridapp-chi-xian-bao-fang-an-shi-jian.html",
-            "title": "HybridApp离线包方案实践",
-            "summary": "当然还有很多其它方面的优化，这里就不再赘述了。本文重点讲的是，在与静态资源服务器建立连接，然后接收前端静态资源的过程。由于这个过程过于依赖用户当前所处的网络环境，因此也成了最不可控因素。当用户处于弱网时，页面加载速度可能会达到 4 到 5 s 甚至更久，严重影响用户体验。而离线包方案就是解决该问题的一个比较成熟的方案。",
-            "image": "https://luzhaoyang.com/images/HybridApp离线包方案实践/微信图片_20200101163308.jpg",
-            "date_modified": "2020-02-18T12:19:44.186Z"
-        },
-        {
-            "id": "https://luzhaoyang.com/zh/posts/js-zhong-ke-yi-ti-sheng-xing-fu-du-de-xiao-ji-qiao.html",
-            "url": "https://luzhaoyang.com/zh/posts/js-zhong-ke-yi-ti-sheng-xing-fu-du-de-xiao-ji-qiao.html",
-            "title": "JS中可以提升幸福度的小技巧",
-            "summary": "`",
-            "date_modified": "2020-02-18T12:19:44.186Z"
+            "date_modified": "2020-02-18T14:09:55.447Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/array-yuan-xing-fang-fa-yuan-ma-shi-xian-da-jie-mi.html",
             "url": "https://luzhaoyang.com/zh/posts/array-yuan-xing-fang-fa-yuan-ma-shi-xian-da-jie-mi.html",
             "title": "Array原型方法源码实现大解密",
             "summary": "用 JS 来模拟实现，核心逻辑如下：",
-            "date_modified": "2020-02-18T12:19:44.187Z"
+            "date_modified": "2020-02-18T14:09:55.447Z"
+        },
+        {
+            "id": "https://luzhaoyang.com/zh/posts/hybridapp-chi-xian-bao-fang-an-shi-jian.html",
+            "url": "https://luzhaoyang.com/zh/posts/hybridapp-chi-xian-bao-fang-an-shi-jian.html",
+            "title": "HybridApp离线包方案实践",
+            "summary": "应用插件的前端项目：https://github.com/mcuking/mobile-web-best-practice",
+            "image": "https://luzhaoyang.com/images/HybridApp离线包方案实践/微信图片_20200101163308.jpg",
+            "date_modified": "2020-02-18T14:09:55.447Z"
+        },
+        {
+            "id": "https://luzhaoyang.com/zh/posts/css-hun-he-mo-shi.html",
+            "url": "https://luzhaoyang.com/zh/posts/css-hun-he-mo-shi.html",
+            "title": "CSS混合模式",
+            "summary": "| screen         | screen       | 滤色模式     | “滤色”模式与“正片叠底”模式正好相反，它将图像的“基色”颜色与“混合色”颜色结合起来产生比两种颜色都浅的第三种颜色                                                                                 |\n| overlay        | overlay      | 叠加模式     | “叠加”模式把图像的“基色”颜色与“混合色”颜色相混合产生一种中间色。                                                                                                                             |\n| darken         | darken       | 变暗模式     | 在“变暗”模式中，查看每个通道中的颜色信息，并选择“基色”或“混合色”中较暗的颜色作为“结果色”。                                                                                                   |\n| lighten        | lighten      | 变亮模式     | 在“变亮”模式中，查看每个通道中的颜色信息，并选择“基色”或“混合色”中较亮的颜色作为“结果色”。                                                                                                   |\n| color-dodge    | color-dodge  | 颜色减淡模式 | 在“颜色减淡”模式中，查看每个通道中的颜色信息，并通过减小对比度使基色变亮以反映混合色。与黑色混合则不发生变化。                                                                               |\n| color-burn     | color-burn   | 颜色加深模式 | 在“颜色加深”模式中，查看每个通道中的颜色信息，并通过增加对比度使基色变暗以反映混合色，如果与白色混合的话将不会产生变化。                                                                     |\n| hard-light     | hard-light   | 强光模式     | “强光”模式将产生一种强光照射的效果。如果“混合色”颜色“基色”颜色的像素更亮一些，那么“结果色”颜色将更亮；如果“混合色”颜色比“基色”颜色的像素更暗一些，那么“结果色”将更暗。                       |\n| soft-light     | soft-light   | 柔光模式     | 柔光”模式会产生一种柔光照射的效果。如果“混合色”颜色比“基色颜色的像素更亮一些，那么“结果色”将更亮；如果“混合色”颜色比“基色”颜色的像素更暗一些，那么“结果色”颜色将更暗，使图像的亮度反差增大。 |\n| difference     | difference   | 差值模式     | 在“差值”模式中，查看每个通道中的颜色信息，“差值”模式是将从图像中“基色”颜色的亮度值减去“混合色”颜色的亮度值，如果结果为负，则取正值，产生反相效果。                                           |\n| exclusion      | exclusion    | 排除模式     | “排除”模式与“差值”模式相似，但是具有高对比度和低饱和度的特点。比用“差值”模式获得的颜色要柔和、更明亮一些。                                                                                   |\n| hue            | hue          | 色相模式     | “色相”模式只用“混合色”颜色的色相值进行着色，而使饱和度和亮度值保持不变。                                                                                                                     |\n| saturation     | saturation   | 饱和度模式   | “饱和度”模式的作用方式与“色相”模式相似，它只用“混合色”颜色的饱和度值进行着色，而使色相值和亮度值保持不变。                                                                                   |\n| color          | color        | 颜色模式     | “颜色”模式能够使用“混合色”颜色的饱和度值和色相值同时进行着色，而使“基色”颜色的亮度值保持不变。“颜色”模式模式可以看成是“饱合度”模式和“色相”模式的综合效果。                                   |\n| luminosity     | luminosity   | 亮度模式     | “亮度”模式能够使用“混合色”颜色的亮度值进行着色，而保持“基色”颜色的饱和度和色相数值不变。其实就是用“基色”中的“色相”和“饱和度”以及“混合色”的亮度创建“结果色”。                                 |",
+            "date_modified": "2020-02-18T14:10:07.937Z"
+        },
+        {
+            "id": "https://luzhaoyang.com/zh/posts/css-di-si-ji-xuan-ze-qi.html",
+            "url": "https://luzhaoyang.com/zh/posts/css-di-si-ji-xuan-ze-qi.html",
+            "title": "CSS第四级选择器",
+            "summary": "例如：",
+            "image": "https://luzhaoyang.com/images/CSS第四级选择器/640-4.webp",
+            "date_modified": "2020-02-18T14:10:07.937Z"
+        },
+        {
+            "id": "https://luzhaoyang.com/zh/posts/js-zhong-ke-yi-ti-sheng-xing-fu-du-de-xiao-ji-qiao.html",
+            "url": "https://luzhaoyang.com/zh/posts/js-zhong-ke-yi-ti-sheng-xing-fu-du-de-xiao-ji-qiao.html",
+            "title": "JS中可以提升幸福度的小技巧",
+            "summary": "mandatory = () => {\n  throw new Error('Missing parameter!');\n};\nfoo = (bar = mandatory()) => {\n  // 这里如果不传入参数，就会执行manadatory函数报出错误\n  return bar;\n};\n`",
+            "date_modified": "2020-02-18T14:10:07.937Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/javascript-yun-xing-yuan-li.html",
             "url": "https://luzhaoyang.com/zh/posts/javascript-yun-xing-yuan-li.html",
             "title": "JavaScript运行原理",
-            "summary": "因此，为了给这些引擎确立一个规范，ECMA 的标准诞生了，该标准主要提供如何编写引擎和 JavaScript 所有功能的规范。这就是新功能能在 ECMAScript 6、7、8 上实现的原因。同时，引擎也进行了更新以支持这些新功能。于是，我们便可以在开发过程中检查了浏览器中 JS 高级功能的可用性。",
+            "summary": "JavaScript 引擎的整体工作原理就是这样。相信您无需学习 JavaScript 也可以理解。当然，您甚至可以在不知道 JavaScript 如何工作的情况下编写代码。但是，如果我们了解一些幕后的知识，或许能让我们编写出更好的代码。",
             "image": "https://luzhaoyang.com/images/JavaScript运行原理/640-7.webp",
-            "date_modified": "2020-02-18T12:19:44.187Z"
+            "date_modified": "2020-02-18T14:10:07.937Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/vue-zhe-xie-xiu-shi-fu-bang-wo-jie-sheng-wu-fen-zhi-yi-de-kai-fa-shi-jian.html",
             "url": "https://luzhaoyang.com/zh/posts/vue-zhe-xie-xiu-shi-fu-bang-wo-jie-sheng-wu-fen-zhi-yi-de-kai-fa-shi-jian.html",
             "title": "Vue这些修饰符帮我节省五分之一的开发时间",
-            "summary": "ok\n",
+            "summary": "ok\nok\nok\n`",
             "image": "https://luzhaoyang.com/images/Vue这些修饰符帮我节省五分之一的开发时间/微信图片_20200113110946.jpg",
-            "date_modified": "2020-02-18T12:19:44.188Z"
-        },
-        {
-            "id": "https://luzhaoyang.com/zh/posts/web-chang-jian-gong-ji-zong-jie.html",
-            "url": "https://luzhaoyang.com/zh/posts/web-chang-jian-gong-ji-zong-jie.html",
-            "title": "Web常见攻击总结",
-            "summary": "&lt;script&gt;alert(1)&lt;&#x2F;script>\n`",
-            "date_modified": "2020-02-18T12:19:44.188Z"
-        },
-        {
-            "id": "https://luzhaoyang.com/zh/posts/webcomponents-ru-men-shi-li-jiao-cheng.html",
-            "url": "https://luzhaoyang.com/zh/posts/webcomponents-ru-men-shi-li-jiao-cheng.html",
-            "title": "WebComponents入门实例教程",
-            "summary": "name.classList.add('name');\n    name.innerText = 'User Name';",
-            "image": "https://luzhaoyang.com/images/WebComponents入门实例教程/微信图片_20200113111110.jpg",
-            "date_modified": "2020-02-18T12:19:44.189Z"
+            "date_modified": "2020-02-18T14:10:07.937Z"
         }
     ]
 }
