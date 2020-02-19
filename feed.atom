@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://luzhaoyang.com</id>
     <title></title>
-    <updated>2020-02-19T09:20:06.346Z</updated>
+    <updated>2020-02-19T09:38:43.982Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://luzhaoyang.com"/>
     <link rel="self" href="https://luzhaoyang.com/feed.atom"/>
@@ -11,35 +11,35 @@
         <id>https://luzhaoyang.com/posts/finally-have-a-nest.html</id>
         <link href="https://luzhaoyang.com/posts/finally-have-a-nest.html">
         </link>
-        <updated>2020-02-19T09:19:38.674Z</updated>
+        <updated>2020-02-19T09:38:20.853Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript：ES2019的新特性]]></title>
         <id>https://luzhaoyang.com/zh/posts/javascript-es2019-de-xin-te-xing.html</id>
         <link href="https://luzhaoyang.com/zh/posts/javascript-es2019-de-xin-te-xing.html">
         </link>
-        <updated>2020-02-19T09:19:38.678Z</updated>
+        <updated>2020-02-19T09:38:20.855Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[终于有个窝了]]></title>
         <id>https://luzhaoyang.com/zh/posts/finally-have-a-nest.html</id>
         <link href="https://luzhaoyang.com/zh/posts/finally-have-a-nest.html">
         </link>
-        <updated>2020-02-19T09:19:38.678Z</updated>
+        <updated>2020-02-19T09:38:20.855Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[刚刚还好好的，咋突然跨域了？]]></title>
         <id>https://luzhaoyang.com/zh/posts/gang-gang-huan-hao-hao-de-zha-tu-ran-kua-yu-liao-.html</id>
         <link href="https://luzhaoyang.com/zh/posts/gang-gang-huan-hao-hao-de-zha-tu-ran-kua-yu-liao-.html">
         </link>
-        <updated>2020-02-19T09:19:38.678Z</updated>
+        <updated>2020-02-19T09:38:20.856Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[前端代码美化的艺术]]></title>
         <id>https://luzhaoyang.com/zh/posts/qian-duan-dai-ma-mei-hua-de-yi-zhu.html</id>
         <link href="https://luzhaoyang.com/zh/posts/qian-duan-dai-ma-mei-hua-de-yi-zhu.html">
         </link>
-        <updated>2020-02-19T09:19:38.680Z</updated>
+        <updated>2020-02-19T09:38:20.857Z</updated>
         <summary type="html"><![CDATA[原本只是想简单的聊一下代码格式化的问题，无奈本文拖沓了很久，在此期间，我又思考了很多，我越来越觉得代码格式化是一门艺术。为了衬托“艺术”二字，可能叫“代码美化”更贴切一点，但是本文的深度远没有标题那么宏大。]]></summary>
     </entry>
     <entry>
@@ -47,7 +47,7 @@
         <id>https://luzhaoyang.com/zh/posts/tong-yi-ge-zuo-biao-gu-ge-gao-de-bai-du-di-tu-ju-ran-zhi-xiang-liao-san-ge-bu-tong-de-di-fang.html</id>
         <link href="https://luzhaoyang.com/zh/posts/tong-yi-ge-zuo-biao-gu-ge-gao-de-bai-du-di-tu-ju-ran-zhi-xiang-liao-san-ge-bu-tong-de-di-fang.html">
         </link>
-        <updated>2020-02-19T09:19:38.680Z</updated>
+        <updated>2020-02-19T09:38:20.857Z</updated>
         <summary type="html"><![CDATA[咱们今天就来说说坐标偏移这小破事 ~
 :::]]></summary>
     </entry>
@@ -56,7 +56,7 @@
         <id>https://luzhaoyang.com/zh/posts/qiao-yongcss-shi-xian-ku-xuan-de-chong-dian-dong-hua.html</id>
         <link href="https://luzhaoyang.com/zh/posts/qiao-yongcss-shi-xian-ku-xuan-de-chong-dian-dong-hua.html">
         </link>
-        <updated>2020-02-19T09:19:38.680Z</updated>
+        <updated>2020-02-19T09:38:20.857Z</updated>
         <summary type="html"><![CDATA[方法很多，代码也很简单，直接看效果：
 微信图片\_20200101151042
 有内味了，如果要求不高，这个勉强也就能够交差了。通过蓝色渐变表示电量，通过色块的位移动画实现充电的动画。但是总感觉少了点什么。]]></summary>
@@ -66,7 +66,7 @@
         <id>https://luzhaoyang.com/zh/posts/zui-chang-yong-degit-ming-ling-zong-jie.html</id>
         <link href="https://luzhaoyang.com/zh/posts/zui-chang-yong-degit-ming-ling-zong-jie.html">
         </link>
-        <updated>2020-02-19T09:19:38.680Z</updated>
+        <updated>2020-02-19T09:38:20.857Z</updated>
         <summary type="html"><![CDATA[git branch origin :分支名 删除远处仓库分支
 git merge 分支名 合并分支到当前分支上]]></summary>
     </entry>
@@ -75,21 +75,21 @@ git merge 分支名 合并分支到当前分支上]]></summary>
         <id>https://luzhaoyang.com/zh/posts/li-qingtex-ketex-mathjax-letex......-de-guan-xi-ji-fu-hao-biao-shi-ji-he.html</id>
         <link href="https://luzhaoyang.com/zh/posts/li-qingtex-ketex-mathjax-letex......-de-guan-xi-ji-fu-hao-biao-shi-ji-he.html">
         </link>
-        <updated>2020-02-19T09:19:38.681Z</updated>
+        <updated>2020-02-19T09:38:20.857Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[纯CSS实现目录自动编号]]></title>
         <id>https://luzhaoyang.com/zh/posts/chuncss-shi-xian-mu-lu-zi-dong-bian-hao.html</id>
         <link href="https://luzhaoyang.com/zh/posts/chuncss-shi-xian-mu-lu-zi-dong-bian-hao.html">
         </link>
-        <updated>2020-02-19T09:19:38.681Z</updated>
+        <updated>2020-02-19T09:38:20.858Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[谷歌新提案：WebBundlesAPI可在脱机状态实现内容分发]]></title>
         <id>https://luzhaoyang.com/zh/posts/gu-ge-xin-ti-an-webbundlesapi-ke-zai-tuo-ji-zhuang-tai-shi-xian-nei-rong-fen-fa.html</id>
         <link href="https://luzhaoyang.com/zh/posts/gu-ge-xin-ti-an-webbundlesapi-ke-zai-tuo-ji-zhuang-tai-shi-xian-nei-rong-fen-fa.html">
         </link>
-        <updated>2020-02-19T09:19:38.681Z</updated>
+        <updated>2020-02-19T09:38:20.858Z</updated>
         <summary type="html"><![CDATA[::: tip
 在 2019 年 Chrome 开发者峰会 上，谷歌预览了全新的 Web Bundles API。这是一种基础架构 API，开发人员可以通过它以任何格式（电子邮件、FTP 甚至 USB）分发他们的 Web 内容，而内容本身不会有任何改动。这种技术不仅能够以闪电般的速度交付 Web 内容，而且即使用户处于脱机状态，也可以实现点对点内容分发。
 :::]]></summary>
@@ -99,7 +99,7 @@ git merge 分支名 合并分支到当前分支上]]></summary>
         <id>https://luzhaoyang.com/zh/posts/tong-guohtml-shu-xing-ke-gai-shan-yong-hu-de-shuang-chong-shen-fen-yan-zheng-ti-yan.html</id>
         <link href="https://luzhaoyang.com/zh/posts/tong-guohtml-shu-xing-ke-gai-shan-yong-hu-de-shuang-chong-shen-fen-yan-zheng-ti-yan.html">
         </link>
-        <updated>2020-02-19T09:19:38.682Z</updated>
+        <updated>2020-02-19T09:38:20.858Z</updated>
         <summary type="html"><![CDATA[
 
       Please enter the code you were sent:
@@ -110,7 +110,7 @@ git merge 分支名 合并分支到当前分支上]]></summary>
         <id>https://luzhaoyang.com/posts/my-first-post.html</id>
         <link href="https://luzhaoyang.com/posts/my-first-post.html">
         </link>
-        <updated>2020-02-19T09:19:38.682Z</updated>
+        <updated>2020-02-19T09:38:20.858Z</updated>
         <summary type="html"><![CDATA[Meta description, one of the three TDK tags on the original page, is also a page optimization element that SEO staff need to focus on optimization.]]></summary>
     </entry>
     <entry>
@@ -118,7 +118,7 @@ git merge 分支名 合并分支到当前分支上]]></summary>
         <id>https://luzhaoyang.com/zh/posts/css-hun-he-mo-shi.html</id>
         <link href="https://luzhaoyang.com/zh/posts/css-hun-he-mo-shi.html">
         </link>
-        <updated>2020-02-19T09:20:06.307Z</updated>
+        <updated>2020-02-19T09:38:43.958Z</updated>
         <summary type="html"><![CDATA[| :------------- | :----------- | :----------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | normal         | normal       | 正常模式     | 混合色的像素会透过所用的颜色显示出来                                                                                                                                                         |
 | multiply       | multiply     | 正片叠底模式 | 在“正片叠底”模式中，查看每个通道中的颜色信息，并将“基色”与“混合色”复合。                                                                                                                     |
@@ -138,86 +138,64 @@ git merge 分支名 合并分支到当前分支上]]></summary>
 | luminosity     | luminosity   | 亮度模式     | “亮度”模式能够使用“混合色”颜色的亮度值进行着色，而保持“基色”颜色的饱和度和色相数值不变。其实就是用“基色”中的“色相”和“饱和度”以及“混合色”的亮度创建“结果色”。                                 |]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Array原型方法源码实现大解密]]></title>
-        <id>https://luzhaoyang.com/zh/posts/array-yuan-xing-fang-fa-yuan-ma-shi-xian-da-jie-mi.html</id>
-        <link href="https://luzhaoyang.com/zh/posts/array-yuan-xing-fang-fa-yuan-ma-shi-xian-da-jie-mi.html">
+        <title type="html"><![CDATA[HybridApp离线包方案实践]]></title>
+        <id>https://luzhaoyang.com/zh/posts/hybridapp-chi-xian-bao-fang-an-shi-jian.html</id>
+        <link href="https://luzhaoyang.com/zh/posts/hybridapp-chi-xian-bao-fang-an-shi-jian.html">
         </link>
-        <updated>2020-02-19T09:20:06.307Z</updated>
-        <summary type="html"><![CDATA[}
-};
-let arr = [1, 2, 3];
-let result = arr.map(obj.callback, obj);
-console.log(result);
-// ["1", "2", "3"]，此时 this 指向 window
-// 那为啥不是 "Muyiy1" 这样呢，不急，第 3 步介绍
-// ----------- 完美分割线 -----------]]></summary>
+        <updated>2020-02-19T09:38:43.958Z</updated>
+        <summary type="html"><![CDATA[final String url = request.getUrl().toString();
+    WebResourceResponse resourceResponse = getWebResourceResponse(url);
+    if (resourceResponse == null) {
+      return super.shouldInterceptRequest(view, request);
+    }
+    return resourceResponse;
+  }]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[CSS第四级选择器]]></title>
         <id>https://luzhaoyang.com/zh/posts/css-di-si-ji-xuan-ze-qi.html</id>
         <link href="https://luzhaoyang.com/zh/posts/css-di-si-ji-xuan-ze-qi.html">
         </link>
-        <updated>2020-02-19T09:20:06.307Z</updated>
+        <updated>2020-02-19T09:38:43.958Z</updated>
         <summary type="html"><![CDATA[例如：]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HybridApp离线包方案实践]]></title>
-        <id>https://luzhaoyang.com/zh/posts/hybridapp-chi-xian-bao-fang-an-shi-jian.html</id>
-        <link href="https://luzhaoyang.com/zh/posts/hybridapp-chi-xian-bao-fang-an-shi-jian.html">
+        <title type="html"><![CDATA[Array原型方法源码实现大解密]]></title>
+        <id>https://luzhaoyang.com/zh/posts/array-yuan-xing-fang-fa-yuan-ma-shi-xian-da-jie-mi.html</id>
+        <link href="https://luzhaoyang.com/zh/posts/array-yuan-xing-fang-fa-yuan-ma-shi-xian-da-jie-mi.html">
         </link>
-        <updated>2020-02-19T09:20:06.307Z</updated>
-        <summary type="html"><![CDATA[@param url 资源地址
-   */
-  private WebResourceResponse getWebResourceResponse(String url) {
-    try {
-      WebResourceResponse resourceResponse = PackageManager.getInstance().getResource(url);
-      return resourceResponse;
-    } catch (Exception e) {
-      e.printStackTrace();
-    }
-    return null;
-  }
-}
-`]]></summary>
+        <updated>2020-02-19T09:38:43.958Z</updated>
+        <summary type="html"><![CDATA[}
+};
+let arr = [1, 2, 3];
+let result = arr.map(obj.callback, obj);
+console.log(result);
+// ["Hello1", "Hello2", "Hello3"]，完美
+// ----------- 完美分割线 -----------]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[JS中可以提升幸福度的小技巧]]></title>
         <id>https://luzhaoyang.com/zh/posts/js-zhong-ke-yi-ti-sheng-xing-fu-du-de-xiao-ji-qiao.html</id>
         <link href="https://luzhaoyang.com/zh/posts/js-zhong-ke-yi-ti-sheng-xing-fu-du-de-xiao-ji-qiao.html">
         </link>
-        <updated>2020-02-19T09:20:06.308Z</updated>
-        <summary type="html"><![CDATA[function foo() {
-  if (a !== b) {
-    console.log('aaa');
-  } else {
-    console.log('bbb');
-  }
-}
-// 优化后
-function foo() {
-  if (a != b) {
-    foo = function() {
-      console.log('aaa');
-    };
-  } else {
-    foo = function() {
-      console.log('bbb');
-    };
-  }]]></summary>
+        <updated>2020-02-19T09:38:43.958Z</updated>
+        <summary type="html"><![CDATA[`]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript运行原理]]></title>
         <id>https://luzhaoyang.com/zh/posts/javascript-yun-xing-yuan-li.html</id>
         <link href="https://luzhaoyang.com/zh/posts/javascript-yun-xing-yuan-li.html">
         </link>
-        <updated>2020-02-19T09:20:06.308Z</updated>
+        <updated>2020-02-19T09:38:43.958Z</updated>
+        <summary type="html"><![CDATA[JavaScript 运行原理]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Vue这些修饰符帮我节省五分之一的开发时间]]></title>
         <id>https://luzhaoyang.com/zh/posts/vue-zhe-xie-xiu-shi-fu-bang-wo-jie-sheng-wu-fen-zhi-yi-de-kai-fa-shi-jian.html</id>
         <link href="https://luzhaoyang.com/zh/posts/vue-zhe-xie-xiu-shi-fu-bang-wo-jie-sheng-wu-fen-zhi-yi-de-kai-fa-shi-jian.html">
         </link>
-        <updated>2020-02-19T09:20:06.308Z</updated>
-        <summary type="html"><![CDATA[{{value}}]]></summary>
+        <updated>2020-02-19T09:38:43.958Z</updated>
+        <summary type="html"><![CDATA[ok
+`]]></summary>
     </entry>
 </feed>
