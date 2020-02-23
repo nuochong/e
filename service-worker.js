@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "a79436d6c04bb39dab3183beeaec422f"
+    "revision": "77ff3888846aa7b8760762eacd797fc5"
   },
   {
     "url": "abduction.svg",
@@ -35,7 +35,7 @@ self.__precacheManifest = [
   },
   {
     "url": "about/index.html",
-    "revision": "08dfcafe2dcf38418c1026ea538e7f16"
+    "revision": "aaffebc22e017eecee9f6268db54f2e0"
   },
   {
     "url": "assets/css/0.styles.c9b73e64.css",
@@ -142,7 +142,11 @@ self.__precacheManifest = [
     "revision": "388b56d3051f9e07ccfec53a7f866be0"
   },
   {
-    "url": "assets/css/styles.b9691f46.css",
+    "url": "assets/css/styles.29415581.css",
+    "revision": "37c47843cc3a453a0693ece7a44f8f8f"
+  },
+  {
+    "url": "assets/css/styles.a2f3ae18.css",
     "revision": "37c47843cc3a453a0693ece7a44f8f8f"
   },
   {
@@ -244,6 +248,10 @@ self.__precacheManifest = [
   {
     "url": "assets/js/101.04749c98.js",
     "revision": "a1b496fec91e71561397bd40a5dc4bf0"
+  },
+  {
+    "url": "assets/js/101.aedaa403.js",
+    "revision": "fe70c015d376242df984c7d2e2d8d464"
   },
   {
     "url": "assets/js/102.b504b4a0.js",
@@ -446,8 +454,20 @@ self.__precacheManifest = [
     "revision": "d7eee4439f0ca34d650e00560dae81e1"
   },
   {
+    "url": "assets/js/52.2804357e.js",
+    "revision": "3421cffd092e024e3569f292ea577c32"
+  },
+  {
+    "url": "assets/js/53.760b022f.js",
+    "revision": "be26fbccca61f9ea0e64aad2ea4a3b0f"
+  },
+  {
     "url": "assets/js/53.9c0ba896.js",
     "revision": "7d039f405a50f32af783d0e5d1702bab"
+  },
+  {
+    "url": "assets/js/54.3051a238.js",
+    "revision": "e350d252fbf0b201b20cc4010d23e75a"
   },
   {
     "url": "assets/js/54.4729f6e8.js",
@@ -490,20 +510,28 @@ self.__precacheManifest = [
     "revision": "dfca669a09995f3fc20efedbbcef5ab1"
   },
   {
-    "url": "assets/js/63.6754c725.js",
-    "revision": "a32cc079d0f8fb0212572a3b830b3c77"
+    "url": "assets/js/63.c208b609.js",
+    "revision": "a92daf266abe45f96a1975fed4768914"
   },
   {
-    "url": "assets/js/64.7531bebe.js",
-    "revision": "d47a202dc5fb0698b20630cef632ebf8"
+    "url": "assets/js/64.36f4b8ae.js",
+    "revision": "bf2fe4a7a92313fe536b783c64385a73"
+  },
+  {
+    "url": "assets/js/65.28380a13.js",
+    "revision": "c8d74c173f9a464a28df701c8f956280"
   },
   {
     "url": "assets/js/65.c88c58c1.js",
     "revision": "f8205bdba6a41599322947d280fec2ca"
   },
   {
-    "url": "assets/js/66.e0e90994.js",
-    "revision": "f2efd3809fd748c2c6123e38764136e0"
+    "url": "assets/js/66.092a9744.js",
+    "revision": "390bfb082b693b302ee0d3f45616f71b"
+  },
+  {
+    "url": "assets/js/66.0a705c93.js",
+    "revision": "deca85c0ab28b8c311258990b74faf2d"
   },
   {
     "url": "assets/js/67.06d70b9b.js",
@@ -610,8 +638,16 @@ self.__precacheManifest = [
     "revision": "a47e6a6a424d9aadf51ef70195fd91ea"
   },
   {
+    "url": "assets/js/92.0ef9aedd.js",
+    "revision": "989c2937eac9898bcc786c97b494c547"
+  },
+  {
     "url": "assets/js/92.bb96586e.js",
     "revision": "090f97516723c3ed72fdc91911946702"
+  },
+  {
+    "url": "assets/js/93.c5e34aec.js",
+    "revision": "cfdefc02643028ba69cc56b17f412a2d"
   },
   {
     "url": "assets/js/93.d36d7b29.js",
@@ -638,8 +674,16 @@ self.__precacheManifest = [
     "revision": "896f8dfee72b8ae60dfe3ed4e100995a"
   },
   {
-    "url": "assets/js/99.dd5fa396.js",
-    "revision": "b70d8dd2545402d313b4b4ee48e71931"
+    "url": "assets/js/98.e1bc961b.js",
+    "revision": "83bf5f43ca66c0886b30cd86a724fbd7"
+  },
+  {
+    "url": "assets/js/99.0affa762.js",
+    "revision": "934f66d3af140523c27b3e49d2861795"
+  },
+  {
+    "url": "assets/js/99.e7d04a3a.js",
+    "revision": "bb1458778e4414a62b0b0cb91a8112ed"
   },
   {
     "url": "assets/js/vendors~flowchart.992bf744.js",
@@ -647,11 +691,11 @@ self.__precacheManifest = [
   },
   {
     "url": "authors/index.html",
-    "revision": "318844bd8ed4e79c323a927d1d9b502b"
+    "revision": "627c4fcd9f907d817797a09ab94fc93a"
   },
   {
     "url": "authors/nuochong.html",
-    "revision": "2b2706cbe9a2c77df30ab979490e1bc9"
+    "revision": "bb7c15d425a7defe8b6a7973bd7370c8"
   },
   {
     "url": "autores/github_awatar1.png",
@@ -671,15 +715,15 @@ self.__precacheManifest = [
   },
   {
     "url": "categories/backend.html",
-    "revision": "3a695c4960c1328ca480ade981eb4f58"
+    "revision": "47d1dbca08206459a8b17a2306e38179"
   },
   {
     "url": "categories/frontend.html",
-    "revision": "b79acdeb73b158585e5b7b1b467b8591"
+    "revision": "06ce0ad55dbb2c79e28bc896293572b4"
   },
   {
     "url": "categories/index.html",
-    "revision": "4156163885897bee6e5b2e97ebb8f102"
+    "revision": "52000842c34449544cd9777428e171db"
   },
   {
     "url": "code/test.js",
@@ -687,11 +731,11 @@ self.__precacheManifest = [
   },
   {
     "url": "comments/index.html",
-    "revision": "4d2d1dedd33e11fce40606efaada08b9"
+    "revision": "7d83fc61deb7b584f43266cb13cbaf00"
   },
   {
     "url": "contact/index.html",
-    "revision": "7406172ea52d9b1214e100b18e679c1f"
+    "revision": "b11e154bce62902d35fbe966cd709df1"
   },
   {
     "url": "fallback.png",
@@ -838,48 +882,200 @@ self.__precacheManifest = [
     "revision": "43f3881d3115aabff8941e00447784f9"
   },
   {
-    "url": "gallery/index.html",
-    "revision": "4452effb5c0f45574898d7078cd5e3bd"
+    "url": "gallery/bitty/blessed-state/01-small.jpg",
+    "revision": "a7b63d7cd3692369a7ce954f5d391a0b"
   },
   {
-    "url": "gallery/thumbs/2-small.jpg",
+    "url": "gallery/bitty/blessed-state/02-small.jpg",
+    "revision": "d11f548fab0753dd23028cf9a82b0c65"
+  },
+  {
+    "url": "gallery/bitty/blessed-state/03-small.jpg",
+    "revision": "3eae93c619f6332b1e63534bacc3138f"
+  },
+  {
+    "url": "gallery/bitty/blessed-state/04-small.jpg",
+    "revision": "1228eaa786deea100720090efc736378"
+  },
+  {
+    "url": "gallery/bitty/blessed-state/05-small.jpg",
+    "revision": "2b960291dfdbbe7324ee94c1b71f9e0f"
+  },
+  {
+    "url": "gallery/bitty/blessed-state/06-small.jpg",
+    "revision": "eb8c4b4cb30f78ff1e17a00cfb94de6b"
+  },
+  {
+    "url": "gallery/bitty/blessed-state/07-small.jpg",
+    "revision": "615dc1d2c6da87177d49f35ece84be17"
+  },
+  {
+    "url": "gallery/bitty/blessed-state/08-small.jpg",
+    "revision": "44a2660b1c73e7ac9d8d131c412d3c61"
+  },
+  {
+    "url": "gallery/bitty/blessed-state/09-small.jpg",
+    "revision": "80b6716c83e2a2f02a5fe6947743abb8"
+  },
+  {
+    "url": "gallery/bitty/blessed-state/10-small.jpg",
+    "revision": "77f3204b08ea0c7a76126fb1ebac798b"
+  },
+  {
+    "url": "gallery/bitty/blessed-state/11-small.jpg",
+    "revision": "33d71e0a3719b666f859446ba92166c8"
+  },
+  {
+    "url": "gallery/bitty/blessed-state/12-small.jpg",
+    "revision": "c16dd9a75e047fcc1f38006193cbb270"
+  },
+  {
+    "url": "gallery/bitty/blessed-state/13-small.jpg",
+    "revision": "481fb760fca770be1e8d78f48a708c5f"
+  },
+  {
+    "url": "gallery/bitty/blessed-state/14-small.jpg",
+    "revision": "dbb54130c53d7ac88b28b6cdb2b4ea04"
+  },
+  {
+    "url": "gallery/bitty/blessed-state/15-small.jpg",
+    "revision": "4414ad5a60b2ddb92a1cf79cd28136f6"
+  },
+  {
+    "url": "gallery/bitty/blessed-state/16-small.jpg",
+    "revision": "955ce5dbebddbe33b807dbd24f11d067"
+  },
+  {
+    "url": "gallery/bitty/blessed-state/17-small.jpg",
+    "revision": "73f35009cb91dce2354528a5f23d1080"
+  },
+  {
+    "url": "gallery/bitty/formosa/2-small.jpg",
     "revision": "578cc7b21b9b2cb9b4f083b02a1c7b19"
   },
   {
-    "url": "gallery/thumbs/20190210_122840-small.jpg",
+    "url": "gallery/bitty/formosa/20190210_122840-small.jpg",
     "revision": "02ed1a497792b6d8b40796a819f1dadb"
   },
   {
-    "url": "gallery/thumbs/20190211_115351-small.jpg",
+    "url": "gallery/bitty/formosa/20190211_115351-small.jpg",
     "revision": "7fc0381a5d020c758b2e83d95e03a57f"
   },
   {
-    "url": "gallery/thumbs/20190211_122735-small.jpg",
+    "url": "gallery/bitty/formosa/20190211_122735-small.jpg",
     "revision": "5ca29b500f68470496424ba4b3e0ad5a"
   },
   {
-    "url": "gallery/thumbs/20190212_170821-small.jpg",
+    "url": "gallery/bitty/formosa/20190212_170821-small.jpg",
     "revision": "489e862ef913cf390195ad07c65a7cda"
   },
   {
-    "url": "gallery/thumbs/20190213_112738_003-small.jpg",
+    "url": "gallery/bitty/formosa/20190213_112738_003-small.jpg",
     "revision": "25db26bd010a0698524a3bcbd1732f6a"
   },
   {
-    "url": "gallery/thumbs/20190214_165923-small.jpg",
+    "url": "gallery/bitty/formosa/20190214_165923-small.jpg",
     "revision": "6083c4cbdbd9a57f7bdc9483285b9420"
   },
   {
-    "url": "gallery/thumbs/3-small.jpg",
+    "url": "gallery/bitty/formosa/3-small.jpg",
     "revision": "fbea5aec700e793e3b5f3141d23557ba"
   },
   {
-    "url": "gallery/thumbs/4-small.jpg",
+    "url": "gallery/bitty/formosa/4-small.jpg",
     "revision": "b37736b9443c065025bf1d5de716b35e"
   },
   {
-    "url": "gallery/thumbs/5-small.jpg",
+    "url": "gallery/bitty/formosa/5-small.jpg",
     "revision": "3eda5685194a4cfb2ee585378a8b69f7"
+  },
+  {
+    "url": "gallery/index.html",
+    "revision": "b50cc037dd5a06432ba98d332519b74a"
+  },
+  {
+    "url": "gallery/thumbs/fadeIn-animation/3-1.jpg",
+    "revision": "bb91bd86e4918daf05976f294927cfa0"
+  },
+  {
+    "url": "gallery/thumbs/fadeIn-animation/3-2.jpg",
+    "revision": "0e0989a98573c446204a389646ee48ad"
+  },
+  {
+    "url": "gallery/thumbs/fadeIn-animation/3-3.jpg",
+    "revision": "51b975977d248c291acc5a3a99e9777d"
+  },
+  {
+    "url": "gallery/thumbs/fadeIn-animation/3-4.jpg",
+    "revision": "d7a56af3ce16c2fe944b72a51d6b332d"
+  },
+  {
+    "url": "gallery/thumbs/responsive-images/2-1.jpg",
+    "revision": "d9f1f0567375fc5e75a9f2e8842522b8"
+  },
+  {
+    "url": "gallery/thumbs/responsive-images/2-2.jpg",
+    "revision": "de5bf508a5a404e9f890d67fc4b59a32"
+  },
+  {
+    "url": "gallery/thumbs/responsive-images/2-3.jpg",
+    "revision": "8a199b32c3126988e4a963b60050b0e3"
+  },
+  {
+    "url": "gallery/thumbs/responsive-images/2-4.jpg",
+    "revision": "1a6787d187bbff341166de28e6c0f858"
+  },
+  {
+    "url": "gallery/thumbs/sample-gallery/1-1.jpg",
+    "revision": "cca6f9b2ac0a85fcdb348cf14d8530a9"
+  },
+  {
+    "url": "gallery/thumbs/sample-gallery/1-2.jpg",
+    "revision": "4ffd75154b8dd634b5f537753a3e7a54"
+  },
+  {
+    "url": "gallery/thumbs/sample-gallery/1-3.jpg",
+    "revision": "5ae82fbdc3b51b49239ddf2e93b9ec6d"
+  },
+  {
+    "url": "gallery/thumbs/sample-gallery/1-4.jpg",
+    "revision": "2c6fccf80141265c0c78710eb06a5e96"
+  },
+  {
+    "url": "gallery/thumbs/sample-gallery/1-5.jpg",
+    "revision": "f512d6af493c26b648bc710d3da151ba"
+  },
+  {
+    "url": "gallery/thumbs/sample-gallery/1-6.jpg",
+    "revision": "48bf56c06b2929dd0a2f449072c38327"
+  },
+  {
+    "url": "gallery/thumbs/sample-gallery/1-7.jpg",
+    "revision": "3a49e43cd5f030d9ee5aedc6922e2cdf"
+  },
+  {
+    "url": "gallery/thumbs/sample-gallery/1-8.jpg",
+    "revision": "06c9fe0163a08a87925b318aa55938c9"
+  },
+  {
+    "url": "gallery/thumbs/single-image/5-1.jpg",
+    "revision": "f8e2999c1df9bcc78f7dbba9b9e18206"
+  },
+  {
+    "url": "gallery/thumbs/small-images/4-1.jpg",
+    "revision": "58f6e058cce353fe30024b72b1b708d8"
+  },
+  {
+    "url": "gallery/thumbs/small-images/4-2.jpg",
+    "revision": "c47a56cc30880c2e7a0a875e73517782"
+  },
+  {
+    "url": "gallery/thumbs/small-images/4-3.jpg",
+    "revision": "5940c8064a2d477bccf867e9f08ca722"
+  },
+  {
+    "url": "gallery/thumbs/small-images/4-4.jpg",
+    "revision": "deeb195b40bc64db8e64940cdb5b4853"
   },
   {
     "url": "general/web-development.png",
@@ -899,7 +1095,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "6b78f8f1868f8b4124250910efcb2e29"
+    "revision": "6278656bfaa2e0daec49d31d1ea46a36"
   },
   {
     "url": "ktquez-play-logo.png",
@@ -942,74 +1138,6 @@ self.__precacheManifest = [
     "revision": "5d6e0255a7862551b3a3afea8568f305"
   },
   {
-    "url": "photograph/photo/small/01-small.jpg",
-    "revision": "a7b63d7cd3692369a7ce954f5d391a0b"
-  },
-  {
-    "url": "photograph/photo/small/02-small.jpg",
-    "revision": "d11f548fab0753dd23028cf9a82b0c65"
-  },
-  {
-    "url": "photograph/photo/small/03-small.jpg",
-    "revision": "3eae93c619f6332b1e63534bacc3138f"
-  },
-  {
-    "url": "photograph/photo/small/04-small.jpg",
-    "revision": "1228eaa786deea100720090efc736378"
-  },
-  {
-    "url": "photograph/photo/small/05-small.jpg",
-    "revision": "2b960291dfdbbe7324ee94c1b71f9e0f"
-  },
-  {
-    "url": "photograph/photo/small/06-small.jpg",
-    "revision": "eb8c4b4cb30f78ff1e17a00cfb94de6b"
-  },
-  {
-    "url": "photograph/photo/small/07-small.jpg",
-    "revision": "615dc1d2c6da87177d49f35ece84be17"
-  },
-  {
-    "url": "photograph/photo/small/08-small.jpg",
-    "revision": "44a2660b1c73e7ac9d8d131c412d3c61"
-  },
-  {
-    "url": "photograph/photo/small/09-small.jpg",
-    "revision": "80b6716c83e2a2f02a5fe6947743abb8"
-  },
-  {
-    "url": "photograph/photo/small/10-small.jpg",
-    "revision": "77f3204b08ea0c7a76126fb1ebac798b"
-  },
-  {
-    "url": "photograph/photo/small/11-small.jpg",
-    "revision": "33d71e0a3719b666f859446ba92166c8"
-  },
-  {
-    "url": "photograph/photo/small/12-small.jpg",
-    "revision": "c16dd9a75e047fcc1f38006193cbb270"
-  },
-  {
-    "url": "photograph/photo/small/13-small.jpg",
-    "revision": "481fb760fca770be1e8d78f48a708c5f"
-  },
-  {
-    "url": "photograph/photo/small/14-small.jpg",
-    "revision": "dbb54130c53d7ac88b28b6cdb2b4ea04"
-  },
-  {
-    "url": "photograph/photo/small/15-small.jpg",
-    "revision": "4414ad5a60b2ddb92a1cf79cd28136f6"
-  },
-  {
-    "url": "photograph/photo/small/16-small.jpg",
-    "revision": "955ce5dbebddbe33b807dbd24f11d067"
-  },
-  {
-    "url": "photograph/photo/small/17-small.jpg",
-    "revision": "73f35009cb91dce2354528a5f23d1080"
-  },
-  {
     "url": "photograph/quote-1.png",
     "revision": "992f452390d29db27524de3a32d1b76c"
   },
@@ -1031,19 +1159,19 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/finally-have-a-nest.html",
-    "revision": "a817f11013a205f18cdb51a09f1a7164"
+    "revision": "44eab0f44489351155840a91a9a02965"
   },
   {
     "url": "posts/index.html",
-    "revision": "30d30a3de248c947a3cfce61f27eaa15"
+    "revision": "378d51402a7f7b2b2eba997a3f839b06"
   },
   {
     "url": "posts/my-first-post.html",
-    "revision": "73be2dbb012f9b061dd6d2be2f04aa79"
+    "revision": "52c72b9c41f6798be4b36374230d462c"
   },
   {
     "url": "travel/index.html",
-    "revision": "a913b73baaff347dc865090018500b07"
+    "revision": "15b9139e319700f0f54e3fba08f15547"
   },
   {
     "url": "watermark-logo.png",
@@ -1051,211 +1179,211 @@ self.__precacheManifest = [
   },
   {
     "url": "zh/about/index.html",
-    "revision": "7e28898f7610bbe3fb60882f1dc3be2f"
+    "revision": "8666b1e439a97018cac6dab79d560048"
   },
   {
     "url": "zh/authors/index.html",
-    "revision": "6e31e42997e438b038aa920b5a55ef48"
+    "revision": "fb13016158c7fd46362b5f451ecb1ed3"
   },
   {
     "url": "zh/authors/nuochong.html",
-    "revision": "c49cff2597a200339ac53a2e4760be09"
+    "revision": "74241eb75325f2b4693ad5c1b2e9b4b4"
   },
   {
     "url": "zh/categories/backend.html",
-    "revision": "605053d8af4cdf56f60faa1209aea8d1"
+    "revision": "469e55f8cd9bedba4d99b689d3441376"
   },
   {
     "url": "zh/categories/frontend.html",
-    "revision": "b8927adfcfe2ee434898e9fe8d28d2e8"
+    "revision": "173f11d1c69758b0540b78d5fa96b98a"
   },
   {
     "url": "zh/categories/index.html",
-    "revision": "178927b5002e8c10a99fc37050399c39"
+    "revision": "246801e5b6bae50ebb7eb1d30e88a7a3"
   },
   {
     "url": "zh/comments/index.html",
-    "revision": "040ce2340381e0800d0d4e426298b3bb"
+    "revision": "6b132895b07f7647f1960c06f9e2714a"
   },
   {
     "url": "zh/contact/index.html",
-    "revision": "cb350353e042b0f675d12961e12bb137"
+    "revision": "9e54d1b554e0f9e043252bb8e18cce8c"
   },
   {
     "url": "zh/gallery/index.html",
-    "revision": "e813e3897830ec64b8880407f66cb10d"
+    "revision": "dc614d3bde63ec960ede5f878b1ee0da"
   },
   {
     "url": "zh/index.html",
-    "revision": "3d0df46ef67bd96cbcf4bde302789c37"
+    "revision": "2c0f59b04c067c32d10fffb2425bdab9"
   },
   {
     "url": "zh/posts/2019-nian-shi-fou-ke-yi-pao-qicss-yu-chu-li-qi-.html",
-    "revision": "61e06abfd77f75948a8d272c61eab1c7"
+    "revision": "1fa7389254fae18b02f4f6a557613345"
   },
   {
     "url": "zh/posts/array-yuan-xing-fang-fa-yuan-ma-shi-xian-da-jie-mi.html",
-    "revision": "65ff49434e2343160b416f48a9fd6034"
+    "revision": "e0beb8641d5a03fe0d3381b6ce5e0533"
   },
   {
     "url": "zh/posts/che-di-chi-toujavascript-de-zhi-xing-ji-zhi.html",
-    "revision": "b5943f0afced88066476d4b77b60635b"
+    "revision": "5896207f3b590054c135f4564af272a6"
   },
   {
     "url": "zh/posts/chuncss-shi-xian-mu-lu-zi-dong-bian-hao.html",
-    "revision": "77936d7fd0e68bd9dea73f632d0438cc"
+    "revision": "bffef0537f1bfe92b032d2dbe7e813c4"
   },
   {
     "url": "zh/posts/cong-ling-kai-shi-xie-yi-ge-fu-hepromises.html",
-    "revision": "bffd75970795763d18876ecc781ab4cb"
+    "revision": "8beb1c16cf29e185b1984874ab7a7bcc"
   },
   {
     "url": "zh/posts/css-di-si-ji-xuan-ze-qi.html",
-    "revision": "7d2782766a0a55ab2dee9f51fd15910f"
+    "revision": "9bab48b7117ab7d17cf16dddc8da56b5"
   },
   {
     "url": "zh/posts/css-hun-he-mo-shi.html",
-    "revision": "41d4088b53f4ddd95c2c87cd4e093883"
+    "revision": "e5dfdbd01fb0e7f0ce7f4fbd9324a811"
   },
   {
     "url": "zh/posts/finally-have-a-nest.html",
-    "revision": "19e939eb95f836ff57ddf6f710408670"
+    "revision": "a76e58ec178c01e35e5fa020aa7153d7"
   },
   {
     "url": "zh/posts/gang-gang-huan-hao-hao-de-zha-tu-ran-kua-yu-liao-.html",
-    "revision": "a31992f48d856a2593368ea05a30d50a"
+    "revision": "fd899aadb15056bffbcaddb174acf576"
   },
   {
     "url": "zh/posts/gong-zuo-zhong-bi-xu-yao-zhang-wo-de-ji-chong-wen-jian-lu-jing-zhi-shi.html",
-    "revision": "8c4e4becdb1ec4d632dca1d52d9309a9"
+    "revision": "72941da9c2c8026d1bf20763a0c07c57"
   },
   {
     "url": "zh/posts/gu-ge-xin-ti-an-webbundlesapi-ke-zai-tuo-ji-zhuang-tai-shi-xian-nei-rong-fen-fa.html",
-    "revision": "cb5873691251422a86615a7ae39ef5bb"
+    "revision": "77c25fcba90f53f495924a8cfff2fa2f"
   },
   {
     "url": "zh/posts/hybridapp-chi-xian-bao-fang-an-shi-jian.html",
-    "revision": "9e6f834849f66923f4ae3818ae3c8ad6"
+    "revision": "e4d6a0f8d6f16dd28aafeb3e9dd4e833"
   },
   {
     "url": "zh/posts/index.html",
-    "revision": "7add8c7f73dcbec60165dbe7f0fad2aa"
+    "revision": "c2796224dcd497950ce0b80eb85c138c"
   },
   {
     "url": "zh/posts/javascript-es2019-de-xin-te-xing.html",
-    "revision": "2f8619d8a8c6ac8bc72191234d1a3fbe"
+    "revision": "792497b7095c5bd3a0f96b36e34055a0"
   },
   {
     "url": "zh/posts/javascript-yun-xing-yuan-li.html",
-    "revision": "c3180895527f86de06859a8c8b363ed4"
+    "revision": "9e4b6d46504af4dd740ef335c7b9806f"
   },
   {
     "url": "zh/posts/javascript-zhong-de-shu-ju-jie-gou.html",
-    "revision": "1119888551028072ebb7c65e8778c61a"
+    "revision": "38d7185548d294028dc23b0dee66e3ef"
   },
   {
     "url": "zh/posts/ji-yi-ciwebpack-gou-jian-ti-su.html",
-    "revision": "16ce167dc6763f95bbe1ad3223195198"
+    "revision": "5906603555274b2ab7f0042e585b6fd6"
   },
   {
     "url": "zh/posts/ji-yuvue-hets-deweb-yi-dong-duan-xiang-mu-shi-zhan-xin-de.html",
-    "revision": "2742263f89934c349ec8ee85c8834233"
+    "revision": "a8a04bf362bd7825b1c6681ff8d6a26e"
   },
   {
     "url": "zh/posts/js-zhong-ke-yi-ti-sheng-xing-fu-du-de-xiao-ji-qiao.html",
-    "revision": "1308b4462849730392390b400261dc92"
+    "revision": "1cad691ce0ee402e1b0b56a5524061d1"
   },
   {
     "url": "zh/posts/li-qingtex-ketex-mathjax-letex......-de-guan-xi-ji-fu-hao-biao-shi-ji-he.html",
-    "revision": "54a1c71a51875df8d5221c039afd1e15"
+    "revision": "6abf7f87365cee7ccc876a83f48a03de"
   },
   {
     "url": "zh/posts/liao-jiewasm-de-qian-shi-jin-shen.html",
-    "revision": "5da534f536112e25bef970678767f796"
+    "revision": "fe86a4aa24d79520d05c4f023bd6d687"
   },
   {
     "url": "zh/posts/my-first-post.html",
-    "revision": "39daf9e9ceee2c30278b6e0c9ac0a630"
+    "revision": "ce94cef05fdba1e31bf02646b2958ccc"
   },
   {
     "url": "zh/posts/ni-lianhttps-yuan-li-du-bu-dong-huan-jiang-zhong-jian-ren-gong-ji-.html",
-    "revision": "d0fc62a71cdd9ec7b98988dccee3cfc3"
+    "revision": "6ef5753315effc45f1b0e2dd958d0708"
   },
   {
     "url": "zh/posts/ni-zhen-de-dongpackage.json-ma-.html",
-    "revision": "bbf1548d5d3fcff447d64d97921cd06e"
+    "revision": "c404f7cd434d097b5b496acf09ba4ac1"
   },
   {
     "url": "zh/posts/qian-duan-dai-ma-mei-hua-de-yi-zhu.html",
-    "revision": "68e8344a0fd051347b29b44754fd6e59"
+    "revision": "5dd91d88323ed19af7f2c1d6ff9a32c7"
   },
   {
     "url": "zh/posts/qian-duan-gong-cheng-shi-bi-xu-zhang-wo-debabel-zhi-shi.html",
-    "revision": "7d1199a7f5a0ad82e992dc453f304cbb"
+    "revision": "a2b867cd81ded366a4b33955df1c1f2a"
   },
   {
     "url": "zh/posts/qian-duancodereview-de-zui-jia-shi-jian-fang-an-lai-liao.html",
-    "revision": "077a0cc5138a0200f180a096cbed8a79"
+    "revision": "34dae5fb54e03f3e764445316f83df3d"
   },
   {
     "url": "zh/posts/qiao-yongcss-shi-xian-ku-xuan-de-chong-dian-dong-hua.html",
-    "revision": "07bfc62039ece446510ded6a02da43c4"
+    "revision": "028ece8c25d0a6dd9260bcec2e61a429"
   },
   {
     "url": "zh/posts/ru-he-you-ya-chu-li-qian-duan-yi-chang-.html",
-    "revision": "9946a3889356ed1dfd60520035f12795"
+    "revision": "b95ba6c05c9f7ed1bfb1645a96948bb8"
   },
   {
     "url": "zh/posts/tong-guohtml-shu-xing-ke-gai-shan-yong-hu-de-shuang-chong-shen-fen-yan-zheng-ti-yan.html",
-    "revision": "108488746e8cacd5e56aab81dc6125d7"
+    "revision": "66ac3c3b9134540780439e9a3b6e5f33"
   },
   {
     "url": "zh/posts/tong-yi-ge-zuo-biao-gu-ge-gao-de-bai-du-di-tu-ju-ran-zhi-xiang-liao-san-ge-bu-tong-de-di-fang.html",
-    "revision": "35e84d2b0964b429cd3a960a6bad2ab3"
+    "revision": "85fe2674b4601fca01cee56b9c54de71"
   },
   {
     "url": "zh/posts/vue-zhe-xie-xiu-shi-fu-bang-wo-jie-sheng-wu-fen-zhi-yi-de-kai-fa-shi-jian.html",
-    "revision": "32c4bef6109520a5358705f761072dd5"
+    "revision": "fb1eea4249b57135c96d82c916408e4d"
   },
   {
     "url": "zh/posts/web-chang-jian-gong-ji-zong-jie.html",
-    "revision": "41e0fee6ad385c2f27f5137637f2cafe"
+    "revision": "7fd2a7d6e2ad35731a2e201c8ab782a8"
   },
   {
     "url": "zh/posts/webcomponents-ru-men-shi-li-jiao-cheng.html",
-    "revision": "cd032131b5bd3ec92fb28142a7447973"
+    "revision": "9931bf9202c866ad942a4de30c3af5b1"
   },
   {
     "url": "zh/posts/xun-xu-jian-jin-zhang-wojavascript-han-shu-de-jin-jie-zhi-nan.html",
-    "revision": "e7c5814358f8a54040f4dab36262a1e4"
+    "revision": "6fd651cda8d595c327ae3653951ae2dc"
   },
   {
     "url": "zh/posts/yi-pian-chang-zuo-cuo-de-jing-dianjs-bi-bao-mian-shi-ti.html",
-    "revision": "64b5fbb51afb8ec3911db7bf40bcb461"
+    "revision": "0d3fe7643627aa83084a0a2374d901f2"
   },
   {
     "url": "zh/posts/yi-pian-wen-zhang-che-di-gao-ding-fu-wen-ben-yuan-li.html",
-    "revision": "9edaa77b7bc40a38b537678498f89112"
+    "revision": "db392f68656f921a21f78f8ae5e93331"
   },
   {
     "url": "zh/posts/yu-shan-dao.html",
-    "revision": "032238454541be34cf87471767db8eb5"
+    "revision": "4b33bad78871d6544f033a77e2fdc9de"
   },
   {
     "url": "zh/posts/yuan-shengjs-de-zhi-shi-xi-tong-shu-li.html",
-    "revision": "4cbac17d4a2914f69ce6e27f8a6f2650"
+    "revision": "32a6c6656670179c6f94fe95fd728b49"
   },
   {
     "url": "zh/posts/zui-chang-yong-degit-ming-ling-zong-jie.html",
-    "revision": "0c188b3f7b0cd72de6f552e9a3bee41c"
+    "revision": "8c3c59ef9eab46af1787cc82852a73f2"
   },
   {
     "url": "zh/posts/zuo-kai-yuan-ying-zhi-dao-de-san-ge-fa-lu-yao-dian.html",
-    "revision": "6928ba9138fc07f8d98448e8a38693fc"
+    "revision": "d36fed5d5eb15ae3f4f81bacdc2cef0b"
   },
   {
     "url": "zh/travel/index.html",
-    "revision": "aa99814a09e673af0c76ea5f3f36497d"
+    "revision": "c40aa28bedbb979ef272eaef8b874d26"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
