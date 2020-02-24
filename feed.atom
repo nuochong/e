@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://luzhaoyang.com</id>
     <title></title>
-    <updated>2020-02-24T01:42:57.848Z</updated>
+    <updated>2020-02-24T01:54:45.879Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://luzhaoyang.com"/>
     <link rel="self" href="https://luzhaoyang.com/feed.atom"/>
@@ -11,14 +11,14 @@
         <id>https://luzhaoyang.com/posts/finally-have-a-nest.html</id>
         <link href="https://luzhaoyang.com/posts/finally-have-a-nest.html">
         </link>
-        <updated>2020-02-24T01:42:47.671Z</updated>
+        <updated>2020-02-24T01:54:22.685Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[127个常用的JS代码片段，每段代码花30秒就能看懂（下）]]></title>
         <id>https://luzhaoyang.com/zh/posts/127-ge-chang-yong-dejs-dai-ma-pian-duan-mei-duan-dai-ma-hua30-miao-jiu-neng-kan-dong-xia-.html</id>
         <link href="https://luzhaoyang.com/zh/posts/127-ge-chang-yong-dejs-dai-ma-pian-duan-mei-duan-dai-ma-hua30-miao-jiu-neng-kan-dong-xia-.html">
         </link>
-        <updated>2020-02-24T01:42:47.674Z</updated>
+        <updated>2020-02-24T01:54:22.690Z</updated>
         <summary type="html"><![CDATA[after]]></summary>
     </entry>
     <entry>
@@ -26,7 +26,7 @@
         <id>https://luzhaoyang.com/zh/posts/127-ge-chang-yong-dejs-dai-ma-pian-duan-mei-duan-dai-ma-hua30-miao-jiu-neng-kan-dong-zhong-.html</id>
         <link href="https://luzhaoyang.com/zh/posts/127-ge-chang-yong-dejs-dai-ma-pian-duan-mei-duan-dai-ma-hua30-miao-jiu-neng-kan-dong-zhong-.html">
         </link>
-        <updated>2020-02-24T01:42:47.674Z</updated>
+        <updated>2020-02-24T01:54:22.691Z</updated>
         <summary type="html"><![CDATA[在上一篇文章 127 个常用的 JS 代码片段，每段代码花 30 秒就能看懂（上）里，我分享了前 21 段代码，今天继续分享 21 段代码。]]></summary>
     </entry>
     <entry>
@@ -34,7 +34,7 @@
         <id>https://luzhaoyang.com/zh/posts/javascript-es2019-de-xin-te-xing.html</id>
         <link href="https://luzhaoyang.com/zh/posts/javascript-es2019-de-xin-te-xing.html">
         </link>
-        <updated>2020-02-24T01:42:47.675Z</updated>
+        <updated>2020-02-24T01:54:22.691Z</updated>
         <summary type="html"><![CDATA[Array.prototype.flat()递归地将嵌套数组拼合到指定深度。默认值为 1，如果要全深度则使用 Infinity 。此方法不会修改原始数组，但会创建一个新数组:]]></summary>
     </entry>
     <entry>
@@ -42,21 +42,21 @@
         <id>https://luzhaoyang.com/zh/posts/finally-have-a-nest.html</id>
         <link href="https://luzhaoyang.com/zh/posts/finally-have-a-nest.html">
         </link>
-        <updated>2020-02-24T01:42:47.675Z</updated>
+        <updated>2020-02-24T01:54:22.691Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[刚刚还好好的，咋突然跨域了？]]></title>
         <id>https://luzhaoyang.com/zh/posts/gang-gang-huan-hao-hao-de-zha-tu-ran-kua-yu-liao-.html</id>
         <link href="https://luzhaoyang.com/zh/posts/gang-gang-huan-hao-hao-de-zha-tu-ran-kua-yu-liao-.html">
         </link>
-        <updated>2020-02-24T01:42:47.675Z</updated>
+        <updated>2020-02-24T01:54:22.691Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[前端代码美化的艺术]]></title>
         <id>https://luzhaoyang.com/zh/posts/qian-duan-dai-ma-mei-hua-de-yi-zhu.html</id>
         <link href="https://luzhaoyang.com/zh/posts/qian-duan-dai-ma-mei-hua-de-yi-zhu.html">
         </link>
-        <updated>2020-02-24T01:42:47.675Z</updated>
+        <updated>2020-02-24T01:54:22.692Z</updated>
         <summary type="html"><![CDATA[原本只是想简单的聊一下代码格式化的问题，无奈本文拖沓了很久，在此期间，我又思考了很多，我越来越觉得代码格式化是一门艺术。为了衬托“艺术”二字，可能叫“代码美化”更贴切一点，但是本文的深度远没有标题那么宏大。]]></summary>
     </entry>
     <entry>
@@ -64,7 +64,7 @@
         <id>https://luzhaoyang.com/zh/posts/tong-yi-ge-zuo-biao-gu-ge-gao-de-bai-du-di-tu-ju-ran-zhi-xiang-liao-san-ge-bu-tong-de-di-fang.html</id>
         <link href="https://luzhaoyang.com/zh/posts/tong-yi-ge-zuo-biao-gu-ge-gao-de-bai-du-di-tu-ju-ran-zhi-xiang-liao-san-ge-bu-tong-de-di-fang.html">
         </link>
-        <updated>2020-02-24T01:42:47.675Z</updated>
+        <updated>2020-02-24T01:54:22.692Z</updated>
         <summary type="html"><![CDATA[咱们今天就来说说坐标偏移这小破事 ~
 :::]]></summary>
     </entry>
@@ -73,7 +73,7 @@
         <id>https://luzhaoyang.com/zh/posts/qiao-yongcss-shi-xian-ku-xuan-de-chong-dian-dong-hua.html</id>
         <link href="https://luzhaoyang.com/zh/posts/qiao-yongcss-shi-xian-ku-xuan-de-chong-dian-dong-hua.html">
         </link>
-        <updated>2020-02-24T01:42:47.675Z</updated>
+        <updated>2020-02-24T01:54:22.692Z</updated>
         <summary type="html"><![CDATA[欧了，勉强就是它了。有了电池，那接下来直接充电吧。最最简单的动画，那应该是用色彩把整个电池灌满即可。
 方法很多，代码也很简单，直接看效果：
 微信图片\_20200101151042
@@ -84,50 +84,50 @@
         <id>https://luzhaoyang.com/zh/posts/zui-chang-yong-degit-ming-ling-zong-jie.html</id>
         <link href="https://luzhaoyang.com/zh/posts/zui-chang-yong-degit-ming-ling-zong-jie.html">
         </link>
-        <updated>2020-02-24T01:42:47.675Z</updated>
+        <updated>2020-02-24T01:54:22.692Z</updated>
         <summary type="html"><![CDATA[git merge 分支名 合并分支到当前分支上]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[理清TeX、KeTeX、MathJax、LeTeX……的关系及符号表示集合]]></title>
-        <id>https://luzhaoyang.com/zh/posts/li-qingtex-ketex-mathjax-letex......-de-guan-xi-ji-fu-hao-biao-shi-ji-he.html</id>
-        <link href="https://luzhaoyang.com/zh/posts/li-qingtex-ketex-mathjax-letex......-de-guan-xi-ji-fu-hao-biao-shi-ji-he.html">
-        </link>
-        <updated>2020-02-24T01:42:47.675Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[纯CSS实现目录自动编号]]></title>
         <id>https://luzhaoyang.com/zh/posts/chuncss-shi-xian-mu-lu-zi-dong-bian-hao.html</id>
         <link href="https://luzhaoyang.com/zh/posts/chuncss-shi-xian-mu-lu-zi-dong-bian-hao.html">
         </link>
-        <updated>2020-02-24T01:42:47.676Z</updated>
+        <updated>2020-02-24T01:54:22.692Z</updated>
+        <summary type="html"><![CDATA[关系选择器
+后代选择器
+子选择器
+相邻同胞选择器
+同胞选择器
+`]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[理清TeX、KeTeX、MathJax、LeTeX……的关系及符号表示集合]]></title>
+        <id>https://luzhaoyang.com/zh/posts/li-qingtex-ketex-mathjax-letex......-de-guan-xi-ji-fu-hao-biao-shi-ji-he.html</id>
+        <link href="https://luzhaoyang.com/zh/posts/li-qingtex-ketex-mathjax-letex......-de-guan-xi-ji-fu-hao-biao-shi-ji-he.html">
+        </link>
+        <updated>2020-02-24T01:54:22.692Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[谷歌新提案：WebBundlesAPI可在脱机状态实现内容分发]]></title>
         <id>https://luzhaoyang.com/zh/posts/gu-ge-xin-ti-an-webbundlesapi-ke-zai-tuo-ji-zhuang-tai-shi-xian-nei-rong-fen-fa.html</id>
         <link href="https://luzhaoyang.com/zh/posts/gu-ge-xin-ti-an-webbundlesapi-ke-zai-tuo-ji-zhuang-tai-shi-xian-nei-rong-fen-fa.html">
         </link>
-        <updated>2020-02-24T01:42:47.676Z</updated>
-        <summary type="html"><![CDATA[::: tip
-在 2019 年 Chrome 开发者峰会 上，谷歌预览了全新的 Web Bundles API。这是一种基础架构 API，开发人员可以通过它以任何格式（电子邮件、FTP 甚至 USB）分发他们的 Web 内容，而内容本身不会有任何改动。这种技术不仅能够以闪电般的速度交付 Web 内容，而且即使用户处于脱机状态，也可以实现点对点内容分发。
-:::]]></summary>
+        <updated>2020-02-24T01:54:22.692Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[通过HTML属性可改善用户的双重身份验证体验]]></title>
         <id>https://luzhaoyang.com/zh/posts/tong-guohtml-shu-xing-ke-gai-shan-yong-hu-de-shuang-chong-shen-fen-yan-zheng-ti-yan.html</id>
         <link href="https://luzhaoyang.com/zh/posts/tong-guohtml-shu-xing-ke-gai-shan-yong-hu-de-shuang-chong-shen-fen-yan-zheng-ti-yan.html">
         </link>
-        <updated>2020-02-24T01:42:47.676Z</updated>
-        <summary type="html"><![CDATA[
-
-      Please enter the code you were sent:
-]]></summary>
+        <updated>2020-02-24T01:54:22.692Z</updated>
+        <summary type="html"><![CDATA[在这篇文章中，看看简单的 ``元素和 HTML 属性将有助于我们提高用户的双重身份验证体验。]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[My First Post]]></title>
         <id>https://luzhaoyang.com/posts/my-first-post.html</id>
         <link href="https://luzhaoyang.com/posts/my-first-post.html">
         </link>
-        <updated>2020-02-24T01:42:47.676Z</updated>
+        <updated>2020-02-24T01:54:22.693Z</updated>
         <summary type="html"><![CDATA[Meta description, one of the three TDK tags on the original page, is also a page optimization element that SEO staff need to focus on optimization.]]></summary>
     </entry>
     <entry>
@@ -135,24 +135,22 @@
         <id>https://luzhaoyang.com/zh/posts/127-ge-chang-yong-dejs-dai-ma-pian-duan-mei-duan-dai-ma-hua30-miao-jiu-neng-kan-dong-shang-.html</id>
         <link href="https://luzhaoyang.com/zh/posts/127-ge-chang-yong-dejs-dai-ma-pian-duan-mei-duan-dai-ma-hua30-miao-jiu-neng-kan-dong-shang-.html">
         </link>
-        <updated>2020-02-24T01:42:47.676Z</updated>
-        <summary type="html"><![CDATA[const all = (arr, fn = Boolean) => arr.every(fn);]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Array原型方法源码实现大解密]]></title>
-        <id>https://luzhaoyang.com/zh/posts/array-yuan-xing-fang-fa-yuan-ma-shi-xian-da-jie-mi.html</id>
-        <link href="https://luzhaoyang.com/zh/posts/array-yuan-xing-fang-fa-yuan-ma-shi-xian-da-jie-mi.html">
-        </link>
-        <updated>2020-02-24T01:42:47.676Z</updated>
-        <summary type="html"><![CDATA[用 JS 来模拟实现，核心逻辑如下：]]></summary>
+        <updated>2020-02-24T01:54:22.693Z</updated>
+        <summary type="html"><![CDATA[“软件正在吞噬世界，JavaScript 正在吞噬软件。JavaScript 每年都在变得越来越占主导地位，而且没人知道最终会取代它的是什么。"
+如果您没有充分的理由学习一种新语言（例如您的工作要求您维护非 JavaScript 代码库），那么我的建议是着重于提高 JavaScript 的水平。”
+听我说这么多，你是不是很激动呢。这里有 127 个常用的 JS 代码片段，方便你学习和使用。
+:::]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[CSS混合模式]]></title>
         <id>https://luzhaoyang.com/zh/posts/css-hun-he-mo-shi.html</id>
         <link href="https://luzhaoyang.com/zh/posts/css-hun-he-mo-shi.html">
         </link>
-        <updated>2020-02-24T01:42:57.741Z</updated>
-        <summary type="html"><![CDATA[| screen         | screen       | 滤色模式     | “滤色”模式与“正片叠底”模式正好相反，它将图像的“基色”颜色与“混合色”颜色结合起来产生比两种颜色都浅的第三种颜色                                                                                 |
+        <updated>2020-02-24T01:54:45.853Z</updated>
+        <summary type="html"><![CDATA[| :------------- | :----------- | :----------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| normal         | normal       | 正常模式     | 混合色的像素会透过所用的颜色显示出来                                                                                                                                                         |
+| multiply       | multiply     | 正片叠底模式 | 在“正片叠底”模式中，查看每个通道中的颜色信息，并将“基色”与“混合色”复合。                                                                                                                     |
+| screen         | screen       | 滤色模式     | “滤色”模式与“正片叠底”模式正好相反，它将图像的“基色”颜色与“混合色”颜色结合起来产生比两种颜色都浅的第三种颜色                                                                                 |
 | overlay        | overlay      | 叠加模式     | “叠加”模式把图像的“基色”颜色与“混合色”颜色相混合产生一种中间色。                                                                                                                             |
 | darken         | darken       | 变暗模式     | 在“变暗”模式中，查看每个通道中的颜色信息，并选择“基色”或“混合色”中较暗的颜色作为“结果色”。                                                                                                   |
 | lighten        | lighten      | 变亮模式     | 在“变亮”模式中，查看每个通道中的颜色信息，并选择“基色”或“混合色”中较亮的颜色作为“结果色”。                                                                                                   |
@@ -168,24 +166,34 @@
 | luminosity     | luminosity   | 亮度模式     | “亮度”模式能够使用“混合色”颜色的亮度值进行着色，而保持“基色”颜色的饱和度和色相数值不变。其实就是用“基色”中的“色相”和“饱和度”以及“混合色”的亮度创建“结果色”。                                 |]]></summary>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Array原型方法源码实现大解密]]></title>
+        <id>https://luzhaoyang.com/zh/posts/array-yuan-xing-fang-fa-yuan-ma-shi-xian-da-jie-mi.html</id>
+        <link href="https://luzhaoyang.com/zh/posts/array-yuan-xing-fang-fa-yuan-ma-shi-xian-da-jie-mi.html">
+        </link>
+        <updated>2020-02-24T01:54:45.854Z</updated>
+        <summary type="html"><![CDATA[}
+};
+let arr = [1, 2, 3];
+let result = arr.map(obj.callback, obj);
+console.log(result);
+// ["1", "2", "3"]，此时 this 指向 window
+// 那为啥不是 "Muyiy1" 这样呢，不急，第 3 步介绍
+// ----------- 完美分割线 -----------]]></summary>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CSS第四级选择器]]></title>
         <id>https://luzhaoyang.com/zh/posts/css-di-si-ji-xuan-ze-qi.html</id>
         <link href="https://luzhaoyang.com/zh/posts/css-di-si-ji-xuan-ze-qi.html">
         </link>
-        <updated>2020-02-24T01:42:57.742Z</updated>
+        <updated>2020-02-24T01:54:45.854Z</updated>
         <summary type="html"><![CDATA[例如：]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HybridApp离线包方案实践]]></title>
-        <id>https://luzhaoyang.com/zh/posts/hybridapp-chi-xian-bao-fang-an-shi-jian.html</id>
-        <link href="https://luzhaoyang.com/zh/posts/hybridapp-chi-xian-bao-fang-an-shi-jian.html">
+        <title type="html"><![CDATA[JS中可以提升幸福度的小技巧]]></title>
+        <id>https://luzhaoyang.com/zh/posts/js-zhong-ke-yi-ti-sheng-xing-fu-du-de-xiao-ji-qiao.html</id>
+        <link href="https://luzhaoyang.com/zh/posts/js-zhong-ke-yi-ti-sheng-xing-fu-du-de-xiao-ji-qiao.html">
         </link>
-        <updated>2020-02-24T01:42:57.742Z</updated>
-        <summary type="html"><![CDATA[WebResourceResponse resourceResponse = getWebResourceResponse(url);
-    if (resourceResponse == null) {
-      return super.shouldInterceptRequest(view, request);
-    }
-    return resourceResponse;
-  }]]></summary>
+        <updated>2020-02-24T01:54:45.854Z</updated>
+        <summary type="html"><![CDATA[要返回多行语句（例如对象文本），需要使用()而不是{}来包裹函数体。这样可以确保代码以单个语句的形式进行求值。]]></summary>
     </entry>
 </feed>
