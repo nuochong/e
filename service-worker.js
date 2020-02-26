@@ -42,7 +42,7 @@ self.__precacheManifest = [
     "revision": "c1d016415691a599105549ad2e4df75d"
   },
   {
-    "url": "assets/css/11.styles.b9e2cf10.css",
+    "url": "assets/css/11.styles.45f831a8.css",
     "revision": "bf2b5d8f759255025f779664a03e26e9"
   },
   {
@@ -54,11 +54,11 @@ self.__precacheManifest = [
     "revision": "86e463286683c49c2c08b770630cb28c"
   },
   {
-    "url": "assets/css/14.styles.6a2d7939.css",
+    "url": "assets/css/14.styles.3a89b0e1.css",
     "revision": "0b2ae54c704619583566dca98da1702a"
   },
   {
-    "url": "assets/css/15.styles.057189ba.css",
+    "url": "assets/css/15.styles.549fb5c7.css",
     "revision": "bcf9eca32341b75323122b762fa9abb3"
   },
   {
@@ -102,7 +102,7 @@ self.__precacheManifest = [
     "revision": "d9dfd37f06d8f435dee028aabf1dbc48"
   },
   {
-    "url": "assets/css/25.styles.c1121683.css",
+    "url": "assets/css/25.styles.d9b2e7fb.css",
     "revision": "66966f5a94d28a9f757aafc718fb67d6"
   },
   {
@@ -134,8 +134,8 @@ self.__precacheManifest = [
     "revision": "388b56d3051f9e07ccfec53a7f866be0"
   },
   {
-    "url": "assets/css/styles.be27fb60.css",
-    "revision": "d35c09dd6b6be30a921825109e59b4d2"
+    "url": "assets/css/styles.0c047ece.css",
+    "revision": "e376d2cee40f3ad4650f3df4cc192d96"
   },
   {
     "url": "assets/fonts/hack-regular.3eccb984.woff2",
@@ -216,10 +216,6 @@ self.__precacheManifest = [
   {
     "url": "assets/img/nuochong.01c327bf.svg",
     "revision": "01c327bfe3678b322333efa9c6c2ba5e"
-  },
-  {
-    "url": "autores/github_awatar2.png",
-    "revision": "f7c47e0f8063804e2bd010ca9e2bf465"
   },
   {
     "url": "autores/nuochong.png",
@@ -694,8 +690,8 @@ self.__precacheManifest = [
     "revision": "0bb79767e4d186f98549a2345df04139"
   },
   {
-    "url": "assets/js/app.be27fb60.js",
-    "revision": "ba423236b05cafefece9d84a4f7bb8b6"
+    "url": "assets/js/app.0c047ece.js",
+    "revision": "1fd175efa860fc7b24ec722a3a8cd647"
   },
   {
     "url": "assets/js/vendors~flowchart.ba735c56.js",
