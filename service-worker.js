@@ -134,7 +134,7 @@ self.__precacheManifest = [
     "revision": "388b56d3051f9e07ccfec53a7f866be0"
   },
   {
-    "url": "assets/css/styles.c915453d.css",
+    "url": "assets/css/styles.c4c22698.css",
     "revision": "010280f6729e7959ae514e44fadc2ac8"
   },
   {
@@ -414,20 +414,32 @@ self.__precacheManifest = [
     "revision": "481fb760fca770be1e8d78f48a708c5f"
   },
   {
-    "url": "gallery/bitty/blessed-state/14-small.jpg",
-    "revision": "dbb54130c53d7ac88b28b6cdb2b4ea04"
-  },
-  {
     "url": "gallery/bitty/blessed-state/15-small.jpg",
     "revision": "4414ad5a60b2ddb92a1cf79cd28136f6"
   },
   {
-    "url": "gallery/bitty/blessed-state/16-small.jpg",
-    "revision": "955ce5dbebddbe33b807dbd24f11d067"
-  },
-  {
     "url": "gallery/bitty/blessed-state/17-small.jpg",
     "revision": "73f35009cb91dce2354528a5f23d1080"
+  },
+  {
+    "url": "gallery/bitty/dayushan-island/IMG_6992-small.jpg",
+    "revision": "8841b7482d6a748f7429d1fb7b36fdbb"
+  },
+  {
+    "url": "gallery/bitty/dayushan-island/P61002-165813-small.jpg",
+    "revision": "7207932702cb81138b9f86520745e521"
+  },
+  {
+    "url": "gallery/bitty/dayushan-island/P61002-172720-small.jpg",
+    "revision": "e0e9b57649a109d78c52f4fe93236a7e"
+  },
+  {
+    "url": "gallery/bitty/dayushan-island/P61003-055845-small.jpg",
+    "revision": "a95c108a66e2ec773336105f3e937c4e"
+  },
+  {
+    "url": "gallery/bitty/dayushan-island/P61003-062909-small.jpg",
+    "revision": "c7b197cadf2db69ffc01ae79dfc325de"
   },
   {
     "url": "gallery/bitty/formosa/2-small.jpg",
@@ -468,6 +480,14 @@ self.__precacheManifest = [
   {
     "url": "gallery/bitty/formosa/5-small.jpg",
     "revision": "3eda5685194a4cfb2ee585378a8b69f7"
+  },
+  {
+    "url": "gallery/bitty/hometown/14-small.jpg",
+    "revision": "dbb54130c53d7ac88b28b6cdb2b4ea04"
+  },
+  {
+    "url": "gallery/bitty/hometown/16-small.jpg",
+    "revision": "955ce5dbebddbe33b807dbd24f11d067"
   },
   {
     "url": "gallery/thumbs/fadeIn-animation/3-1.jpg",
@@ -690,8 +710,8 @@ self.__precacheManifest = [
     "revision": "0bb79767e4d186f98549a2345df04139"
   },
   {
-    "url": "assets/js/app.c915453d.js",
-    "revision": "9ab62ef4572e9a7d7e0606d07084db5b"
+    "url": "assets/js/app.c4c22698.js",
+    "revision": "5318e480ae3fc6b4cce8f44b12b8366a"
   },
   {
     "url": "assets/js/vendors~flowchart.ba735c56.js",
