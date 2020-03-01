@@ -134,7 +134,7 @@ self.__precacheManifest = [
     "revision": "388b56d3051f9e07ccfec53a7f866be0"
   },
   {
-    "url": "assets/css/styles.c4c22698.css",
+    "url": "assets/css/styles.8bf396c1.css",
     "revision": "010280f6729e7959ae514e44fadc2ac8"
   },
   {
@@ -710,8 +710,8 @@ self.__precacheManifest = [
     "revision": "0bb79767e4d186f98549a2345df04139"
   },
   {
-    "url": "assets/js/app.c4c22698.js",
-    "revision": "5318e480ae3fc6b4cce8f44b12b8366a"
+    "url": "assets/js/app.8bf396c1.js",
+    "revision": "e9630a223e0031fcebdc581ff691aa37"
   },
   {
     "url": "assets/js/vendors~flowchart.ba735c56.js",
