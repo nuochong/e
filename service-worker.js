@@ -134,8 +134,8 @@ self.__precacheManifest = [
     "revision": "388b56d3051f9e07ccfec53a7f866be0"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/styles.76887f8b.css",
-    "revision": "1e3d6e11d802242fcecf4d7be92f85a6"
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/styles.03aff5d4.css",
+    "revision": "bf67a31fa650d7906eccda959a7c4979"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/fonts/hack-regular.3eccb984.woff2",
