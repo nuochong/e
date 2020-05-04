@@ -478,6 +478,10 @@ self.__precacheManifest = [
     "revision": "6e31093651c15d3797279592c8da47c4"
   },
   {
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/a/i/6f0ba53a.gif",
+    "revision": "6f0ba53aacfc6bad85e034b7a8802cef"
+  },
+  {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/a/i/71de3f63.jpg",
     "revision": "71de3f63181b815c7f390158402f9e7f"
   },
@@ -672,6 +676,10 @@ self.__precacheManifest = [
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/a/i/baf34344.png",
     "revision": "baf343445710e0d93761999cc90467c5"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/a/i/bba51152.gif",
+    "revision": "bba511525469ecdf84b769317150ce58"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/a/i/bba674d6.jpg",
@@ -918,111 +926,111 @@ self.__precacheManifest = [
     "revision": "ef6dc31a4fa8384ba0cb717e83863a6e"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/0.styles.5d5b666d.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/0.styles.ae459d7f.css",
     "revision": "1f88b78e2b6073ceb6140a176d654d88"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/1.styles.832fbc63.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/1.styles.cc46eae9.css",
     "revision": "ea5030e3cebf6b42c4016f101cbc31d0"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/10.styles.68f40095.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/10.styles.981d84e1.css",
     "revision": "09bce7ebeb8b278e641f8e358307294a"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/11.styles.b3f2c8e2.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/11.styles.33e72b54.css",
     "revision": "bf2b5d8f759255025f779664a03e26e9"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/12.styles.383a0ea8.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/12.styles.78224be9.css",
     "revision": "5e2451763ae8b62b5f8f95baea6792a7"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/13.styles.732db908.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/13.styles.fed2931f.css",
     "revision": "0b2ae54c704619583566dca98da1702a"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/14.styles.499f4209.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/14.styles.7b979318.css",
     "revision": "86e463286683c49c2c08b770630cb28c"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/15.styles.d032ac76.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/15.styles.3556ca83.css",
     "revision": "bcf9eca32341b75323122b762fa9abb3"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/16.styles.32e63bb2.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/16.styles.fabf2b58.css",
     "revision": "665eddf34bff48bdaf5e911f0482955f"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/17.styles.3e7d3849.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/17.styles.aa6c5201.css",
     "revision": "e08cfead16fd0be21c7a9b7561329178"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/18.styles.37c59d80.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/18.styles.e1a581db.css",
     "revision": "ee0b8df651aef52db64f5fbb36c8ebb1"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/19.styles.4eca0428.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/19.styles.c49c62a3.css",
     "revision": "c6e5b912d7575ee2d2b379528b4d6e00"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/2.styles.0c5e0cbf.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/2.styles.dd4740b3.css",
     "revision": "2f64960dbe89b3d728c1f841cf7f37ca"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/20.styles.486b2374.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/20.styles.e59b935f.css",
     "revision": "ee2570984dc2e39c3c25cb9fb0413359"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/21.styles.101ece36.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/21.styles.8625f76c.css",
     "revision": "49e661aaf914fb980b2340d6375df3ba"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/22.styles.20215451.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/22.styles.e88cd1b9.css",
     "revision": "95d6166296fdc068a3595d724c30d1f0"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/23.styles.95325ea7.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/23.styles.5c516674.css",
     "revision": "e5993078e223b8b0317bf1e538260a5b"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/24.styles.5a3785a8.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/24.styles.942561b5.css",
     "revision": "d9dfd37f06d8f435dee028aabf1dbc48"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/25.styles.61e16ea5.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/25.styles.a5131f56.css",
     "revision": "66966f5a94d28a9f757aafc718fb67d6"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/26.styles.75d66002.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/26.styles.4757389f.css",
     "revision": "b856b4b3d5151f58db3290cfe137b8df"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/27.styles.320f2fea.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/27.styles.01d084c2.css",
     "revision": "5584c5f211b1410ae55977fa382984c2"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/3.styles.e9c76554.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/3.styles.41839330.css",
     "revision": "d9acc3e1474062cd89d7da261af7e7e6"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/31.styles.4c8af3a5.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/31.styles.a3c55814.css",
     "revision": "f5d64962e6cf9eeec19dfa10b403b9c2"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/4.styles.3fdd7c63.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/4.styles.d3455aef.css",
     "revision": "bd33d9448b225cff24ecb4995c9cb6bf"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/6.styles.9d61410e.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/6.styles.59484d43.css",
     "revision": "876b8d6019efbff1f13093dc39bf67d8"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/7.styles.f5c9320e.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/7.styles.07d51907.css",
     "revision": "388b56d3051f9e07ccfec53a7f866be0"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/styles.04485af8.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/styles.bd61f491.css",
     "revision": "ec5df45d1b1e8487c0642d025e29cd6e"
   },
   {
