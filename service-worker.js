@@ -986,7 +986,7 @@ self.__precacheManifest = [
     "revision": "0b2ae54c704619583566dca98da1702a"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/14.styles.7e94693b.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/14.styles.5b274a58.css",
     "revision": "86e463286683c49c2c08b770630cb28c"
   },
   {
@@ -1030,7 +1030,7 @@ self.__precacheManifest = [
     "revision": "e5993078e223b8b0317bf1e538260a5b"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/24.styles.85510796.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/24.styles.dba9df44.css",
     "revision": "d9dfd37f06d8f435dee028aabf1dbc48"
   },
   {
@@ -1066,7 +1066,7 @@ self.__precacheManifest = [
     "revision": "388b56d3051f9e07ccfec53a7f866be0"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/styles.31732b57.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/nuochong.github.io@v1.0/assets/css/styles.83038f4e.css",
     "revision": "ec5df45d1b1e8487c0642d025e29cd6e"
   },
   {
