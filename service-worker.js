@@ -790,8 +790,8 @@ self.__precacheManifest = [
     "revision": "876b8d6019efbff1f13093dc39bf67d8"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e/assets/css/styles.b18cf9f9.css",
-    "revision": "243e595cc3f950916b892a48ec8b6ed5"
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e/assets/css/styles.bf02d014.css",
+    "revision": "19409eb5199f245057ad3b9244a8a72c"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e/assets/fonts/hack-regular.3eccb984.woff2",
