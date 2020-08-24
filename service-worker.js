@@ -722,11 +722,11 @@ self.__precacheManifest = [
     "revision": "86e463286683c49c2c08b770630cb28c"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e/assets/css/15.styles.98ac48c2.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e/assets/css/15.styles.78c0f825.css",
     "revision": "66966f5a94d28a9f757aafc718fb67d6"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e/assets/css/16.styles.c29e71ee.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e/assets/css/16.styles.e7f421f8.css",
     "revision": "bcf9eca32341b75323122b762fa9abb3"
   },
   {
@@ -794,7 +794,7 @@ self.__precacheManifest = [
     "revision": "876b8d6019efbff1f13093dc39bf67d8"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e/assets/css/styles.0a932599.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e/assets/css/styles.4beed856.css",
     "revision": "aaae1662830b7a85ea744e2e006ea2bf"
   },
   {
