@@ -986,7 +986,7 @@ self.__precacheManifest = [
     "revision": "ea66d298ade686cc900755bde519c637"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e/assets/css/18.styles.df51df56.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e/assets/css/18.styles.6be2d213.css",
     "revision": "86e463286683c49c2c08b770630cb28c"
   },
   {
@@ -1006,11 +1006,11 @@ self.__precacheManifest = [
     "revision": "66966f5a94d28a9f757aafc718fb67d6"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e/assets/css/22.styles.1600ab00.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e/assets/css/22.styles.e0081540.css",
     "revision": "bcf9eca32341b75323122b762fa9abb3"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e/assets/css/23.styles.835395de.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e/assets/css/23.styles.1649eee4.css",
     "revision": "62d73c7f95b2cb4ab2de48175ee3393b"
   },
   {
@@ -1078,7 +1078,7 @@ self.__precacheManifest = [
     "revision": "e5993078e223b8b0317bf1e538260a5b"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e/assets/css/styles.7fb5c063.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e/assets/css/styles.f136dda7.css",
     "revision": "790b7b45a051c4ffe05eb99e69edc049"
   },
   {
