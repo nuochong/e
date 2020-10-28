@@ -1038,7 +1038,7 @@ self.__precacheManifest = [
     "revision": "eed6f74434f9f93ceed18f4b1e747c93"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e/assets/css/22.styles.c0c128a5.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e/assets/css/22.styles.55a76401.css",
     "revision": "66966f5a94d28a9f757aafc718fb67d6"
   },
   {
@@ -1114,7 +1114,7 @@ self.__precacheManifest = [
     "revision": "e5993078e223b8b0317bf1e538260a5b"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e/assets/css/styles.bae68606.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e/assets/css/styles.4e7b93ac.css",
     "revision": "94a98db694daf08812c5cf9c311a1209"
   },
   {
