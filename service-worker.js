@@ -1118,7 +1118,7 @@ self.__precacheManifest = [
     "revision": "ea66d298ade686cc900755bde519c637"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e/assets/css/19.styles.cfec79cf.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e/assets/css/19.styles.64a03e64.css",
     "revision": "86e463286683c49c2c08b770630cb28c"
   },
   {
@@ -1134,11 +1134,11 @@ self.__precacheManifest = [
     "revision": "866133fd695e5edd0678b6a4c0b3663e"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e/assets/css/24.styles.cb22a073.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e/assets/css/24.styles.add931f2.css",
     "revision": "66966f5a94d28a9f757aafc718fb67d6"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e/assets/css/25.styles.f8b46131.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e/assets/css/25.styles.79f93bec.css",
     "revision": "bcf9eca32341b75323122b762fa9abb3"
   },
   {
@@ -1210,8 +1210,8 @@ self.__precacheManifest = [
     "revision": "e5993078e223b8b0317bf1e538260a5b"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e/assets/css/styles.dfbe97f1.css",
-    "revision": "fa17ab7723246230d8c440ef4cd6a493"
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e/assets/css/styles.b063740b.css",
+    "revision": "ba7b5154b21b387cc3197428e0e3ee4c"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e/assets/fonts/hack-regular.3eccb984.woff2",
