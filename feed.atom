@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://luzhaoyang.com</id>
     <title></title>
-    <updated>2020-11-07T07:07:27.492Z</updated>
+    <updated>2020-11-07T07:13:50.914Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://luzhaoyang.com"/>
     <link rel="self" href="https://luzhaoyang.com/feed.atom"/>
@@ -11,14 +11,14 @@
         <id>https://luzhaoyang.com/other/finally-have-a-nest.html</id>
         <link href="https://luzhaoyang.com/other/finally-have-a-nest.html">
         </link>
-        <updated>2020-11-07T07:07:27.454Z</updated>
+        <updated>2020-11-07T07:13:50.883Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[My First Post]]></title>
         <id>https://luzhaoyang.com/posts/my-first-post.html</id>
         <link href="https://luzhaoyang.com/posts/my-first-post.html">
         </link>
-        <updated>2020-11-07T07:07:27.457Z</updated>
+        <updated>2020-11-07T07:13:50.886Z</updated>
         <summary type="html"><![CDATA[Meta description, one of the three TDK tags on the original page, is also a page optimization element that SEO staff need to focus on optimization.]]></summary>
     </entry>
     <entry>
@@ -26,60 +26,54 @@
         <id>https://luzhaoyang.com/zh/other/2020ai-pu-sheng-guo-ji-quan-jing-she-ying-jiang-huo-jiang-zuo-pin-jie-xiao.html</id>
         <link href="https://luzhaoyang.com/zh/other/2020ai-pu-sheng-guo-ji-quan-jing-she-ying-jiang-huo-jiang-zuo-pin-jie-xiao.html">
         </link>
-        <updated>2020-11-07T07:07:27.458Z</updated>
+        <updated>2020-11-07T07:13:50.887Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[终于有个窝了]]></title>
         <id>https://luzhaoyang.com/zh/other/finally-have-a-nest.html</id>
         <link href="https://luzhaoyang.com/zh/other/finally-have-a-nest.html">
         </link>
-        <updated>2020-11-07T07:07:27.458Z</updated>
+        <updated>2020-11-07T07:13:50.888Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[令人难以置信的无人机航拍作品赢得年度自然TTL摄影大奖]]></title>
         <id>https://luzhaoyang.com/zh/other/ling-ren-nan-yi-zhi-xin-de-wu-ren-ji-hang-pai-zuo-pin-ying-de-nian-du-zi-ran-ttlshe-ying-da-jiang.html</id>
         <link href="https://luzhaoyang.com/zh/other/ling-ren-nan-yi-zhi-xin-de-wu-ren-ji-hang-pai-zuo-pin-ying-de-nian-du-zi-ran-ttlshe-ying-da-jiang.html">
         </link>
-        <updated>2020-11-07T07:07:27.459Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12 个提高JavaScript编码效率的 NPM 技巧]]></title>
-        <id>https://luzhaoyang.com/zh/posts/12-ge-ti-gao-javascriptbian-ma-xiao-lu-de-npm-ji-qiao.html</id>
-        <link href="https://luzhaoyang.com/zh/posts/12-ge-ti-gao-javascriptbian-ma-xiao-lu-de-npm-ji-qiao.html">
-        </link>
-        <updated>2020-11-07T07:07:27.459Z</updated>
-        <summary type="html"><![CDATA[NPM，Node Package Manager，是 JavaScript 编程语言的软件包管理器。任何使用 Javascript 的开发人员都使用过这个出色的 CLI 工具来为他们的项目安装依赖项。]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12 种使用 Vue 的最佳做法]]></title>
-        <id>https://luzhaoyang.com/zh/posts/12-zhong-shi-yong-vue-de-zui-jia-zuo-fa.html</id>
-        <link href="https://luzhaoyang.com/zh/posts/12-zhong-shi-yong-vue-de-zui-jia-zuo-fa.html">
-        </link>
-        <updated>2020-11-07T07:07:27.460Z</updated>
-        <summary type="html"><![CDATA[
-]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[14个 JavaScript 代码优化技巧]]></title>
-        <id>https://luzhaoyang.com/zh/posts/14ge-javascript-dai-ma-you-hua-ji-qiao.html</id>
-        <link href="https://luzhaoyang.com/zh/posts/14ge-javascript-dai-ma-you-hua-ji-qiao.html">
-        </link>
-        <updated>2020-11-07T07:07:27.460Z</updated>
-        <summary type="html"><![CDATA[你的应用程序包含的代码越多，就需要将更多的数据传输到客户端。浏览器也需要更多时间来分析和解释代码。]]></summary>
+        <updated>2020-11-07T07:13:50.888Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[15个必须知道的JavaScript数组方法]]></title>
         <id>https://luzhaoyang.com/zh/posts/15ge-bi-xu-zhi-dao-de-javascriptshu-zu-fang-fa.html</id>
         <link href="https://luzhaoyang.com/zh/posts/15ge-bi-xu-zhi-dao-de-javascriptshu-zu-fang-fa.html">
         </link>
-        <updated>2020-11-07T07:07:27.460Z</updated>
-        <summary type="html"><![CDATA[myAwesomeArray.some((test) => {
-  if (test === 'd') {
-    return test;
-  }
-});
-// We'll use the shorter one
-myAwesomeArray.some((test) => test === 'd');
+        <updated>2020-11-07T07:13:50.888Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[14个 JavaScript 代码优化技巧]]></title>
+        <id>https://luzhaoyang.com/zh/posts/14ge-javascript-dai-ma-you-hua-ji-qiao.html</id>
+        <link href="https://luzhaoyang.com/zh/posts/14ge-javascript-dai-ma-you-hua-ji-qiao.html">
+        </link>
+        <updated>2020-11-07T07:13:50.888Z</updated>
+        <summary type="html"><![CDATA[JavaScript 已经成为有史以来最受欢迎的编程语言之一。从 W3Tech 的数据来看，全世界将近 96％的网站都在使用它。关于 Web 有一个关键的事实是，你无法控制访问网站的用户所用设备。当用户访问你的网站时，使用的可能是高端设备也可能是低端设备，网络连接条件也有好有差。这意味着你必须尽可能优化自己的网站，以满足任何用户的需求。]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12 种使用 Vue 的最佳做法]]></title>
+        <id>https://luzhaoyang.com/zh/posts/12-zhong-shi-yong-vue-de-zui-jia-zuo-fa.html</id>
+        <link href="https://luzhaoyang.com/zh/posts/12-zhong-shi-yong-vue-de-zui-jia-zuo-fa.html">
+        </link>
+        <updated>2020-11-07T07:13:50.888Z</updated>
+        <summary type="html"><![CDATA[
+]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12 个提高JavaScript编码效率的 NPM 技巧]]></title>
+        <id>https://luzhaoyang.com/zh/posts/12-ge-ti-gao-javascriptbian-ma-xiao-lu-de-npm-ji-qiao.html</id>
+        <link href="https://luzhaoyang.com/zh/posts/12-ge-ti-gao-javascriptbian-ma-xiao-lu-de-npm-ji-qiao.html">
+        </link>
+        <updated>2020-11-07T07:13:50.888Z</updated>
+        <summary type="html"><![CDATA[npm config set init-author-name "Ankit Jain"
+npm config set init-author-email "ankitjain28may77@gmail.com"
 `]]></summary>
     </entry>
     <entry>
@@ -87,7 +81,7 @@ myAwesomeArray.some((test) => test === 'd');
         <id>https://luzhaoyang.com/zh/posts/2019nian-shi-fou-ke-yi-pao-qi-cssyu-chu-li-qi-.html</id>
         <link href="https://luzhaoyang.com/zh/posts/2019nian-shi-fou-ke-yi-pao-qi-cssyu-chu-li-qi-.html">
         </link>
-        <updated>2020-11-07T07:07:27.460Z</updated>
+        <updated>2020-11-07T07:13:50.888Z</updated>
         <summary type="html"><![CDATA[W3C 制定了一系列标准并督促网络应用开发者和内容提供者遵循这些标准。标准的内容包括使用语言的规范，开发中使用的导则和解释引擎的行为等等。W3C 制定了包括 HTML、DOM、SVG、XML 和 CSS 等的众多影响深远的标准规范。]]></summary>
     </entry>
     <entry>
@@ -95,7 +89,7 @@ myAwesomeArray.some((test) => test === 'd');
         <id>https://luzhaoyang.com/zh/posts/8ge-you-yong-de-javascriptji-qiao.html</id>
         <link href="https://luzhaoyang.com/zh/posts/8ge-you-yong-de-javascriptji-qiao.html">
         </link>
-        <updated>2020-11-07T07:07:27.460Z</updated>
+        <updated>2020-11-07T07:13:50.889Z</updated>
         <summary type="html"><![CDATA[https://devinduct.com/blogpost/17/handling-array-duplicates-can-be-tricky]]></summary>
     </entry>
     <entry>
@@ -103,7 +97,7 @@ myAwesomeArray.some((test) => test === 'd');
         <id>https://luzhaoyang.com/zh/posts/arrayyuan-xing-fang-fa-yuan-ma-shi-xian-da-jie-mi.html</id>
         <link href="https://luzhaoyang.com/zh/posts/arrayyuan-xing-fang-fa-yuan-ma-shi-xian-da-jie-mi.html">
         </link>
-        <updated>2020-11-07T07:07:27.461Z</updated>
+        <updated>2020-11-07T07:13:50.889Z</updated>
         <summary type="html"><![CDATA[用 JS 来模拟实现，核心逻辑如下：]]></summary>
     </entry>
     <entry>
@@ -111,14 +105,14 @@ myAwesomeArray.some((test) => test === 'd');
         <id>https://luzhaoyang.com/zh/posts/css-in-jsshi-e-mo-huan-shi-tian-shi-.html</id>
         <link href="https://luzhaoyang.com/zh/posts/css-in-jsshi-e-mo-huan-shi-tian-shi-.html">
         </link>
-        <updated>2020-11-07T07:07:27.461Z</updated>
+        <updated>2020-11-07T07:13:50.889Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[CSS中如何解决外边距塌陷问题？]]></title>
         <id>https://luzhaoyang.com/zh/posts/csszhong-ru-he-jie-jue-wai-bian-ju-ta-xian-wen-ti-.html</id>
         <link href="https://luzhaoyang.com/zh/posts/csszhong-ru-he-jie-jue-wai-bian-ju-ta-xian-wen-ti-.html">
         </link>
-        <updated>2020-11-07T07:07:27.461Z</updated>
+        <updated>2020-11-07T07:13:50.889Z</updated>
         <summary type="html"><![CDATA[这个段落的和下面段落的距离将为20px]]></summary>
     </entry>
     <entry>
@@ -126,7 +120,7 @@ myAwesomeArray.some((test) => test === 'd');
         <id>https://luzhaoyang.com/zh/posts/cssba-zhong-rang-ren-yan-qian-yi-liang-de-hoverxiao-guo.html</id>
         <link href="https://luzhaoyang.com/zh/posts/cssba-zhong-rang-ren-yan-qian-yi-liang-de-hoverxiao-guo.html">
         </link>
-        <updated>2020-11-07T07:07:27.461Z</updated>
+        <updated>2020-11-07T07:13:50.889Z</updated>
         <summary type="html"><![CDATA[HTML]]></summary>
     </entry>
     <entry>
@@ -134,21 +128,21 @@ myAwesomeArray.some((test) => test === 'd');
         <id>https://luzhaoyang.com/zh/posts/csskai-fa-ren-yuan-shi-gan-shi-me-de-qi-ye-wei-shi-me-xu-yao-zhe-yang-yi-ge-zhi-wei-.html</id>
         <link href="https://luzhaoyang.com/zh/posts/csskai-fa-ren-yuan-shi-gan-shi-me-de-qi-ye-wei-shi-me-xu-yao-zhe-yang-yi-ge-zhi-wei-.html">
         </link>
-        <updated>2020-11-07T07:07:27.462Z</updated>
+        <updated>2020-11-07T07:13:50.890Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[CSS混合模式]]></title>
         <id>https://luzhaoyang.com/zh/posts/csshun-he-mo-shi.html</id>
         <link href="https://luzhaoyang.com/zh/posts/csshun-he-mo-shi.html">
         </link>
-        <updated>2020-11-07T07:07:27.462Z</updated>
+        <updated>2020-11-07T07:13:50.890Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[CSS第四级选择器]]></title>
         <id>https://luzhaoyang.com/zh/posts/cssdi-si-ji-xuan-ze-qi.html</id>
         <link href="https://luzhaoyang.com/zh/posts/cssdi-si-ji-xuan-ze-qi.html">
         </link>
-        <updated>2020-11-07T07:07:27.462Z</updated>
+        <updated>2020-11-07T07:13:50.890Z</updated>
         <summary type="html"><![CDATA[选择器是 CSS 的核心部分。你用来做一些操作比如说选择某种类型的所有元素，就像下面这样：]]></summary>
     </entry>
     <entry>
@@ -156,7 +150,7 @@ myAwesomeArray.some((test) => test === 'd');
         <id>https://luzhaoyang.com/zh/posts/es6-lei-yu-ji-cheng.html</id>
         <link href="https://luzhaoyang.com/zh/posts/es6-lei-yu-ji-cheng.html">
         </link>
-        <updated>2020-11-07T07:07:27.463Z</updated>
+        <updated>2020-11-07T07:13:50.890Z</updated>
         <summary type="html"><![CDATA[本节要总结 ES6 中的类、类的继承的有关内容。]]></summary>
     </entry>
     <entry>
@@ -164,7 +158,7 @@ myAwesomeArray.some((test) => test === 'd');
         <id>https://luzhaoyang.com/zh/posts/h5yu-yi-dong-duan-yuan-sheng-ying-yong-tong-xin.html</id>
         <link href="https://luzhaoyang.com/zh/posts/h5yu-yi-dong-duan-yuan-sheng-ying-yong-tong-xin.html">
         </link>
-        <updated>2020-11-07T07:07:27.463Z</updated>
+        <updated>2020-11-07T07:13:50.891Z</updated>
         <summary type="html"><![CDATA[由于安卓和 ios 的处理方式不一样，所以我们要分开处理先贴上判断访问终端的代码]]></summary>
     </entry>
 </feed>
