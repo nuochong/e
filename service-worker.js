@@ -1106,7 +1106,7 @@ self.__precacheManifest = [
     "revision": "05191c60d9045ed38527598befa9e4fb"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/16.styles.a8b80788.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/16.styles.b61312a4.css",
     "revision": "bf2b5d8f759255025f779664a03e26e9"
   },
   {
@@ -1114,7 +1114,7 @@ self.__precacheManifest = [
     "revision": "0271ffe986e34b0d8dc3c9ce4b5af31e"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/18.styles.313e0036.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/18.styles.230a2230.css",
     "revision": "ea66d298ade686cc900755bde519c637"
   },
   {
@@ -1210,8 +1210,8 @@ self.__precacheManifest = [
     "revision": "e5993078e223b8b0317bf1e538260a5b"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/styles.bc360048.css",
-    "revision": "2d1291cd111fc1fcccd86d30bc1eac66"
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/styles.f91451b6.css",
+    "revision": "8f4c369d8321d4d0f7cc5a97a25df936"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/fonts/hack-regular.3eccb984.woff2",
