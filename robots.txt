@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /comments/
+Disallow: /zh/comments/
+Disallow: /gallery/
+Disallow: /zh/gallery/
+Disallow: /travel/
+Disallow: /zh/travel/
+Sitemap: https:/luzhaoyang.com/sitemap.xml
+Host: https://luzhaoyang.com

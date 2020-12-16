@@ -1,0 +1,23 @@
+Humans.txt is a legal initiative of (humanstxt.org), to talk a little about who is behind the web-based applications, the team involved and the stack used.
+Remembering, we are human beings and not machines.
+
+/* PROJECT */
+  Site name: NEST
+  Site URL: https://luzhaoyang.com
+  Last update: 2018-08-22 00:00:00
+  Language: English/Chinese
+  Twitter: 
+  Contact: 
+  Built with: Vue.js (Vuepress), HTML5, CSS3, Accessibility techniques, PWA e SEO
+  Software: Visual Code Studio (VS Code)
+
+/* AUTHOR */
+	Name:        nuochong
+	Nickname:    nuochong
+	Title:       Frontend Developer
+	Location:    Recife. Pernambuco, Brazil
+	Site:        https://luzhaoyang.com/
+	Site:        https://nativescript-vue-examples.luzhaoyang.com/
+  Twitter:     https://twitter.com/chongnuo/
+  Github:      https://github.com/nuochong/
+	Donation:    https://www.luzhaoyang.com/
