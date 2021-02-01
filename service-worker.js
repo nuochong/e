@@ -1262,7 +1262,7 @@ self.__precacheManifest = [
     "revision": "e5993078e223b8b0317bf1e538260a5b"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/styles.3caf8331.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/styles.c123546f.css",
     "revision": "94b47d92ad750225f6a39ebc59ab127c"
   },
   {
