@@ -106,8 +106,16 @@ self.__precacheManifest = [
     "revision": "093399be3e1eb9cbfa5efc2cd8ced160"
   },
   {
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/0b44.jpg",
+    "revision": "0b44a06ef8aff168de65c8dd236b5440"
+  },
+  {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/0be7.jpg",
     "revision": "0be725b73b4f7e08dd66570fdd6898bf"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/0c2e.jpg",
+    "revision": "0c2e69c18bce7e3846571bca9230f0a2"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/0c36.jpg",
@@ -192,6 +200,10 @@ self.__precacheManifest = [
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/1596.png",
     "revision": "159656dbf182d53c98a21bbb2ad3dc32"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/15a9.jpg",
+    "revision": "15a994e6e2ad7a25764422820d106cef"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/196c.png",
@@ -302,6 +314,10 @@ self.__precacheManifest = [
     "revision": "2c7e778e8c0becaa5166e011d2e578aa"
   },
   {
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/2e3d.jpg",
+    "revision": "2e3dd752b8003780b6dcf2a45fa9becd"
+  },
+  {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/2e52.jpg",
     "revision": "2e52c092a4d9c83b9bce25f5836f57c1"
   },
@@ -340,6 +356,10 @@ self.__precacheManifest = [
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/33d7.jpg",
     "revision": "33d71e0a3719b666f859446ba92166c8"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/34fb.jpg",
+    "revision": "34fb83bb74688449761d184ee42be014"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/362b.jpg",
@@ -466,6 +486,10 @@ self.__precacheManifest = [
     "revision": "45a831e1705a3f502a57b25f26e048f0"
   },
   {
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/45eb.jpg",
+    "revision": "45eb02e609319ba789f975dd1e3df6cb"
+  },
+  {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/4783.jpg",
     "revision": "4783cd6265dd7a2711e48d5c7013299a"
   },
@@ -582,6 +606,10 @@ self.__precacheManifest = [
     "revision": "51b975977d248c291acc5a3a99e9777d"
   },
   {
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/52e4.jpg",
+    "revision": "52e400350c7ba914ba24bd083779d6c8"
+  },
+  {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/5384.jpg",
     "revision": "538498446e2ef1caa3ab12e99126454b"
   },
@@ -694,6 +722,10 @@ self.__precacheManifest = [
     "revision": "5efd3b74f030be906fa964c54287ca66"
   },
   {
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/602a.jpg",
+    "revision": "602a17509beae9e22b1c339f44022675"
+  },
+  {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/6083.jpg",
     "revision": "6083c4cbdbd9a57f7bdc9483285b9420"
   },
@@ -760,6 +792,10 @@ self.__precacheManifest = [
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/67e3.jpg",
     "revision": "67e3928e342ad16dcc9eb88e8a3f689e"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/6864.jpg",
+    "revision": "6864a5a2556c20049202964ae614174e"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/689f.jpg",
@@ -914,6 +950,10 @@ self.__precacheManifest = [
     "revision": "84eff7245da5ff22fc41ac3593f8d394"
   },
   {
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/85d6.jpg",
+    "revision": "85d60db16802a161a1a058383be6d4fa"
+  },
+  {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/8742.gif",
     "revision": "8742a3c536746c5bd90e7745d2a0f6b4"
   },
@@ -950,6 +990,10 @@ self.__precacheManifest = [
     "revision": "8b3e85fa5ad3d3553afd3297f82a17a1"
   },
   {
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/8b68.jpg",
+    "revision": "8b687b204f34493b12a87c6d8faa95c4"
+  },
+  {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/8b9e.jpg",
     "revision": "8b9e96e6aef51bbcd2dd84b1d2a76a70"
   },
@@ -984,6 +1028,10 @@ self.__precacheManifest = [
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/8f00.jpg",
     "revision": "8f004009e37b470b2f93abf368fde70f"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/8fdc.jpg",
+    "revision": "8fdcf356971c4b31bfd687265cad98d2"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/90da.jpg",
@@ -1030,6 +1078,10 @@ self.__precacheManifest = [
     "revision": "9a818f793ace8b40edfc94de2cd143ee"
   },
   {
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/9abc.jpg",
+    "revision": "9abcf6c0c4df426ea154a870dcc209c1"
+  },
+  {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/9afa.png",
     "revision": "9afa1de173164d7f03c112eff7d145b8"
   },
@@ -1072,6 +1124,10 @@ self.__precacheManifest = [
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/a436.jpg",
     "revision": "a436304c7db7c5910c1941b964132b51"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/a449.jpg",
+    "revision": "a4498d8aa0f10b7a84c32205a03fdc22"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/a484.jpg",
@@ -1138,131 +1194,131 @@ self.__precacheManifest = [
     "revision": "af7302689b03adf2b40db51f4cbd34fb"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/0.styles.d472aee4.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/0.styles.e285d1e2.css",
     "revision": "1f88b78e2b6073ceb6140a176d654d88"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/1.styles.82732c77.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/1.styles.682b0eb4.css",
     "revision": "3e038ec67d40ad35b4306f953c5b68bb"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/14.styles.8981ad66.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/14.styles.050881c2.css",
     "revision": "96cf0bfa80d2c1312888189b7cf80435"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/15.styles.14092d3e.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/15.styles.ec43d7ac.css",
     "revision": "05191c60d9045ed38527598befa9e4fb"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/16.styles.1150223d.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/16.styles.2edecc50.css",
     "revision": "bf2b5d8f759255025f779664a03e26e9"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/17.styles.53b9195b.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/17.styles.98d6ca17.css",
     "revision": "0271ffe986e34b0d8dc3c9ce4b5af31e"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/18.styles.4b40be6e.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/18.styles.bf11be0c.css",
     "revision": "ea66d298ade686cc900755bde519c637"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/19.styles.5efc55fc.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/19.styles.c63422d5.css",
     "revision": "86e463286683c49c2c08b770630cb28c"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/2.styles.a03b8861.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/2.styles.2a3dc52c.css",
     "revision": "2f64960dbe89b3d728c1f841cf7f37ca"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/22.styles.3482713d.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/22.styles.6f5931b1.css",
     "revision": "d41d8cd98f00b204e9800998ecf8427e"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/23.styles.b0d65e93.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/23.styles.7bb2b912.css",
     "revision": "918f122dc25ba7dcd775f6e488caa090"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/24.styles.472c867c.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/24.styles.837d6c09.css",
     "revision": "66966f5a94d28a9f757aafc718fb67d6"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/25.styles.25463612.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/25.styles.d39fa620.css",
     "revision": "bcf9eca32341b75323122b762fa9abb3"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/26.styles.d0a92eb3.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/26.styles.1697b78f.css",
     "revision": "3bf4dda8303de30a495d6dab10795399"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/27.styles.44ddbead.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/27.styles.c8c8bf6b.css",
     "revision": "62d73c7f95b2cb4ab2de48175ee3393b"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/28.styles.9e0cc8e2.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/28.styles.9f1d619c.css",
     "revision": "ef5ad4490dffcdfee5cbf9869146a5ac"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/29.styles.5254913e.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/29.styles.d8365bed.css",
     "revision": "665eddf34bff48bdaf5e911f0482955f"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/3.styles.583663f6.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/3.styles.75d81c12.css",
     "revision": "7ad59edd57f5fe5313d735b3b2560e3f"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/30.styles.438f9bea.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/30.styles.323e26cf.css",
     "revision": "e08cfead16fd0be21c7a9b7561329178"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/31.styles.9528191e.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/31.styles.debe5bb7.css",
     "revision": "ee0b8df651aef52db64f5fbb36c8ebb1"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/32.styles.8bea7a1a.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/32.styles.7c46ba7f.css",
     "revision": "c6e5b912d7575ee2d2b379528b4d6e00"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/33.styles.e0219dc2.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/33.styles.d658580d.css",
     "revision": "ee2570984dc2e39c3c25cb9fb0413359"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/34.styles.376f853c.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/34.styles.a31fde1d.css",
     "revision": "49e661aaf914fb980b2340d6375df3ba"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/35.styles.9e2cf3ea.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/35.styles.874cfd55.css",
     "revision": "b856b4b3d5151f58db3290cfe137b8df"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/36.styles.4362cbdc.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/36.styles.20413325.css",
     "revision": "d9dfd37f06d8f435dee028aabf1dbc48"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/37.styles.105849cf.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/37.styles.491abaf8.css",
     "revision": "41856c4745dee9bec4a5fdedff62c832"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/5.styles.b2a2178c.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/5.styles.f1290673.css",
     "revision": "bd33d9448b225cff24ecb4995c9cb6bf"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/6.styles.1775ca92.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/6.styles.dc9587f8.css",
     "revision": "876b8d6019efbff1f13093dc39bf67d8"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/7.styles.89b821e9.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/7.styles.46d31f3d.css",
     "revision": "0b2ae54c704619583566dca98da1702a"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/8.styles.12eb786c.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/8.styles.39e8471b.css",
     "revision": "95d6166296fdc068a3595d724c30d1f0"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/9.styles.ddfd146d.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/9.styles.f1783b1c.css",
     "revision": "e5993078e223b8b0317bf1e538260a5b"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/styles.c123546f.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/styles.4b98f411.css",
     "revision": "94b47d92ad750225f6a39ebc59ab127c"
   },
   {
@@ -1342,6 +1398,14 @@ self.__precacheManifest = [
     "revision": "baf343445710e0d93761999cc90467c5"
   },
   {
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/b02b.jpg",
+    "revision": "b02bdaabc50e71f87bb2aae41f5ce28c"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/b067.jpg",
+    "revision": "b06709082ce20ae95722d54230fbfd35"
+  },
+  {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/b0b8.jpg",
     "revision": "b0b80e5efb28676cfc2d92b4d1aad625"
   },
@@ -1360,6 +1424,10 @@ self.__precacheManifest = [
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/b767.jpg",
     "revision": "b767bb82d20cd4ff863ca4d82ad74c31"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/b830.jpg",
+    "revision": "b830aa47c9da230df2f35e687956ac25"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/b918.jpg",
@@ -1384,6 +1452,10 @@ self.__precacheManifest = [
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/bc31.jpg",
     "revision": "bc315c9604eacef337bf754ca0ff2fa1"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/bcaa.jpg",
+    "revision": "bcaab2bdf9448bb4157143b87cc5fc46"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/bcf9.jpg",
@@ -1480,6 +1552,10 @@ self.__precacheManifest = [
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/cdd6.jpg",
     "revision": "cdd629bf8022629d5bb2e1ec2afeb605"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/cf8e.jpg",
+    "revision": "cf8ec30679efbdc4cdbeb9f4f13b8b3a"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/d117.gif",
@@ -1658,6 +1734,10 @@ self.__precacheManifest = [
     "revision": "edbafa7ed70d583aae23f2786198db0a"
   },
   {
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/ee7b.jpg",
+    "revision": "ee7be77a5da892f524e78762fe782f0b"
+  },
+  {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/ef97.jpg",
     "revision": "ef97171f8c7b3b7c1016f63047bbf8c0"
   },
@@ -1676,6 +1756,10 @@ self.__precacheManifest = [
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/f26f.jpg",
     "revision": "f26f5e41505b805a5099b7c20b736200"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/f2fd.jpg",
+    "revision": "f2fdfdec4a16e7f57836e4f15ecf6cfe"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/f3a5.png",
@@ -1892,6 +1976,10 @@ self.__precacheManifest = [
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/fe31.jpg",
     "revision": "fe31abc86edd516f83722c71785e0261"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/fe47.jpg",
+    "revision": "fe474354b46c9609ca908bfdc6987372"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/festival/children-s-day/1131.png",
@@ -2282,6 +2370,10 @@ self.__precacheManifest = [
     "revision": "578cc7b21b9b2cb9b4f083b02a1c7b19"
   },
   {
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/gallery/bitty/formosa/20190209_193609-small.jpg",
+    "revision": "85d60db16802a161a1a058383be6d4fa"
+  },
+  {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/gallery/bitty/formosa/20190210_122840-small.jpg",
     "revision": "02ed1a497792b6d8b40796a819f1dadb"
   },
@@ -2294,12 +2386,28 @@ self.__precacheManifest = [
     "revision": "5ca29b500f68470496424ba4b3e0ad5a"
   },
   {
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/gallery/bitty/formosa/20190212_141117-small.jpg",
+    "revision": "bcaab2bdf9448bb4157143b87cc5fc46"
+  },
+  {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/gallery/bitty/formosa/20190212_170821-small.jpg",
     "revision": "489e862ef913cf390195ad07c65a7cda"
   },
   {
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/gallery/bitty/formosa/20190213_095759-small.jpg",
+    "revision": "34fb83bb74688449761d184ee42be014"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/gallery/bitty/formosa/20190213_095903-small.jpg",
+    "revision": "0c2e69c18bce7e3846571bca9230f0a2"
+  },
+  {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/gallery/bitty/formosa/20190213_112738_003-small.jpg",
     "revision": "25db26bd010a0698524a3bcbd1732f6a"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/gallery/bitty/formosa/20190213_213735-small.jpg",
+    "revision": "8b687b204f34493b12a87c6d8faa95c4"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/gallery/bitty/formosa/20190214_165923-small.jpg",
@@ -2316,6 +2424,26 @@ self.__precacheManifest = [
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/gallery/bitty/formosa/5-small.jpg",
     "revision": "3eda5685194a4cfb2ee585378a8b69f7"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/gallery/bitty/gulangyu/20190312_183645-small.jpg",
+    "revision": "9abcf6c0c4df426ea154a870dcc209c1"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/gallery/bitty/gulangyu/20190516_164046-small.jpg",
+    "revision": "cf8ec30679efbdc4cdbeb9f4f13b8b3a"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/gallery/bitty/gulangyu/20190914_163230-small.jpg",
+    "revision": "602a17509beae9e22b1c339f44022675"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/gallery/bitty/gulangyu/20190914_165701-small.jpg",
+    "revision": "f2fdfdec4a16e7f57836e4f15ecf6cfe"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/gallery/bitty/gulangyu/20190914_170122-small.jpg",
+    "revision": "6864a5a2556c20049202964ae614174e"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/gallery/bitty/hometown/14-small.jpg",
