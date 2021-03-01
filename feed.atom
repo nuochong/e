@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://luzhaoyang.com</id>
     <title></title>
-    <updated>2021-02-27T08:25:36.300Z</updated>
+    <updated>2021-03-01T00:37:47.435Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://luzhaoyang.com"/>
     <link rel="self" href="https://luzhaoyang.com/feed.atom"/>
@@ -11,135 +11,119 @@
         <id>https://luzhaoyang.com/other/finally-have-a-nest.html</id>
         <link href="https://luzhaoyang.com/other/finally-have-a-nest.html">
         </link>
-        <updated>2021-02-27T08:25:13.523Z</updated>
+        <updated>2021-03-01T00:37:31.492Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[My First Post]]></title>
         <id>https://luzhaoyang.com/posts/my-first-post.html</id>
         <link href="https://luzhaoyang.com/posts/my-first-post.html">
         </link>
-        <updated>2021-02-27T08:25:13.525Z</updated>
+        <updated>2021-03-01T00:37:31.494Z</updated>
         <summary type="html"><![CDATA[Meta description, one of the three TDK tags on the original page, is also a page optimization element that SEO staff need to focus on optimization.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2020爱普生国际全景摄影奖获奖作品揭晓]]></title>
-        <id>https://luzhaoyang.com/zh/other/2020ai-pu-sheng-guo-ji-quan-jing-she-ying-jiang-huo-jiang-zuo-pin-jie-xiao.html</id>
-        <link href="https://luzhaoyang.com/zh/other/2020ai-pu-sheng-guo-ji-quan-jing-she-ying-jiang-huo-jiang-zuo-pin-jie-xiao.html">
-        </link>
-        <updated>2021-02-27T08:25:13.527Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[终于有个窝了]]></title>
         <id>https://luzhaoyang.com/zh/other/finally-have-a-nest.html</id>
         <link href="https://luzhaoyang.com/zh/other/finally-have-a-nest.html">
         </link>
-        <updated>2021-02-27T08:25:13.527Z</updated>
+        <updated>2021-03-01T00:37:31.495Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[令人难以置信的无人机航拍作品赢得年度自然TTL摄影大奖]]></title>
         <id>https://luzhaoyang.com/zh/other/ling-ren-nan-yi-zhi-xin-de-wu-ren-ji-hang-pai-zuo-pin-ying-de-nian-du-zi-ran-ttlshe-ying-da-jiang.html</id>
         <link href="https://luzhaoyang.com/zh/other/ling-ren-nan-yi-zhi-xin-de-wu-ren-ji-hang-pai-zuo-pin-ying-de-nian-du-zi-ran-ttlshe-ying-da-jiang.html">
         </link>
-        <updated>2021-02-27T08:25:13.527Z</updated>
+        <updated>2021-03-01T00:37:31.496Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2020爱普生国际全景摄影奖获奖作品揭晓]]></title>
+        <id>https://luzhaoyang.com/zh/other/2020ai-pu-sheng-guo-ji-quan-jing-she-ying-jiang-huo-jiang-zuo-pin-jie-xiao.html</id>
+        <link href="https://luzhaoyang.com/zh/other/2020ai-pu-sheng-guo-ji-quan-jing-she-ying-jiang-huo-jiang-zuo-pin-jie-xiao.html">
+        </link>
+        <updated>2021-03-01T00:37:31.496Z</updated>
+        <summary type="html"><![CDATA[一年一度的爱普生国际全景摄影奖(The EPSON International Pano Awards)专注于全景摄影艺术，是世界上最引人注目的摄影比赛之一。今年的一系列精彩作品提供了极具创意的各种图像，从崇高的广袤风景到色彩斑斓的建筑构图等。]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[快乐的时刻]]></title>
         <id>https://luzhaoyang.com/zh/other/kuai-le-de-shi-ke.html</id>
         <link href="https://luzhaoyang.com/zh/other/kuai-le-de-shi-ke.html">
         </link>
-        <updated>2021-02-27T08:25:13.527Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12 个提高JavaScript编码效率的 NPM 技巧]]></title>
-        <id>https://luzhaoyang.com/zh/posts/12-ge-ti-gao-javascriptbian-ma-xiao-lu-de-npm-ji-qiao.html</id>
-        <link href="https://luzhaoyang.com/zh/posts/12-ge-ti-gao-javascriptbian-ma-xiao-lu-de-npm-ji-qiao.html">
-        </link>
-        <updated>2021-02-27T08:25:13.528Z</updated>
-        <summary type="html"><![CDATA[NPM，Node Package Manager，是 JavaScript 编程语言的软件包管理器。任何使用 Javascript 的开发人员都使用过这个出色的 CLI 工具来为他们的项目安装依赖项。]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12 种使用 Vue 的最佳做法]]></title>
-        <id>https://luzhaoyang.com/zh/posts/12-zhong-shi-yong-vue-de-zui-jia-zuo-fa.html</id>
-        <link href="https://luzhaoyang.com/zh/posts/12-zhong-shi-yong-vue-de-zui-jia-zuo-fa.html">
-        </link>
-        <updated>2021-02-27T08:25:13.528Z</updated>
-        <summary type="html"><![CDATA[
-]]></summary>
+        <updated>2021-03-01T00:37:31.496Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[14个 JavaScript 代码优化技巧]]></title>
         <id>https://luzhaoyang.com/zh/posts/14ge-javascript-dai-ma-you-hua-ji-qiao.html</id>
         <link href="https://luzhaoyang.com/zh/posts/14ge-javascript-dai-ma-you-hua-ji-qiao.html">
         </link>
-        <updated>2021-02-27T08:25:13.528Z</updated>
-        <summary type="html"><![CDATA[你的应用程序包含的代码越多，就需要将更多的数据传输到客户端。浏览器也需要更多时间来分析和解释代码。]]></summary>
+        <updated>2021-03-01T00:37:31.497Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12 种使用 Vue 的最佳做法]]></title>
+        <id>https://luzhaoyang.com/zh/posts/12-zhong-shi-yong-vue-de-zui-jia-zuo-fa.html</id>
+        <link href="https://luzhaoyang.com/zh/posts/12-zhong-shi-yong-vue-de-zui-jia-zuo-fa.html">
+        </link>
+        <updated>2021-03-01T00:37:31.497Z</updated>
+        <summary type="html"><![CDATA[在需要操纵数据时，将key属性与v-for指令一起使用可以让程序保持恒定且可预测。
+这是很有必要的，这样 Vue 就可以跟踪组件状态，并对不同的元素有一个常量引用。在使用动画或 Vue 转换时，key 非常有用。
+如果没有key ，Vue 只会尝试使 DOM 尽可能高效。 这可能意味着v-for中的元素可能会出现乱序，或者它们的行为难以预测。 如果我们对每个元素都有唯一的键引用，那么我们可以更好地预测Vue应用程序将如何精确地处理DOM操作。]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[15个必须知道的JavaScript数组方法]]></title>
         <id>https://luzhaoyang.com/zh/posts/15ge-bi-xu-zhi-dao-de-javascriptshu-zu-fang-fa.html</id>
         <link href="https://luzhaoyang.com/zh/posts/15ge-bi-xu-zhi-dao-de-javascriptshu-zu-fang-fa.html">
         </link>
-        <updated>2021-02-27T08:25:13.528Z</updated>
-        <summary type="html"><![CDATA[myAwesomeArray.some((test) => {
-  if (test === 'd') {
-    return test;
-  }
-});
-// We'll use the shorter one
-myAwesomeArray.some((test) => test === 'd');
-`]]></summary>
+        <updated>2021-03-01T00:37:31.497Z</updated>
+        <summary type="html"><![CDATA[::: warning
+大多数情况下，我们将简化作为参数传递的函数。
+:::]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[8个有用的JavaScript技巧]]></title>
-        <id>https://luzhaoyang.com/zh/posts/8ge-you-yong-de-javascriptji-qiao.html</id>
-        <link href="https://luzhaoyang.com/zh/posts/8ge-you-yong-de-javascriptji-qiao.html">
+        <title type="html"><![CDATA[12 个提高JavaScript编码效率的 NPM 技巧]]></title>
+        <id>https://luzhaoyang.com/zh/posts/12-ge-ti-gao-javascriptbian-ma-xiao-lu-de-npm-ji-qiao.html</id>
+        <link href="https://luzhaoyang.com/zh/posts/12-ge-ti-gao-javascriptbian-ma-xiao-lu-de-npm-ji-qiao.html">
         </link>
-        <updated>2021-02-27T08:25:13.528Z</updated>
-        <summary type="html"><![CDATA[const uniqueWithSpreadOperator = [...new Set(cars)];
-console.log(uniqueWithSpreadOperator); // outputs ["Mazda", "Ford", "Renault", "Opel"]
+        <updated>2021-03-01T00:37:31.497Z</updated>
+        <summary type="html"><![CDATA[npm config set init-author-name "Ankit Jain"
+npm config set init-author-email "ankitjain28may77@gmail.com"
 `]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2019年，是否可以抛弃CSS预处理器？]]></title>
-        <id>https://luzhaoyang.com/zh/posts/2019nian-shi-fou-ke-yi-pao-qi-cssyu-chu-li-qi-.html</id>
-        <link href="https://luzhaoyang.com/zh/posts/2019nian-shi-fou-ke-yi-pao-qi-cssyu-chu-li-qi-.html">
-        </link>
-        <updated>2021-02-27T08:25:13.528Z</updated>
-        <summary type="html"><![CDATA[因为接下来我们需要谈到一些不同阶段的 CSS 规范，因此这里有必要简单介绍一下 W3C 的规范制定流程。]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[CSS-in-JS是恶魔还是天使？]]></title>
         <id>https://luzhaoyang.com/zh/posts/css-in-jsshi-e-mo-huan-shi-tian-shi-.html</id>
         <link href="https://luzhaoyang.com/zh/posts/css-in-jsshi-e-mo-huan-shi-tian-shi-.html">
         </link>
-        <updated>2021-02-27T08:25:13.529Z</updated>
+        <updated>2021-03-01T00:37:31.499Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2019年，是否可以抛弃CSS预处理器？]]></title>
+        <id>https://luzhaoyang.com/zh/posts/2019nian-shi-fou-ke-yi-pao-qi-cssyu-chu-li-qi-.html</id>
+        <link href="https://luzhaoyang.com/zh/posts/2019nian-shi-fou-ke-yi-pao-qi-cssyu-chu-li-qi-.html">
+        </link>
+        <updated>2021-03-01T00:37:31.499Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8个有用的JavaScript技巧]]></title>
+        <id>https://luzhaoyang.com/zh/posts/8ge-you-yong-de-javascriptji-qiao.html</id>
+        <link href="https://luzhaoyang.com/zh/posts/8ge-you-yong-de-javascriptji-qiao.html">
+        </link>
+        <updated>2021-03-01T00:37:31.499Z</updated>
+        <summary type="html"><![CDATA[您曾经在 grid 表格中遇到过这样的情况吗？需要重新创建原始数据，但修改之后每一行的列宽可能不匹配？嗯，我经常遇到这种情形。为了确保行与行之间列宽对齐，可以使用 Array.fill 方法进行填充。]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Array原型方法源码实现大解密]]></title>
         <id>https://luzhaoyang.com/zh/posts/arrayyuan-xing-fang-fa-yuan-ma-shi-xian-da-jie-mi.html</id>
         <link href="https://luzhaoyang.com/zh/posts/arrayyuan-xing-fang-fa-yuan-ma-shi-xian-da-jie-mi.html">
         </link>
-        <updated>2021-02-27T08:25:13.530Z</updated>
+        <updated>2021-03-01T00:37:31.499Z</updated>
+        <summary type="html"><![CDATA[map方法的主要功能就是把原数组中的每个元素按顺序执行一次 callbackfn 函数，并且把所有返回的结果组合在一起生成一个新的数组，map方法的返回值就是这个新数组。]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[CSS中如何解决外边距塌陷问题？]]></title>
         <id>https://luzhaoyang.com/zh/posts/csszhong-ru-he-jie-jue-wai-bian-ju-ta-xian-wen-ti-.html</id>
         <link href="https://luzhaoyang.com/zh/posts/csszhong-ru-he-jie-jue-wai-bian-ju-ta-xian-wen-ti-.html">
         </link>
-        <updated>2021-02-27T08:25:13.530Z</updated>
+        <updated>2021-03-01T00:37:31.500Z</updated>
         <summary type="html"><![CDATA[
-  .box1 {
-    width: 150px;
-    height: 100px;
-    margin-bottom: 20px;
-    background-color: rgb(201, 239, 98);
-  }
-  .box2 {
-    width: 100px;
-    height: 100px;
-    background-color: rebeccapurple;
-    margin-top: 10px;
-  }
 
 `]]></summary>
     </entry>
@@ -148,25 +132,17 @@ console.log(uniqueWithSpreadOperator); // outputs ["Mazda", "Ford", "Renault", "
         <id>https://luzhaoyang.com/zh/posts/cssba-zhong-rang-ren-yan-qian-yi-liang-de-hoverxiao-guo.html</id>
         <link href="https://luzhaoyang.com/zh/posts/cssba-zhong-rang-ren-yan-qian-yi-liang-de-hoverxiao-guo.html">
         </link>
-        <updated>2021-02-27T08:25:13.530Z</updated>
+        <updated>2021-03-01T00:37:31.500Z</updated>
         <summary type="html"><![CDATA[vertical-align: middle;
   padding-right: 5px;
 }]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS第四级选择器]]></title>
-        <id>https://luzhaoyang.com/zh/posts/cssdi-si-ji-xuan-ze-qi.html</id>
-        <link href="https://luzhaoyang.com/zh/posts/cssdi-si-ji-xuan-ze-qi.html">
-        </link>
-        <updated>2021-02-27T08:25:13.530Z</updated>
-        <summary type="html"><![CDATA[你可以把级别看作是 CSS 选择器的版本，其中每个级别都会添加一些功能更强大的选择器。]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[CSS混合模式]]></title>
         <id>https://luzhaoyang.com/zh/posts/csshun-he-mo-shi.html</id>
         <link href="https://luzhaoyang.com/zh/posts/csshun-he-mo-shi.html">
         </link>
-        <updated>2021-02-27T08:25:36.268Z</updated>
+        <updated>2021-03-01T00:37:47.401Z</updated>
         <summary type="html"><![CDATA[| normal         | normal       | 正常模式     | 混合色的像素会透过所用的颜色显示出来                                                                                                                                                         |
 | multiply       | multiply     | 正片叠底模式 | 在“正片叠底”模式中，查看每个通道中的颜色信息，并将“基色”与“混合色”复合。                                                                                                                     |
 | screen         | screen       | 滤色模式     | “滤色”模式与“正片叠底”模式正好相反，它将图像的“基色”颜色与“混合色”颜色结合起来产生比两种颜色都浅的第三种颜色                                                                                 |
@@ -185,33 +161,24 @@ console.log(uniqueWithSpreadOperator); // outputs ["Mazda", "Ford", "Renault", "
 | luminosity     | luminosity   | 亮度模式     | “亮度”模式能够使用“混合色”颜色的亮度值进行着色，而保持“基色”颜色的饱和度和色相数值不变。其实就是用“基色”中的“色相”和“饱和度”以及“混合色”的亮度创建“结果色”。                                 |]]></summary>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CSS开发人员是干什么的？企业为什么需要这样一个职位？]]></title>
+        <id>https://luzhaoyang.com/zh/posts/csskai-fa-ren-yuan-shi-gan-shi-me-de-qi-ye-wei-shi-me-xu-yao-zhe-yang-yi-ge-zhi-wei-.html</id>
+        <link href="https://luzhaoyang.com/zh/posts/csskai-fa-ren-yuan-shi-gan-shi-me-de-qi-ye-wei-shi-me-xu-yao-zhe-yang-yi-ge-zhi-wei-.html">
+        </link>
+        <updated>2021-03-01T00:37:47.402Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS第四级选择器]]></title>
+        <id>https://luzhaoyang.com/zh/posts/cssdi-si-ji-xuan-ze-qi.html</id>
+        <link href="https://luzhaoyang.com/zh/posts/cssdi-si-ji-xuan-ze-qi.html">
+        </link>
+        <updated>2021-03-01T00:37:47.402Z</updated>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[H5与移动端原生应用通信]]></title>
         <id>https://luzhaoyang.com/zh/posts/h5yu-yi-dong-duan-yuan-sheng-ying-yong-tong-xin.html</id>
         <link href="https://luzhaoyang.com/zh/posts/h5yu-yi-dong-duan-yuan-sheng-ying-yong-tong-xin.html">
         </link>
-        <updated>2021-02-27T08:25:36.268Z</updated>
-        <summary type="html"><![CDATA[// IOS swift code
-webview.stringByEvaluatingJavaScriptFromString('window.methodName()');
-`]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ES6 类与继承]]></title>
-        <id>https://luzhaoyang.com/zh/posts/es6-lei-yu-ji-cheng.html</id>
-        <link href="https://luzhaoyang.com/zh/posts/es6-lei-yu-ji-cheng.html">
-        </link>
-        <updated>2021-02-27T08:25:36.268Z</updated>
-        <summary type="html"><![CDATA[constructor: {
-    value: Child,
-    enumerable: false,
-    writable: true,
-    configurable: true,
-  },
-});
-var child1 = new Child('Peter');
-console.log(child1);
-console.log(child1.printValue()); // Peter
-console.log(child1 instanceof Child); // true
-console.log(child1 instanceof Parent); // true
-`]]></summary>
+        <updated>2021-03-01T00:37:47.402Z</updated>
     </entry>
 </feed>
