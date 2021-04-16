@@ -8,7 +8,7 @@
             "id": "https://luzhaoyang.com/other/finally-have-a-nest.html",
             "url": "https://luzhaoyang.com/other/finally-have-a-nest.html",
             "title": "Finally Have A Nest",
-            "date_modified": "2021-04-11T14:01:19.518Z"
+            "date_modified": "2021-04-16T14:55:35.491Z"
         },
         {
             "id": "https://luzhaoyang.com/posts/my-first-post.html",
@@ -16,96 +16,118 @@
             "title": "My First Post",
             "summary": "Meta description, one of the three TDK tags on the original page, is also a page optimization element that SEO staff need to focus on optimization.",
             "image": "https://luzhaoyang.com/images/posts-base/2018/8/my-first-post.png",
-            "date_modified": "2021-04-11T14:01:19.521Z"
+            "date_modified": "2021-04-16T14:55:35.498Z"
+        },
+        {
+            "id": "https://luzhaoyang.com/zh/other/2020ai-pu-sheng-guo-ji-quan-jing-she-ying-jiang-huo-jiang-zuo-pin-jie-xiao.html",
+            "url": "https://luzhaoyang.com/zh/other/2020ai-pu-sheng-guo-ji-quan-jing-she-ying-jiang-huo-jiang-zuo-pin-jie-xiao.html",
+            "title": "2020爱普生国际全景摄影奖获奖作品揭晓",
+            "image": "https://luzhaoyang.com/@pub/images/posts-content/2020ai-pu-sheng-guo-ji-quan-jing-she-ying-jiang-huo-jiang-zuo-pin-jie-xiao/1.jpg",
+            "date_modified": "2021-04-16T14:55:35.502Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/other/finally-have-a-nest.html",
             "url": "https://luzhaoyang.com/zh/other/finally-have-a-nest.html",
             "title": "终于有个窝了",
-            "date_modified": "2021-04-11T14:01:19.521Z"
+            "date_modified": "2021-04-16T14:55:35.502Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/other/ling-ren-nan-yi-zhi-xin-de-wu-ren-ji-hang-pai-zuo-pin-ying-de-nian-du-zi-ran-ttlshe-ying-da-jiang.html",
             "url": "https://luzhaoyang.com/zh/other/ling-ren-nan-yi-zhi-xin-de-wu-ren-ji-hang-pai-zuo-pin-ying-de-nian-du-zi-ran-ttlshe-ying-da-jiang.html",
             "title": "令人难以置信的无人机航拍作品赢得年度自然TTL摄影大奖",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/ling-ren-nan-yi-zhi-xin-de-wu-ren-ji-hang-pai-zuo-pin-ying-de-nian-du-zi-ranttl-she-ying-da-jiang/1.jpg =840x",
-            "date_modified": "2021-04-11T14:01:19.522Z"
+            "date_modified": "2021-04-16T14:55:35.503Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/other/kuai-le-de-shi-ke.html",
             "url": "https://luzhaoyang.com/zh/other/kuai-le-de-shi-ke.html",
             "title": "快乐的时刻",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg",
-            "date_modified": "2021-04-11T14:01:19.523Z"
-        },
-        {
-            "id": "https://luzhaoyang.com/zh/posts/10fen-zhong-ru-men-webassembly.html",
-            "url": "https://luzhaoyang.com/zh/posts/10fen-zhong-ru-men-webassembly.html",
-            "title": "10分钟入门WebAssembly",
-            "summary": "官网定义：WebAssembly/wasm WebAssembly 或者 wasm 是一个可移植、体积小、加载快并且兼容 Web 的全新格式（二进制）。是由主流浏览器厂商组成的 W3C 社区团体 制定的一个新的规范。",
-            "image": "https://luzhaoyang.com/@pub/images/posts-content/10fen-zhong-ru-men-webassembly/1.png",
-            "date_modified": "2021-04-11T14:01:19.523Z"
-        },
-        {
-            "id": "https://luzhaoyang.com/zh/other/2020ai-pu-sheng-guo-ji-quan-jing-she-ying-jiang-huo-jiang-zuo-pin-jie-xiao.html",
-            "url": "https://luzhaoyang.com/zh/other/2020ai-pu-sheng-guo-ji-quan-jing-she-ying-jiang-huo-jiang-zuo-pin-jie-xiao.html",
-            "title": "2020爱普生国际全景摄影奖获奖作品揭晓",
-            "summary": "“不用说，今年是值得铭记的一年，”大赛策展人 David Evans 说。“我们以为新的参赛作品和评审系统会让我们忙得够呛，然后世界变了。我们加倍努力，开始工作，结果是全景摄影奖创下了一个新纪录。”",
-            "image": "https://luzhaoyang.com/@pub/images/posts-content/2020ai-pu-sheng-guo-ji-quan-jing-she-ying-jiang-huo-jiang-zuo-pin-jie-xiao/1.jpg",
-            "date_modified": "2021-04-11T14:01:19.523Z"
+            "date_modified": "2021-04-16T14:55:35.503Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/12-ge-ti-gao-javascriptbian-ma-xiao-lu-de-npm-ji-qiao.html",
             "url": "https://luzhaoyang.com/zh/posts/12-ge-ti-gao-javascriptbian-ma-xiao-lu-de-npm-ji-qiao.html",
             "title": "12 个提高JavaScript编码效率的 NPM 技巧",
-            "summary": "npm init -y\n`",
+            "summary": "NPM，Node Package Manager，是 JavaScript 编程语言的软件包管理器。任何使用 Javascript 的开发人员都使用过这个出色的 CLI 工具来为他们的项目安装依赖项。",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/12-ge-ti-gaojavascript-bian-ma-xiao-lu-de-npm-ji-qiao/0.webp",
-            "date_modified": "2021-04-11T14:01:19.523Z"
+            "date_modified": "2021-04-16T14:55:35.504Z"
+        },
+        {
+            "id": "https://luzhaoyang.com/zh/posts/10fen-zhong-ru-men-webassembly.html",
+            "url": "https://luzhaoyang.com/zh/posts/10fen-zhong-ru-men-webassembly.html",
+            "title": "10分钟入门WebAssembly",
+            "summary": "`",
+            "image": "https://luzhaoyang.com/@pub/images/posts-content/10fen-zhong-ru-men-webassembly/1.png",
+            "date_modified": "2021-04-16T14:55:35.504Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/12-zhong-shi-yong-vue-de-zui-jia-zuo-fa.html",
             "url": "https://luzhaoyang.com/zh/posts/12-zhong-shi-yong-vue-de-zui-jia-zuo-fa.html",
             "title": "12 种使用 Vue 的最佳做法",
-            "summary": "\n\n`",
+            "summary": "最佳做法只是遵循每种语言的约定。 在 JS 中，驼峰式声明是标准，在 HTML 中，是短横线命名。 因此，我们相应地使用它们。\n幸运的是，Vue 已经提供了驼峰式声明和短横线命名之间转换，因此除了实际声明它们之外，我们不必担心任何事情。",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg",
-            "date_modified": "2021-04-11T14:01:19.523Z"
+            "date_modified": "2021-04-16T14:55:35.504Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/15ge-bi-xu-zhi-dao-de-javascriptshu-zu-fang-fa.html",
             "url": "https://luzhaoyang.com/zh/posts/15ge-bi-xu-zhi-dao-de-javascriptshu-zu-fang-fa.html",
             "title": "15个必须知道的JavaScript数组方法",
-            "summary": "myAwesomeArray.some((test) => {\n  if (test === 'd') {\n    return test;\n  }\n});\n// We'll use the shorter one\nmyAwesomeArray.some((test) => test === 'd');\n`",
+            "summary": "//-------> Output : true\n`",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg",
-            "date_modified": "2021-04-11T14:01:19.523Z"
+            "date_modified": "2021-04-16T14:55:35.504Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/2019nian-shi-fou-ke-yi-pao-qi-cssyu-chu-li-qi-.html",
             "url": "https://luzhaoyang.com/zh/posts/2019nian-shi-fou-ke-yi-pao-qi-cssyu-chu-li-qi-.html",
             "title": "2019年，是否可以抛弃CSS预处理器？",
-            "summary": "W3C 制定了一系列标准并督促网络应用开发者和内容提供者遵循这些标准。标准的内容包括使用语言的规范，开发中使用的导则和解释引擎的行为等等。W3C 制定了包括 HTML、DOM、SVG、XML 和 CSS 等的众多影响深远的标准规范。",
+            "summary": "按照 W3C 的 Process Document，一个推荐标准的发展需要通过不同的阶段。",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/2019-nian-shi-fou-ke-yi-pao-qicss-yu-chu-li-qi-/640-2.webp",
-            "date_modified": "2021-04-11T14:01:19.523Z"
-        },
-        {
-            "id": "https://luzhaoyang.com/zh/posts/14ge-javascript-dai-ma-you-hua-ji-qiao.html",
-            "url": "https://luzhaoyang.com/zh/posts/14ge-javascript-dai-ma-you-hua-ji-qiao.html",
-            "title": "14个 JavaScript 代码优化技巧",
-            "summary": "缓存可以减少延迟和网络流量，从而减少了显示资源表示所需的时间，以提高网站的速度和性能。缓存可以借助 Cache API 或 HTTP caching 来实现。你可能想知道内容更改时会发生什么。当满足某些条件（例如发布新内容）时，上述缓存机制能够处理和重新生成缓存。",
-            "image": "https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg",
-            "date_modified": "2021-04-11T14:01:19.524Z"
+            "date_modified": "2021-04-16T14:55:35.505Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/8ge-you-yong-de-javascriptji-qiao.html",
             "url": "https://luzhaoyang.com/zh/posts/8ge-you-yong-de-javascriptji-qiao.html",
             "title": "8个有用的JavaScript技巧",
             "summary": "// merging objects\nconst product = { name: 'Milk', packaging: 'Plastic', price: '5$' }\nconst manufacturer = { name: 'Company Name', address: 'The Company Address' }\nconst productManufacturer = { ...product, ...manufacturer };\nconsole.log(productManufacturer);\n// outputs { name: \"Company Name\", packaging: \"Plastic\", price: \"5$\", address: \"The Company Address\" }",
-            "date_modified": "2021-04-11T14:01:19.524Z"
+            "date_modified": "2021-04-16T14:55:35.505Z"
+        },
+        {
+            "id": "https://luzhaoyang.com/zh/posts/14ge-javascript-dai-ma-you-hua-ji-qiao.html",
+            "url": "https://luzhaoyang.com/zh/posts/14ge-javascript-dai-ma-you-hua-ji-qiao.html",
+            "title": "14个 JavaScript 代码优化技巧",
+            "summary": "在下面的示例中，如果你没有从循环中 break，则你的代码将循环运行 1000000000 （10 亿）次，显然会过载的。",
+            "image": "https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg",
+            "date_modified": "2021-04-16T14:55:35.505Z"
+        },
+        {
+            "id": "https://luzhaoyang.com/zh/posts/arrayyuan-xing-fang-fa-yuan-ma-shi-xian-da-jie-mi.html",
+            "url": "https://luzhaoyang.com/zh/posts/arrayyuan-xing-fang-fa-yuan-ma-shi-xian-da-jie-mi.html",
+            "title": "Array原型方法源码实现大解密",
+            "summary": "}\n  // Step 8. 返回新数组\n  return A;\n};",
+            "date_modified": "2021-04-16T14:55:35.505Z"
+        },
+        {
+            "id": "https://luzhaoyang.com/zh/posts/2021nian-flutter-yu-react-nativegai-ru-he-xuan-ze-.html",
+            "url": "https://luzhaoyang.com/zh/posts/2021nian-flutter-yu-react-nativegai-ru-he-xuan-ze-.html",
+            "title": "2021年，Flutter 与 React Native该如何选择？",
+            "summary": "开发人员可以使用 React Native 开发跨平台应用程序。\n优势在于，React Native 允许你根据项目需求和开发人员的偏好来精确选择要使用的解决方案。\n例如，如果开发人员需要处理全局状态（如何在单个应用程序中存储和管理多个组件使用的数据），则他们可以使用自定义用户界面库或编写自己的用户界面库；他们可以使用库路由器，或在 JavaScript 和 TypeScript 做出选择。",
+            "image": "https://luzhaoyang.com/@pub/images/posts-content/2021nian-flutter-yu-react-nativegai-ru-he-xuan-ze-/1.jpg",
+            "date_modified": "2021-04-16T14:55:35.506Z"
+        },
+        {
+            "id": "https://luzhaoyang.com/zh/posts/css-ming-ming-gui-fan---bem.html",
+            "url": "https://luzhaoyang.com/zh/posts/css-ming-ming-gui-fan---bem.html",
+            "title": "CSS 命名规范 - BEM",
+            "summary": "就我个人而言，对于简单的项目仅适用连字符分隔符类名称就可以，而对于更多页面则适用 BEM。\n你可以阅读更多关于 BEM 的信息。",
+            "image": "https://luzhaoyang.com/@pub/images/posts-content/css-ming-ming-gui-fan---bem/1.jpg",
+            "date_modified": "2021-04-16T14:55:35.507Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/css-in-jsshi-e-mo-huan-shi-tian-shi-.html",
             "url": "https://luzhaoyang.com/zh/posts/css-in-jsshi-e-mo-huan-shi-tian-shi-.html",
             "title": "CSS-in-JS是恶魔还是天使？",
-            "date_modified": "2021-04-11T14:01:19.524Z"
+            "date_modified": "2021-04-16T14:55:35.508Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/csszhong-ru-he-jie-jue-wai-bian-ju-ta-xian-wen-ti-.html",
@@ -113,34 +135,7 @@
             "title": "CSS中如何解决外边距塌陷问题？",
             "summary": "这个段落的和下面段落的距离将为20px",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg",
-            "date_modified": "2021-04-11T14:01:19.524Z"
-        },
-        {
-            "id": "https://luzhaoyang.com/zh/posts/css-ming-ming-gui-fan---bem.html",
-            "url": "https://luzhaoyang.com/zh/posts/css-ming-ming-gui-fan---bem.html",
-            "title": "CSS 命名规范 - BEM",
-            "summary": "CSS 不是最漂亮的“语言”，但它已经成功地为 web 样式提供了超过 20 年的支持。还不错吧?\n但是，当您编写更多的 CSS 时，您很快就会看到一个很大的缺点。\n很难维护 CSS。\n写得不好的 CSS 很快就会变成噩梦。\n下面是一些命名规范，可以为您节省一些压力和时间。",
-            "image": "https://luzhaoyang.com/@pub/images/posts-content/css-ming-ming-gui-fan---bem/1.jpg",
-            "date_modified": "2021-04-11T14:01:19.524Z"
-        },
-        {
-            "id": "https://luzhaoyang.com/zh/posts/arrayyuan-xing-fang-fa-yuan-ma-shi-xian-da-jie-mi.html",
-            "url": "https://luzhaoyang.com/zh/posts/arrayyuan-xing-fang-fa-yuan-ma-shi-xian-da-jie-mi.html",
-            "title": "Array原型方法源码实现大解密",
-            "summary": "map方法的主要功能就是把原数组中的每个元素按顺序执行一次 callbackfn 函数，并且把所有返回的结果组合在一起生成一个新的数组，map方法的返回值就是这个新数组。",
-            "date_modified": "2021-04-11T14:01:19.524Z"
-        },
-        {
-            "id": "https://luzhaoyang.com/zh/posts/csskai-fa-ren-yuan-shi-gan-shi-me-de-qi-ye-wei-shi-me-xu-yao-zhe-yang-yi-ge-zhi-wei-.html",
-            "url": "https://luzhaoyang.com/zh/posts/csskai-fa-ren-yuan-shi-gan-shi-me-de-qi-ye-wei-shi-me-xu-yao-zhe-yang-yi-ge-zhi-wei-.html",
-            "title": "CSS开发人员是干什么的？企业为什么需要这样一个职位？",
-            "date_modified": "2021-04-11T14:01:19.525Z"
-        },
-        {
-            "id": "https://luzhaoyang.com/zh/posts/csshun-he-mo-shi.html",
-            "url": "https://luzhaoyang.com/zh/posts/csshun-he-mo-shi.html",
-            "title": "CSS混合模式",
-            "date_modified": "2021-04-11T14:01:19.525Z"
+            "date_modified": "2021-04-16T14:55:35.508Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/cssba-zhong-rang-ren-yan-qian-yi-liang-de-hoverxiao-guo.html",
@@ -148,7 +143,13 @@
             "title": "CSS八种让人眼前一亮的HOVER效果",
             "summary": "HTML",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/css-ba-zhong-rang-ren-yan-qian-yi-liang-dehover-xiao-guo/1.gif",
-            "date_modified": "2021-04-11T14:01:19.525Z"
+            "date_modified": "2021-04-16T14:55:35.512Z"
+        },
+        {
+            "id": "https://luzhaoyang.com/zh/posts/csskai-fa-ren-yuan-shi-gan-shi-me-de-qi-ye-wei-shi-me-xu-yao-zhe-yang-yi-ge-zhi-wei-.html",
+            "url": "https://luzhaoyang.com/zh/posts/csskai-fa-ren-yuan-shi-gan-shi-me-de-qi-ye-wei-shi-me-xu-yao-zhe-yang-yi-ge-zhi-wei-.html",
+            "title": "CSS开发人员是干什么的？企业为什么需要这样一个职位？",
+            "date_modified": "2021-04-16T14:55:35.514Z"
         }
     ]
 }
