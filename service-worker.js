@@ -1418,7 +1418,7 @@ self.__precacheManifest = [
     "revision": "e5993078e223b8b0317bf1e538260a5b"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/styles.d9abd44b.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/styles.10a843cf.css",
     "revision": "bef2296324b75821e1888dad239b86cd"
   },
   {
@@ -2851,7 +2851,7 @@ self.__precacheManifest = [
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/locales/en/manifest.json",
-    "revision": "f319a7fed2c56eabb29f92d0d872d08e"
+    "revision": "a06579c2ee2856ea7969bf091166341d"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/locales/README.md",
@@ -2859,7 +2859,7 @@ self.__precacheManifest = [
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/locales/zh/manifest.json",
-    "revision": "b129ea8899cd4eb3ed67ef7fa401ff75"
+    "revision": "385cb272628a9ab7035ba7b8ac4b3757"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});

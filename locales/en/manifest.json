@@ -68,6 +68,7 @@
       "icons": [
         {
           "src": "../../favicon/android-icon-96x96.png",
+          "sizes": "96x96",
           "type": "image/png"
         }
       ]
@@ -80,6 +81,7 @@
       "icons": [
         {
           "src": "../../favicon/android-icon-96x96.png",
+          "sizes": "96x96",
           "type": "image/png"
         }
       ]
@@ -92,6 +94,7 @@
       "icons": [
         {
           "src": "../../favicon/android-icon-96x96.png",
+          "sizes": "96x96",
           "type": "image/png"
         }
       ]
@@ -104,6 +107,7 @@
       "icons": [
         {
           "src": "../../favicon/android-icon-96x96.png",
+          "sizes": "96x96",
           "type": "image/png"
         }
       ]
@@ -116,6 +120,7 @@
       "icons": [
         {
           "src": "../../favicon/android-icon-96x96.png",
+          "sizes": "96x96",
           "type": "image/png"
         }
       ]
