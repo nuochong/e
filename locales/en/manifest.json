@@ -14,7 +14,7 @@
     "site"
   ],
   "dir": "auto",
-  "prefer_related_applications": "false",
+  "prefer_related_applications": false,
   "scope": "/",
   "icons": [
     {
@@ -63,20 +63,38 @@
     {
       "name": "Categories",
       "short_name": "Categories",
+      "description": "Search for posts by keywords",
       "url": "/categories/",
-      "description": "Search for posts by keywords"
+      "icons": [
+        {
+          "src": "/icons/play-later.svg",
+          "type": "image/png"
+        }
+      ]
     },
     {
       "name": "About Me",
       "short_name": "About Me",
+      "description": "About me",
       "url": "/about/",
-      "description": "About me"
+      "icons": [
+        {
+          "src": "/icons/play-later.svg",
+          "type": "image/png"
+        }
+      ]
     },
     {
       "name": "Contact Me",
       "short_name": "Contact Me",
+      "description": "Happy to be here and looking forward to a chat",
       "url": "/contact/",
-      "description": "Happy to be here and looking forward to a chat"
+      "icons": [
+        {
+          "src": "/icons/play-later.svg",
+          "type": "image/png"
+        }
+      ]
     }
   ]
 }

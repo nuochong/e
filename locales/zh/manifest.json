@@ -14,7 +14,7 @@
     "site"
   ],
   "dir": "auto",
-  "prefer_related_applications": "false",
+  "prefer_related_applications": false,
   "scope": "/",
   "icons": [
     {
@@ -63,20 +63,38 @@
     {
       "name": "分类",
       "short_name": "分类",
+      "description": "通过关键字搜索文章",
       "url": "/categories/",
-      "description": "Search for posts by keywords"
+      "icons": [
+        {
+          "src": "/icons/play-later.svg",
+          "type": "image/png"
+        }
+      ]
     },
     {
       "name": "关于我们",
       "short_name": "关于我们",
+      "description": "关于我们",
       "url": "/about/",
-      "description": "关于我们"
+      "icons": [
+        {
+          "src": "/icons/play-later.svg",
+          "type": "image/png"
+        }
+      ]
     },
     {
       "name": "联系我们",
       "short_name": "联系我们",
+      "description": "很高兴来到这里并期待聊天",
       "url": "/contact/",
-      "description": "很高兴来到这里并期待聊天"
+      "icons": [
+        {
+          "src": "/icons/play-later.svg",
+          "type": "image/png"
+        }
+      ]
     }
   ]
 }
