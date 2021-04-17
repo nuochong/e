@@ -20,37 +20,37 @@
     {
       "src": "../../favicon/android-icon-36x36.png",
       "sizes": "36x36",
-      "type": "image\/png",
+      "type": "image/png",
       "density": "0.75"
     },
     {
       "src": "../../favicon/android-icon-48x48.png",
       "sizes": "48x48",
-      "type": "image\/png",
+      "type": "image/png",
       "density": "1.0"
     },
     {
       "src": "../../favicon/android-icon-72x72.png",
       "sizes": "72x72",
-      "type": "image\/png",
+      "type": "image/png",
       "density": "1.5"
     },
     {
       "src": "../../favicon/android-icon-96x96.png",
       "sizes": "96x96",
-      "type": "image\/png",
+      "type": "image/png",
       "density": "2.0"
     },
     {
       "src": "../../favicon/android-icon-144x144.png",
       "sizes": "144x144",
-      "type": "image\/png",
+      "type": "image/png",
       "density": "3.0"
     },
     {
       "src": "../../favicon/android-chrome-192x192.png",
       "sizes": "192x192",
-      "type": "image\/png",
+      "type": "image/png",
       "density": "4.0"
     },
     {
@@ -61,13 +61,37 @@
   ],
   "shortcuts": [
     {
-      "name": "分类",
-      "short_name": "分类",
+      "name": "文章分类",
+      "short_name": "文章分类",
       "description": "通过关键字搜索文章",
       "url": "/categories/",
       "icons": [
         {
-          "src": "/icons/play-later.svg",
+          "src": "../../favicon/android-icon-96x96.png",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "摄影相册",
+      "short_name": "摄影相册",
+      "description": "摄影相册",
+      "url": "/gallery/",
+      "icons": [
+        {
+          "src": "../../favicon/android-icon-96x96.png",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "旅行简记",
+      "short_name": "旅行简记",
+      "description": "旅行简记",
+      "url": "/travel/",
+      "icons": [
+        {
+          "src": "../../favicon/android-icon-96x96.png",
           "type": "image/png"
         }
       ]
@@ -79,7 +103,7 @@
       "url": "/about/",
       "icons": [
         {
-          "src": "/icons/play-later.svg",
+          "src": "../../favicon/android-icon-96x96.png",
           "type": "image/png"
         }
       ]
@@ -91,7 +115,7 @@
       "url": "/contact/",
       "icons": [
         {
-          "src": "/icons/play-later.svg",
+          "src": "../../favicon/android-icon-96x96.png",
           "type": "image/png"
         }
       ]
