@@ -8,7 +8,7 @@
             "id": "https://luzhaoyang.com/other/finally-have-a-nest.html",
             "url": "https://luzhaoyang.com/other/finally-have-a-nest.html",
             "title": "Finally Have A Nest",
-            "date_modified": "2021-04-17T04:16:49.690Z"
+            "date_modified": "2021-04-17T14:12:16.767Z"
         },
         {
             "id": "https://luzhaoyang.com/posts/my-first-post.html",
@@ -16,34 +16,34 @@
             "title": "My First Post",
             "summary": "Meta description, one of the three TDK tags on the original page, is also a page optimization element that SEO staff need to focus on optimization.",
             "image": "https://luzhaoyang.com/images/posts-base/2018/8/my-first-post.png",
-            "date_modified": "2021-04-17T04:16:49.694Z"
+            "date_modified": "2021-04-17T14:12:16.771Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/other/2020ai-pu-sheng-guo-ji-quan-jing-she-ying-jiang-huo-jiang-zuo-pin-jie-xiao.html",
             "url": "https://luzhaoyang.com/zh/other/2020ai-pu-sheng-guo-ji-quan-jing-she-ying-jiang-huo-jiang-zuo-pin-jie-xiao.html",
             "title": "2020爱普生国际全景摄影奖获奖作品揭晓",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/2020ai-pu-sheng-guo-ji-quan-jing-she-ying-jiang-huo-jiang-zuo-pin-jie-xiao/1.jpg",
-            "date_modified": "2021-04-17T04:16:49.695Z"
+            "date_modified": "2021-04-17T14:12:16.773Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/other/finally-have-a-nest.html",
             "url": "https://luzhaoyang.com/zh/other/finally-have-a-nest.html",
             "title": "终于有个窝了",
-            "date_modified": "2021-04-17T04:16:49.695Z"
+            "date_modified": "2021-04-17T14:12:16.774Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/other/ling-ren-nan-yi-zhi-xin-de-wu-ren-ji-hang-pai-zuo-pin-ying-de-nian-du-zi-ran-ttlshe-ying-da-jiang.html",
             "url": "https://luzhaoyang.com/zh/other/ling-ren-nan-yi-zhi-xin-de-wu-ren-ji-hang-pai-zuo-pin-ying-de-nian-du-zi-ran-ttlshe-ying-da-jiang.html",
             "title": "令人难以置信的无人机航拍作品赢得年度自然TTL摄影大奖",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/ling-ren-nan-yi-zhi-xin-de-wu-ren-ji-hang-pai-zuo-pin-ying-de-nian-du-zi-ranttl-she-ying-da-jiang/1.jpg =840x",
-            "date_modified": "2021-04-17T04:16:49.696Z"
+            "date_modified": "2021-04-17T14:12:16.774Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/other/kuai-le-de-shi-ke.html",
             "url": "https://luzhaoyang.com/zh/other/kuai-le-de-shi-ke.html",
             "title": "快乐的时刻",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg",
-            "date_modified": "2021-04-17T04:16:49.696Z"
+            "date_modified": "2021-04-17T14:12:16.774Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/10fen-zhong-ru-men-webassembly.html",
@@ -51,7 +51,7 @@
             "title": "10分钟入门WebAssembly",
             "summary": "官网定义：WebAssembly/wasm WebAssembly 或者 wasm 是一个可移植、体积小、加载快并且兼容 Web 的全新格式（二进制）。是由主流浏览器厂商组成的 W3C 社区团体 制定的一个新的规范。",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/10fen-zhong-ru-men-webassembly/1.png",
-            "date_modified": "2021-04-17T04:16:49.697Z"
+            "date_modified": "2021-04-17T14:12:16.775Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/12-ge-ti-gao-javascriptbian-ma-xiao-lu-de-npm-ji-qiao.html",
@@ -59,7 +59,7 @@
             "title": "12 个提高JavaScript编码效率的 NPM 技巧",
             "summary": "我们可以运行 npm init命令来初始化包，但是它会询问关于包、作者等信息。还有另一种方法可以使用 npm init -y 命令自动生成我们的 package.json 。",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/12-ge-ti-gaojavascript-bian-ma-xiao-lu-de-npm-ji-qiao/0.webp",
-            "date_modified": "2021-04-17T04:16:49.697Z"
+            "date_modified": "2021-04-17T14:12:16.775Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/12-zhong-shi-yong-vue-de-zui-jia-zuo-fa.html",
@@ -67,67 +67,67 @@
             "title": "12 种使用 Vue 的最佳做法",
             "summary": "\n\n`",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg",
-            "date_modified": "2021-04-17T04:16:49.697Z"
-        },
-        {
-            "id": "https://luzhaoyang.com/zh/posts/14ge-javascript-dai-ma-you-hua-ji-qiao.html",
-            "url": "https://luzhaoyang.com/zh/posts/14ge-javascript-dai-ma-you-hua-ji-qiao.html",
-            "title": "14个 JavaScript 代码优化技巧",
-            "summary": "要不断问自己，某个功能或代码段是否是必要的。",
-            "image": "https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg",
-            "date_modified": "2021-04-17T04:16:49.697Z"
+            "date_modified": "2021-04-17T14:12:16.776Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/15ge-bi-xu-zhi-dao-de-javascriptshu-zu-fang-fa.html",
             "url": "https://luzhaoyang.com/zh/posts/15ge-bi-xu-zhi-dao-de-javascriptshu-zu-fang-fa.html",
             "title": "15个必须知道的JavaScript数组方法",
-            "summary": "myAwesomeArray.some((test) => test === 'd');\n`",
+            "summary": "myAwesomeArray.some((test) => {\n  if (test === 'd') {\n    return test;\n  }\n});\n// We'll use the shorter one\nmyAwesomeArray.some((test) => test === 'd');\n`",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg",
-            "date_modified": "2021-04-17T04:16:49.697Z"
+            "date_modified": "2021-04-17T14:12:16.776Z"
         },
         {
-            "id": "https://luzhaoyang.com/zh/posts/2019nian-shi-fou-ke-yi-pao-qi-cssyu-chu-li-qi-.html",
-            "url": "https://luzhaoyang.com/zh/posts/2019nian-shi-fou-ke-yi-pao-qi-cssyu-chu-li-qi-.html",
-            "title": "2019年，是否可以抛弃CSS预处理器？",
-            "summary": "W3C 制定了一系列标准并督促网络应用开发者和内容提供者遵循这些标准。标准的内容包括使用语言的规范，开发中使用的导则和解释引擎的行为等等。W3C 制定了包括 HTML、DOM、SVG、XML 和 CSS 等的众多影响深远的标准规范。",
-            "image": "https://luzhaoyang.com/@pub/images/posts-content/2019-nian-shi-fou-ke-yi-pao-qicss-yu-chu-li-qi-/640-2.webp",
-            "date_modified": "2021-04-17T04:16:49.698Z"
+            "id": "https://luzhaoyang.com/zh/posts/14ge-javascript-dai-ma-you-hua-ji-qiao.html",
+            "url": "https://luzhaoyang.com/zh/posts/14ge-javascript-dai-ma-you-hua-ji-qiao.html",
+            "title": "14个 JavaScript 代码优化技巧",
+            "summary": "https://www.infoq.cn/article/dcKcJiT8aeEBNZbdotFF",
+            "image": "https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg",
+            "date_modified": "2021-04-17T14:12:16.776Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/2021nian-flutter-yu-react-nativegai-ru-he-xuan-ze-.html",
             "url": "https://luzhaoyang.com/zh/posts/2021nian-flutter-yu-react-nativegai-ru-he-xuan-ze-.html",
             "title": "2021年，Flutter 与 React Native该如何选择？",
-            "summary": "由于你将在两个平台上测试相同的程序，因此质量保证流程做起来会快得多。我们编写了的自动化测试量只有一半，因为在两个平台上可以编写相同的测试，这样就最大程度地减少了质量检查团队的工作量。\n但是，由于你的质量检查专家必须手动检查每台设备上的应用，因此需要进行与原生编程相似级别的手动测试。",
+            "summary": "Flutter for Web 是由谷歌开发的，为开发人员提供了必要的信誉保障。一旦应用程序上线，就可以用单个代码库支持 Android、iOS 和 Web 平台。",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/2021nian-flutter-yu-react-nativegai-ru-he-xuan-ze-/1.jpg",
-            "date_modified": "2021-04-17T04:16:49.698Z"
+            "date_modified": "2021-04-17T14:12:16.776Z"
+        },
+        {
+            "id": "https://luzhaoyang.com/zh/posts/2019nian-shi-fou-ke-yi-pao-qi-cssyu-chu-li-qi-.html",
+            "url": "https://luzhaoyang.com/zh/posts/2019nian-shi-fou-ke-yi-pao-qi-cssyu-chu-li-qi-.html",
+            "title": "2019年，是否可以抛弃CSS预处理器？",
+            "summary": "其中几个主要的阶段分别为：",
+            "image": "https://luzhaoyang.com/@pub/images/posts-content/2019-nian-shi-fou-ke-yi-pao-qicss-yu-chu-li-qi-/640-2.webp",
+            "date_modified": "2021-04-17T14:12:16.776Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/8ge-you-yong-de-javascriptji-qiao.html",
             "url": "https://luzhaoyang.com/zh/posts/8ge-you-yong-de-javascriptji-qiao.html",
             "title": "8个有用的JavaScript技巧",
-            "summary": "const manufacturer = { name: 'Company Name', address: 'The Company Address' }\nconst productManufacturer = { ...product, ...manufacturer };\nconsole.log(productManufacturer);\n// outputs { name: \"Company Name\", packaging: \"Plastic\", price: \"5$\", address: \"The Company Address\" }",
-            "date_modified": "2021-04-17T04:16:49.698Z"
-        },
-        {
-            "id": "https://luzhaoyang.com/zh/posts/css-ming-ming-gui-fan---bem.html",
-            "url": "https://luzhaoyang.com/zh/posts/css-ming-ming-gui-fan---bem.html",
-            "title": "CSS 命名规范 - BEM",
-            "summary": "头部，脚部和手臂都是组件内的元素。它们可以被视为子组件，即整个父组件的子组件。\n使用 BEM 命名规范，通过添加两个下划线,后跟元素名称来派生元素类名称。\nFor example:",
-            "image": "https://luzhaoyang.com/@pub/images/posts-content/css-ming-ming-gui-fan---bem/1.jpg",
-            "date_modified": "2021-04-17T04:16:49.698Z"
+            "summary": "const product = { name: 'Milk', packaging: 'Plastic', price: '5$' }\nconst manufacturer = { name: 'Company Name', address: 'The Company Address' }\nconst productManufacturer = { ...product, ...manufacturer };\nconsole.log(productManufacturer);\n// outputs { name: \"Company Name\", packaging: \"Plastic\", price: \"5$\", address: \"The Company Address\" }",
+            "date_modified": "2021-04-17T14:12:16.777Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/arrayyuan-xing-fang-fa-yuan-ma-shi-xian-da-jie-mi.html",
             "url": "https://luzhaoyang.com/zh/posts/arrayyuan-xing-fang-fa-yuan-ma-shi-xian-da-jie-mi.html",
             "title": "Array原型方法源码实现大解密",
             "summary": "}\n  // Step 8. 返回新数组\n  return A;\n};",
-            "date_modified": "2021-04-17T04:16:49.698Z"
+            "date_modified": "2021-04-17T14:12:16.777Z"
+        },
+        {
+            "id": "https://luzhaoyang.com/zh/posts/css-ming-ming-gui-fan---bem.html",
+            "url": "https://luzhaoyang.com/zh/posts/css-ming-ming-gui-fan---bem.html",
+            "title": "CSS 命名规范 - BEM",
+            "summary": "现在元素被修改了。请记住，元素是整个包含块中的子组件。\n.stick-man 代表 Block，.stick-man_head代表 Element。\n根据上面的例子，双连字符应该这样使用：",
+            "image": "https://luzhaoyang.com/@pub/images/posts-content/css-ming-ming-gui-fan---bem/1.jpg",
+            "date_modified": "2021-04-17T14:12:16.777Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/css-in-jsshi-e-mo-huan-shi-tian-shi-.html",
             "url": "https://luzhaoyang.com/zh/posts/css-in-jsshi-e-mo-huan-shi-tian-shi-.html",
             "title": "CSS-in-JS是恶魔还是天使？",
-            "date_modified": "2021-04-17T04:16:49.698Z"
+            "date_modified": "2021-04-17T14:12:16.777Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/csszhong-ru-he-jie-jue-wai-bian-ju-ta-xian-wen-ti-.html",
@@ -135,7 +135,7 @@
             "title": "CSS中如何解决外边距塌陷问题？",
             "summary": "这个段落的和下面段落的距离将为20px",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg",
-            "date_modified": "2021-04-17T04:16:49.699Z"
+            "date_modified": "2021-04-17T14:12:16.777Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/cssba-zhong-rang-ren-yan-qian-yi-liang-de-hoverxiao-guo.html",
@@ -143,13 +143,13 @@
             "title": "CSS八种让人眼前一亮的HOVER效果",
             "summary": "HTML",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/css-ba-zhong-rang-ren-yan-qian-yi-liang-dehover-xiao-guo/1.gif",
-            "date_modified": "2021-04-17T04:16:49.699Z"
+            "date_modified": "2021-04-17T14:12:16.778Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/csskai-fa-ren-yuan-shi-gan-shi-me-de-qi-ye-wei-shi-me-xu-yao-zhe-yang-yi-ge-zhi-wei-.html",
             "url": "https://luzhaoyang.com/zh/posts/csskai-fa-ren-yuan-shi-gan-shi-me-de-qi-ye-wei-shi-me-xu-yao-zhe-yang-yi-ge-zhi-wei-.html",
             "title": "CSS开发人员是干什么的？企业为什么需要这样一个职位？",
-            "date_modified": "2021-04-17T04:16:49.701Z"
+            "date_modified": "2021-04-17T14:12:16.780Z"
         }
     ]
 }
