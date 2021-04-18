@@ -1338,7 +1338,7 @@ self.__precacheManifest = [
     "revision": "918f122dc25ba7dcd775f6e488caa090"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/24.styles.30fd7d30.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/24.styles.832f42c7.css",
     "revision": "66966f5a94d28a9f757aafc718fb67d6"
   },
   {
@@ -1418,7 +1418,7 @@ self.__precacheManifest = [
     "revision": "e5993078e223b8b0317bf1e538260a5b"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/styles.5a427ace.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/styles.7ef38898.css",
     "revision": "bef2296324b75821e1888dad239b86cd"
   },
   {
@@ -2859,7 +2859,7 @@ self.__precacheManifest = [
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/locales/zh/manifest.json",
-    "revision": "80445a28acb7cb51f8d318923f7a9b45"
+    "revision": "9c8f39b52f23ef64dcaa74e1825b5ca9"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
