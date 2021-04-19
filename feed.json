@@ -8,7 +8,7 @@
             "id": "https://luzhaoyang.com/other/finally-have-a-nest.html",
             "url": "https://luzhaoyang.com/other/finally-have-a-nest.html",
             "title": "Finally Have A Nest",
-            "date_modified": "2021-04-18T07:59:11.841Z"
+            "date_modified": "2021-04-19T04:54:48.484Z"
         },
         {
             "id": "https://luzhaoyang.com/posts/my-first-post.html",
@@ -16,74 +16,82 @@
             "title": "My First Post",
             "summary": "Meta description, one of the three TDK tags on the original page, is also a page optimization element that SEO staff need to focus on optimization.",
             "image": "https://luzhaoyang.com/images/posts-base/2018/8/my-first-post.png",
-            "date_modified": "2021-04-18T07:59:11.850Z"
+            "date_modified": "2021-04-19T04:54:48.488Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/other/2020ai-pu-sheng-guo-ji-quan-jing-she-ying-jiang-huo-jiang-zuo-pin-jie-xiao.html",
             "url": "https://luzhaoyang.com/zh/other/2020ai-pu-sheng-guo-ji-quan-jing-she-ying-jiang-huo-jiang-zuo-pin-jie-xiao.html",
             "title": "2020爱普生国际全景摄影奖获奖作品揭晓",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/2020ai-pu-sheng-guo-ji-quan-jing-she-ying-jiang-huo-jiang-zuo-pin-jie-xiao/1.jpg",
-            "date_modified": "2021-04-18T07:59:11.856Z"
-        },
-        {
-            "id": "https://luzhaoyang.com/zh/other/finally-have-a-nest.html",
-            "url": "https://luzhaoyang.com/zh/other/finally-have-a-nest.html",
-            "title": "终于有个窝了",
-            "date_modified": "2021-04-18T07:59:11.856Z"
+            "date_modified": "2021-04-19T04:54:48.491Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/other/ling-ren-nan-yi-zhi-xin-de-wu-ren-ji-hang-pai-zuo-pin-ying-de-nian-du-zi-ran-ttlshe-ying-da-jiang.html",
             "url": "https://luzhaoyang.com/zh/other/ling-ren-nan-yi-zhi-xin-de-wu-ren-ji-hang-pai-zuo-pin-ying-de-nian-du-zi-ran-ttlshe-ying-da-jiang.html",
             "title": "令人难以置信的无人机航拍作品赢得年度自然TTL摄影大奖",
+            "summary": "新的摄影比赛由 Nature TTL 举办，Nature TTL 是野生动物摄影师 Will Nichols 创建的一种新颖资源，旨在提供教育性教程和功能，以协助业余和专业自然摄影师。主办方还在获奖图像的旁边附上摄影师的访谈内容，以了解 Ledoux 等摄影师的创作过程，并为业余无人机摄影师提供了有关如何使用该技术处理野生生物的建议。",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/ling-ren-nan-yi-zhi-xin-de-wu-ren-ji-hang-pai-zuo-pin-ying-de-nian-du-zi-ranttl-she-ying-da-jiang/1.jpg =840x",
-            "date_modified": "2021-04-18T07:59:11.857Z"
+            "date_modified": "2021-04-19T04:54:48.491Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/other/kuai-le-de-shi-ke.html",
             "url": "https://luzhaoyang.com/zh/other/kuai-le-de-shi-ke.html",
             "title": "快乐的时刻",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg",
-            "date_modified": "2021-04-18T07:59:11.857Z"
+            "date_modified": "2021-04-19T04:54:48.491Z"
+        },
+        {
+            "id": "https://luzhaoyang.com/zh/other/finally-have-a-nest.html",
+            "url": "https://luzhaoyang.com/zh/other/finally-have-a-nest.html",
+            "title": "终于有个窝了",
+            "date_modified": "2021-04-19T04:54:48.491Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/10fen-zhong-ru-men-webassembly.html",
             "url": "https://luzhaoyang.com/zh/posts/10fen-zhong-ru-men-webassembly.html",
             "title": "10分钟入门WebAssembly",
-            "summary": "官网定义：WebAssembly/wasm WebAssembly 或者 wasm 是一个可移植、体积小、加载快并且兼容 Web 的全新格式（二进制）。是由主流浏览器厂商组成的 W3C 社区团体 制定的一个新的规范。",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/10fen-zhong-ru-men-webassembly/1.png",
-            "date_modified": "2021-04-18T07:59:11.857Z"
+            "date_modified": "2021-04-19T04:54:48.491Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/12-ge-ti-gao-javascriptbian-ma-xiao-lu-de-npm-ji-qiao.html",
             "url": "https://luzhaoyang.com/zh/posts/12-ge-ti-gao-javascriptbian-ma-xiao-lu-de-npm-ji-qiao.html",
             "title": "12 个提高JavaScript编码效率的 NPM 技巧",
-            "summary": "我们可以运行 npm init命令来初始化包，但是它会询问关于包、作者等信息。还有另一种方法可以使用 npm init -y 命令自动生成我们的 package.json 。",
+            "summary": "NPM，Node Package Manager，是 JavaScript 编程语言的软件包管理器。任何使用 Javascript 的开发人员都使用过这个出色的 CLI 工具来为他们的项目安装依赖项。",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/12-ge-ti-gaojavascript-bian-ma-xiao-lu-de-npm-ji-qiao/0.webp",
-            "date_modified": "2021-04-18T07:59:11.858Z"
+            "date_modified": "2021-04-19T04:54:48.492Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/12-zhong-shi-yong-vue-de-zui-jia-zuo-fa.html",
             "url": "https://luzhaoyang.com/zh/posts/12-zhong-shi-yong-vue-de-zui-jia-zuo-fa.html",
             "title": "12 种使用 Vue 的最佳做法",
-            "summary": "\n\n`",
+            "summary": "\n",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg",
-            "date_modified": "2021-04-18T07:59:11.858Z"
-        },
-        {
-            "id": "https://luzhaoyang.com/zh/posts/14ge-javascript-dai-ma-you-hua-ji-qiao.html",
-            "url": "https://luzhaoyang.com/zh/posts/14ge-javascript-dai-ma-you-hua-ji-qiao.html",
-            "title": "14个 JavaScript 代码优化技巧",
-            "summary": "要不断问自己，某个功能或代码段是否是必要的。",
-            "image": "https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg",
-            "date_modified": "2021-04-18T07:59:11.858Z"
+            "date_modified": "2021-04-19T04:54:48.492Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/15ge-bi-xu-zhi-dao-de-javascriptshu-zu-fang-fa.html",
             "url": "https://luzhaoyang.com/zh/posts/15ge-bi-xu-zhi-dao-de-javascriptshu-zu-fang-fa.html",
             "title": "15个必须知道的JavaScript数组方法",
-            "summary": "myAwesomeArray.some((test) => test === 'd');\n`",
+            "summary": "::: warning\n大多数情况下，我们将简化作为参数传递的函数。\n:::",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg",
-            "date_modified": "2021-04-18T07:59:11.858Z"
+            "date_modified": "2021-04-19T04:54:48.492Z"
+        },
+        {
+            "id": "https://luzhaoyang.com/zh/posts/14ge-javascript-dai-ma-you-hua-ji-qiao.html",
+            "url": "https://luzhaoyang.com/zh/posts/14ge-javascript-dai-ma-you-hua-ji-qiao.html",
+            "title": "14个 JavaScript 代码优化技巧",
+            "summary": "有时，你可能打包了很多根本用不到的功能。最好只在开发环境中保留这些额外的代码，而不要将其推送到生产环境中，以免给客户端的浏览器增加负担。",
+            "image": "https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg",
+            "date_modified": "2021-04-19T04:54:48.492Z"
+        },
+        {
+            "id": "https://luzhaoyang.com/zh/posts/2021nian-flutter-yu-react-nativegai-ru-he-xuan-ze-.html",
+            "url": "https://luzhaoyang.com/zh/posts/2021nian-flutter-yu-react-nativegai-ru-he-xuan-ze-.html",
+            "title": "2021年，Flutter 与 React Native该如何选择？",
+            "summary": "开发人员可以实时对代码库做出改进，并立刻看到这些改进反映在请求中。这就是所谓的“热重载”特性，更改通常只需几毫秒就能显示出来。\n这一功能让团队可以快速添加功能、修复错误和测试新想法。此外，当团队需要通过协作来加快开发速度时，热重载用起来非常顺手。",
+            "image": "https://luzhaoyang.com/@pub/images/posts-content/2021nian-flutter-yu-react-nativegai-ru-he-xuan-ze-/1.jpg",
+            "date_modified": "2021-04-19T04:54:48.492Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/2019nian-shi-fou-ke-yi-pao-qi-cssyu-chu-li-qi-.html",
@@ -91,65 +99,57 @@
             "title": "2019年，是否可以抛弃CSS预处理器？",
             "summary": "W3C 制定了一系列标准并督促网络应用开发者和内容提供者遵循这些标准。标准的内容包括使用语言的规范，开发中使用的导则和解释引擎的行为等等。W3C 制定了包括 HTML、DOM、SVG、XML 和 CSS 等的众多影响深远的标准规范。",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/2019-nian-shi-fou-ke-yi-pao-qicss-yu-chu-li-qi-/640-2.webp",
-            "date_modified": "2021-04-18T07:59:11.858Z"
-        },
-        {
-            "id": "https://luzhaoyang.com/zh/posts/2021nian-flutter-yu-react-nativegai-ru-he-xuan-ze-.html",
-            "url": "https://luzhaoyang.com/zh/posts/2021nian-flutter-yu-react-nativegai-ru-he-xuan-ze-.html",
-            "title": "2021年，Flutter 与 React Native该如何选择？",
-            "summary": "由于你将在两个平台上测试相同的程序，因此质量保证流程做起来会快得多。我们编写了的自动化测试量只有一半，因为在两个平台上可以编写相同的测试，这样就最大程度地减少了质量检查团队的工作量。\n但是，由于你的质量检查专家必须手动检查每台设备上的应用，因此需要进行与原生编程相似级别的手动测试。",
-            "image": "https://luzhaoyang.com/@pub/images/posts-content/2021nian-flutter-yu-react-nativegai-ru-he-xuan-ze-/1.jpg",
-            "date_modified": "2021-04-18T07:59:11.859Z"
+            "date_modified": "2021-04-19T04:54:48.492Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/8ge-you-yong-de-javascriptji-qiao.html",
             "url": "https://luzhaoyang.com/zh/posts/8ge-you-yong-de-javascriptji-qiao.html",
             "title": "8个有用的JavaScript技巧",
-            "summary": "const manufacturer = { name: 'Company Name', address: 'The Company Address' }\nconst productManufacturer = { ...product, ...manufacturer };\nconsole.log(productManufacturer);\n// outputs { name: \"Company Name\", packaging: \"Plastic\", price: \"5$\", address: \"The Company Address\" }",
-            "date_modified": "2021-04-18T07:59:11.861Z"
-        },
-        {
-            "id": "https://luzhaoyang.com/zh/posts/arrayyuan-xing-fang-fa-yuan-ma-shi-xian-da-jie-mi.html",
-            "url": "https://luzhaoyang.com/zh/posts/arrayyuan-xing-fang-fa-yuan-ma-shi-xian-da-jie-mi.html",
-            "title": "Array原型方法源码实现大解密",
-            "summary": "}\n  // Step 8. 返回新数组\n  return A;\n};",
-            "date_modified": "2021-04-18T07:59:11.863Z"
-        },
-        {
-            "id": "https://luzhaoyang.com/zh/posts/css-ming-ming-gui-fan---bem.html",
-            "url": "https://luzhaoyang.com/zh/posts/css-ming-ming-gui-fan---bem.html",
-            "title": "CSS 命名规范 - BEM",
-            "summary": "现在元素被修改了。请记住，元素是整个包含块中的子组件。\n.stick-man 代表 Block，.stick-man_head代表 Element。\n根据上面的例子，双连字符应该这样使用：",
-            "image": "https://luzhaoyang.com/@pub/images/posts-content/css-ming-ming-gui-fan---bem/1.jpg",
-            "date_modified": "2021-04-18T07:59:11.863Z"
+            "summary": "https://devinduct.com/blogpost/17/handling-array-duplicates-can-be-tricky",
+            "date_modified": "2021-04-19T04:54:48.492Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/css-in-jsshi-e-mo-huan-shi-tian-shi-.html",
             "url": "https://luzhaoyang.com/zh/posts/css-in-jsshi-e-mo-huan-shi-tian-shi-.html",
             "title": "CSS-in-JS是恶魔还是天使？",
-            "date_modified": "2021-04-18T07:59:11.863Z"
+            "date_modified": "2021-04-19T04:54:48.493Z"
+        },
+        {
+            "id": "https://luzhaoyang.com/zh/posts/css-ming-ming-gui-fan---bem.html",
+            "url": "https://luzhaoyang.com/zh/posts/css-ming-ming-gui-fan---bem.html",
+            "title": "CSS 命名规范 - BEM",
+            "image": "https://luzhaoyang.com/@pub/images/posts-content/css-ming-ming-gui-fan---bem/1.jpg",
+            "date_modified": "2021-04-19T04:54:48.493Z"
+        },
+        {
+            "id": "https://luzhaoyang.com/zh/posts/arrayyuan-xing-fang-fa-yuan-ma-shi-xian-da-jie-mi.html",
+            "url": "https://luzhaoyang.com/zh/posts/arrayyuan-xing-fang-fa-yuan-ma-shi-xian-da-jie-mi.html",
+            "title": "Array原型方法源码实现大解密",
+            "summary": "几个常用数组方法的使用方式已经在【进阶 6-1 期】 中介绍过了，今天这篇文章主要看看 ECMA-262 规范中是如何定义这些方法的，并且在看完规范后我们用 JS 模拟实现下，透过源码探索一些底层的知识，希望本文对你有所帮助。",
+            "date_modified": "2021-04-19T04:54:48.493Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/csszhong-ru-he-jie-jue-wai-bian-ju-ta-xian-wen-ti-.html",
             "url": "https://luzhaoyang.com/zh/posts/csszhong-ru-he-jie-jue-wai-bian-ju-ta-xian-wen-ti-.html",
             "title": "CSS中如何解决外边距塌陷问题？",
-            "summary": "这个段落的和下面段落的距离将为20px",
+            "summary": "width: 150px;\n    height: 100px;\n    margin-bottom: 20px;\n    background-color: rgb(201, 239, 98);\n  }\n  .box2 {\n    width: 100px;\n    height: 100px;\n    background-color: rebeccapurple;\n    margin-top: 10px;\n  }\n\n`",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg",
-            "date_modified": "2021-04-18T07:59:11.863Z"
+            "date_modified": "2021-04-19T04:54:48.494Z"
         },
         {
-            "id": "https://luzhaoyang.com/zh/posts/cssba-zhong-rang-ren-yan-qian-yi-liang-de-hoverxiao-guo.html",
-            "url": "https://luzhaoyang.com/zh/posts/cssba-zhong-rang-ren-yan-qian-yi-liang-de-hoverxiao-guo.html",
-            "title": "CSS八种让人眼前一亮的HOVER效果",
-            "summary": "HTML",
-            "image": "https://luzhaoyang.com/@pub/images/posts-content/css-ba-zhong-rang-ren-yan-qian-yi-liang-dehover-xiao-guo/1.gif",
-            "date_modified": "2021-04-18T07:59:11.864Z"
+            "id": "https://luzhaoyang.com/zh/posts/csshun-he-mo-shi.html",
+            "url": "https://luzhaoyang.com/zh/posts/csshun-he-mo-shi.html",
+            "title": "CSS混合模式",
+            "summary": "| :------------- | :----------- | :----------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |\n| normal         | normal       | 正常模式     | 混合色的像素会透过所用的颜色显示出来                                                                                                                                                         |\n| multiply       | multiply     | 正片叠底模式 | 在“正片叠底”模式中，查看每个通道中的颜色信息，并将“基色”与“混合色”复合。                                                                                                                     |\n| screen         | screen       | 滤色模式     | “滤色”模式与“正片叠底”模式正好相反，它将图像的“基色”颜色与“混合色”颜色结合起来产生比两种颜色都浅的第三种颜色                                                                                 |\n| overlay        | overlay      | 叠加模式     | “叠加”模式把图像的“基色”颜色与“混合色”颜色相混合产生一种中间色。                                                                                                                             |\n| darken         | darken       | 变暗模式     | 在“变暗”模式中，查看每个通道中的颜色信息，并选择“基色”或“混合色”中较暗的颜色作为“结果色”。                                                                                                   |\n| lighten        | lighten      | 变亮模式     | 在“变亮”模式中，查看每个通道中的颜色信息，并选择“基色”或“混合色”中较亮的颜色作为“结果色”。                                                                                                   |\n| color-dodge    | color-dodge  | 颜色减淡模式 | 在“颜色减淡”模式中，查看每个通道中的颜色信息，并通过减小对比度使基色变亮以反映混合色。与黑色混合则不发生变化。                                                                               |\n| color-burn     | color-burn   | 颜色加深模式 | 在“颜色加深”模式中，查看每个通道中的颜色信息，并通过增加对比度使基色变暗以反映混合色，如果与白色混合的话将不会产生变化。                                                                     |\n| hard-light     | hard-light   | 强光模式     | “强光”模式将产生一种强光照射的效果。如果“混合色”颜色“基色”颜色的像素更亮一些，那么“结果色”颜色将更亮；如果“混合色”颜色比“基色”颜色的像素更暗一些，那么“结果色”将更暗。                       |\n| soft-light     | soft-light   | 柔光模式     | 柔光”模式会产生一种柔光照射的效果。如果“混合色”颜色比“基色颜色的像素更亮一些，那么“结果色”将更亮；如果“混合色”颜色比“基色”颜色的像素更暗一些，那么“结果色”颜色将更暗，使图像的亮度反差增大。 |\n| difference     | difference   | 差值模式     | 在“差值”模式中，查看每个通道中的颜色信息，“差值”模式是将从图像中“基色”颜色的亮度值减去“混合色”颜色的亮度值，如果结果为负，则取正值，产生反相效果。                                           |\n| exclusion      | exclusion    | 排除模式     | “排除”模式与“差值”模式相似，但是具有高对比度和低饱和度的特点。比用“差值”模式获得的颜色要柔和、更明亮一些。                                                                                   |\n| hue            | hue          | 色相模式     | “色相”模式只用“混合色”颜色的色相值进行着色，而使饱和度和亮度值保持不变。                                                                                                                     |\n| saturation     | saturation   | 饱和度模式   | “饱和度”模式的作用方式与“色相”模式相似，它只用“混合色”颜色的饱和度值进行着色，而使色相值和亮度值保持不变。                                                                                   |\n| color          | color        | 颜色模式     | “颜色”模式能够使用“混合色”颜色的饱和度值和色相值同时进行着色，而使“基色”颜色的亮度值保持不变。“颜色”模式模式可以看成是“饱合度”模式和“色相”模式的综合效果。                                   |\n| luminosity     | luminosity   | 亮度模式     | “亮度”模式能够使用“混合色”颜色的亮度值进行着色，而保持“基色”颜色的饱和度和色相数值不变。其实就是用“基色”中的“色相”和“饱和度”以及“混合色”的亮度创建“结果色”。                                 |",
+            "date_modified": "2021-04-19T04:55:04.964Z"
         },
         {
-            "id": "https://luzhaoyang.com/zh/posts/csskai-fa-ren-yuan-shi-gan-shi-me-de-qi-ye-wei-shi-me-xu-yao-zhe-yang-yi-ge-zhi-wei-.html",
-            "url": "https://luzhaoyang.com/zh/posts/csskai-fa-ren-yuan-shi-gan-shi-me-de-qi-ye-wei-shi-me-xu-yao-zhe-yang-yi-ge-zhi-wei-.html",
-            "title": "CSS开发人员是干什么的？企业为什么需要这样一个职位？",
-            "date_modified": "2021-04-18T07:59:11.872Z"
+            "id": "https://luzhaoyang.com/zh/posts/cssdi-si-ji-xuan-ze-qi.html",
+            "url": "https://luzhaoyang.com/zh/posts/cssdi-si-ji-xuan-ze-qi.html",
+            "title": "CSS第四级选择器",
+            "summary": "例如：",
+            "image": "https://luzhaoyang.com/@pub/images/posts-content/css-di-si-ji-xuan-ze-qi/640-4.webp",
+            "date_modified": "2021-04-19T04:55:04.965Z"
         }
     ]
 }

@@ -128,12 +128,7 @@
   ],
   "screenshots" : [
     {
-      "src": "../../screenshots/screenshot1.webp",
-      "sizes": "720x1280",
-      "type": "image/webp"
-    },
-    {
-      "src": "../../screenshots/screenshot2.webp",
+      "src": "../../screenshots/screenshot-zh.webp",
       "sizes": "720x1280",
       "type": "image/webp"
     }

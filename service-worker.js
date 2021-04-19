@@ -1338,11 +1338,11 @@ self.__precacheManifest = [
     "revision": "918f122dc25ba7dcd775f6e488caa090"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/24.styles.832f42c7.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/24.styles.30fd7d30.css",
     "revision": "66966f5a94d28a9f757aafc718fb67d6"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/25.styles.71357e11.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/25.styles.8e31f782.css",
     "revision": "bcf9eca32341b75323122b762fa9abb3"
   },
   {
@@ -1418,7 +1418,7 @@ self.__precacheManifest = [
     "revision": "e5993078e223b8b0317bf1e538260a5b"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/styles.7ef38898.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/styles.ca2f1a08.css",
     "revision": "bef2296324b75821e1888dad239b86cd"
   },
   {
@@ -2851,7 +2851,7 @@ self.__precacheManifest = [
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/locales/en/manifest.json",
-    "revision": "e3035f3866ffebb178511197bd0161bc"
+    "revision": "a3efd364b1344884c16ce16f99a85c97"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/locales/README.md",
@@ -2859,7 +2859,7 @@ self.__precacheManifest = [
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/locales/zh/manifest.json",
-    "revision": "9c8f39b52f23ef64dcaa74e1825b5ca9"
+    "revision": "994d9b7a37bc976416ff87e9e6f198a8"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
