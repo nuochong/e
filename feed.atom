@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://luzhaoyang.com</id>
     <title></title>
-    <updated>2021-04-26T00:56:47.972Z</updated>
+    <updated>2021-04-27T00:48:51.794Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://luzhaoyang.com"/>
     <link rel="self" href="https://luzhaoyang.com/feed.atom"/>
@@ -11,69 +11,47 @@
         <id>https://luzhaoyang.com/other/finally-have-a-nest.html</id>
         <link href="https://luzhaoyang.com/other/finally-have-a-nest.html">
         </link>
-        <updated>2021-04-26T00:56:47.951Z</updated>
+        <updated>2021-04-27T00:48:51.758Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[My First Post]]></title>
         <id>https://luzhaoyang.com/posts/my-first-post.html</id>
         <link href="https://luzhaoyang.com/posts/my-first-post.html">
         </link>
-        <updated>2021-04-26T00:56:47.954Z</updated>
+        <updated>2021-04-27T00:48:51.762Z</updated>
         <summary type="html"><![CDATA[Meta description, one of the three TDK tags on the original page, is also a page optimization element that SEO staff need to focus on optimization.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[终于有个窝了]]></title>
-        <id>https://luzhaoyang.com/zh/other/finally-have-a-nest.html</id>
-        <link href="https://luzhaoyang.com/zh/other/finally-have-a-nest.html">
-        </link>
-        <updated>2021-04-26T00:56:47.954Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[令人难以置信的无人机航拍作品赢得年度自然TTL摄影大奖]]></title>
-        <id>https://luzhaoyang.com/zh/other/ling-ren-nan-yi-zhi-xin-de-wu-ren-ji-hang-pai-zuo-pin-ying-de-nian-du-zi-ran-ttlshe-ying-da-jiang.html</id>
-        <link href="https://luzhaoyang.com/zh/other/ling-ren-nan-yi-zhi-xin-de-wu-ren-ji-hang-pai-zuo-pin-ying-de-nian-du-zi-ran-ttlshe-ying-da-jiang.html">
-        </link>
-        <updated>2021-04-26T00:56:47.956Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[2020爱普生国际全景摄影奖获奖作品揭晓]]></title>
         <id>https://luzhaoyang.com/zh/other/2020ai-pu-sheng-guo-ji-quan-jing-she-ying-jiang-huo-jiang-zuo-pin-jie-xiao.html</id>
         <link href="https://luzhaoyang.com/zh/other/2020ai-pu-sheng-guo-ji-quan-jing-she-ying-jiang-huo-jiang-zuo-pin-jie-xiao.html">
         </link>
-        <updated>2021-04-26T00:56:47.956Z</updated>
-        <summary type="html"><![CDATA[一年一度的爱普生国际全景摄影奖(The EPSON International Pano Awards)专注于全景摄影艺术，是世界上最引人注目的摄影比赛之一。今年的一系列精彩作品提供了极具创意的各种图像，从崇高的广袤风景到色彩斑斓的建筑构图等。]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[快乐的时刻]]></title>
-        <id>https://luzhaoyang.com/zh/other/kuai-le-de-shi-ke.html</id>
-        <link href="https://luzhaoyang.com/zh/other/kuai-le-de-shi-ke.html">
-        </link>
-        <updated>2021-04-26T00:56:47.956Z</updated>
+        <updated>2021-04-27T00:48:51.764Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[10分钟入门WebAssembly]]></title>
         <id>https://luzhaoyang.com/zh/posts/10fen-zhong-ru-men-webassembly.html</id>
         <link href="https://luzhaoyang.com/zh/posts/10fen-zhong-ru-men-webassembly.html">
         </link>
-        <updated>2021-04-26T00:56:47.956Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12 种使用 Vue 的最佳做法]]></title>
-        <id>https://luzhaoyang.com/zh/posts/12-zhong-shi-yong-vue-de-zui-jia-zuo-fa.html</id>
-        <link href="https://luzhaoyang.com/zh/posts/12-zhong-shi-yong-vue-de-zui-jia-zuo-fa.html">
-        </link>
-        <updated>2021-04-26T00:56:47.956Z</updated>
-        <summary type="html"><![CDATA[在需要操纵数据时，将key属性与v-for指令一起使用可以让程序保持恒定且可预测。
-这是很有必要的，这样 Vue 就可以跟踪组件状态，并对不同的元素有一个常量引用。在使用动画或 Vue 转换时，key 非常有用。
-如果没有key ，Vue 只会尝试使 DOM 尽可能高效。 这可能意味着v-for中的元素可能会出现乱序，或者它们的行为难以预测。 如果我们对每个元素都有唯一的键引用，那么我们可以更好地预测Vue应用程序将如何精确地处理DOM操作。]]></summary>
+        <updated>2021-04-27T00:48:51.764Z</updated>
+        <summary type="html"><![CDATA[官网定义：WebAssembly/wasm WebAssembly 或者 wasm 是一个可移植、体积小、加载快并且兼容 Web 的全新格式（二进制）。是由主流浏览器厂商组成的 W3C 社区团体 制定的一个新的规范。]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[12 个提高JavaScript编码效率的 NPM 技巧]]></title>
         <id>https://luzhaoyang.com/zh/posts/12-ge-ti-gao-javascriptbian-ma-xiao-lu-de-npm-ji-qiao.html</id>
         <link href="https://luzhaoyang.com/zh/posts/12-ge-ti-gao-javascriptbian-ma-xiao-lu-de-npm-ji-qiao.html">
         </link>
-        <updated>2021-04-26T00:56:47.956Z</updated>
-        <summary type="html"><![CDATA[npm init -y
+        <updated>2021-04-27T00:48:51.765Z</updated>
+        <summary type="html"><![CDATA[我们可以运行 npm init命令来初始化包，但是它会询问关于包、作者等信息。还有另一种方法可以使用 npm init -y 命令自动生成我们的 package.json 。]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12 种使用 Vue 的最佳做法]]></title>
+        <id>https://luzhaoyang.com/zh/posts/12-zhong-shi-yong-vue-de-zui-jia-zuo-fa.html</id>
+        <link href="https://luzhaoyang.com/zh/posts/12-zhong-shi-yong-vue-de-zui-jia-zuo-fa.html">
+        </link>
+        <updated>2021-04-27T00:48:51.765Z</updated>
+        <summary type="html"><![CDATA[
+
 `]]></summary>
     </entry>
     <entry>
@@ -81,22 +59,16 @@
         <id>https://luzhaoyang.com/zh/posts/14ge-javascript-dai-ma-you-hua-ji-qiao.html</id>
         <link href="https://luzhaoyang.com/zh/posts/14ge-javascript-dai-ma-you-hua-ji-qiao.html">
         </link>
-        <updated>2021-04-26T00:56:47.959Z</updated>
-        <summary type="html"><![CDATA[你的应用程序包含的代码越多，就需要将更多的数据传输到客户端。浏览器也需要更多时间来分析和解释代码。]]></summary>
+        <updated>2021-04-27T00:48:51.765Z</updated>
+        <summary type="html"><![CDATA[要不断问自己，某个功能或代码段是否是必要的。]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[15个必须知道的JavaScript数组方法]]></title>
         <id>https://luzhaoyang.com/zh/posts/15ge-bi-xu-zhi-dao-de-javascriptshu-zu-fang-fa.html</id>
         <link href="https://luzhaoyang.com/zh/posts/15ge-bi-xu-zhi-dao-de-javascriptshu-zu-fang-fa.html">
         </link>
-        <updated>2021-04-26T00:56:47.959Z</updated>
-        <summary type="html"><![CDATA[myAwesomeArray.some((test) => {
-  if (test === 'd') {
-    return test;
-  }
-});
-// We'll use the shorter one
-myAwesomeArray.some((test) => test === 'd');
+        <updated>2021-04-27T00:48:51.765Z</updated>
+        <summary type="html"><![CDATA[myAwesomeArray.some((test) => test === 'd');
 `]]></summary>
     </entry>
     <entry>
@@ -104,7 +76,7 @@ myAwesomeArray.some((test) => test === 'd');
         <id>https://luzhaoyang.com/zh/posts/2021nian-flutter-yu-react-nativegai-ru-he-xuan-ze-.html</id>
         <link href="https://luzhaoyang.com/zh/posts/2021nian-flutter-yu-react-nativegai-ru-he-xuan-ze-.html">
         </link>
-        <updated>2021-04-26T00:56:47.959Z</updated>
+        <updated>2021-04-27T00:48:51.766Z</updated>
         <summary type="html"><![CDATA[Flutter 允许开发人员为两个应用只编写一个代码库——一个针对 iOS，另一个针对 Android。因为 Flutter 具有自己的模板和布局，它的操作系统无关的平台意味着开发人员可以在两个不同的系统上使用相同的功能，同时保持每个应用都有自己独特的样式、可用性和功能。
 Flutter for Web 是由谷歌开发的，为开发人员提供了必要的信誉保障。一旦应用程序上线，就可以用单个代码库支持 Android、iOS 和 Web 平台。]]></summary>
     </entry>
@@ -113,7 +85,7 @@ Flutter for Web 是由谷歌开发的，为开发人员提供了必要的信誉�
         <id>https://luzhaoyang.com/zh/posts/2019nian-shi-fou-ke-yi-pao-qi-cssyu-chu-li-qi-.html</id>
         <link href="https://luzhaoyang.com/zh/posts/2019nian-shi-fou-ke-yi-pao-qi-cssyu-chu-li-qi-.html">
         </link>
-        <updated>2021-04-26T00:56:47.959Z</updated>
+        <updated>2021-04-27T00:48:51.766Z</updated>
         <summary type="html"><![CDATA[其中几个主要的阶段分别为：]]></summary>
     </entry>
     <entry>
@@ -121,7 +93,7 @@ Flutter for Web 是由谷歌开发的，为开发人员提供了必要的信誉�
         <id>https://luzhaoyang.com/zh/posts/8ge-you-yong-de-javascriptji-qiao.html</id>
         <link href="https://luzhaoyang.com/zh/posts/8ge-you-yong-de-javascriptji-qiao.html">
         </link>
-        <updated>2021-04-26T00:56:47.960Z</updated>
+        <updated>2021-04-27T00:48:51.767Z</updated>
         <summary type="html"><![CDATA[const product = { name: 'Milk', packaging: 'Plastic', price: '5$' }
 const manufacturer = { name: 'Company Name', address: 'The Company Address' }
 const productManufacturer = { ...product, ...manufacturer };
@@ -129,55 +101,75 @@ console.log(productManufacturer);
 // outputs { name: "Company Name", packaging: "Plastic", price: "5$", address: "The Company Address" }]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS 命名规范 - BEM]]></title>
-        <id>https://luzhaoyang.com/zh/posts/css-ming-ming-gui-fan---bem.html</id>
-        <link href="https://luzhaoyang.com/zh/posts/css-ming-ming-gui-fan---bem.html">
-        </link>
-        <updated>2021-04-26T00:56:47.960Z</updated>
-        <summary type="html"><![CDATA[头部，脚部和手臂都是组件内的元素。它们可以被视为子组件，即整个父组件的子组件。
-使用 BEM 命名规范，通过添加两个下划线,后跟元素名称来派生元素类名称。
-For example:]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Array原型方法源码实现大解密]]></title>
         <id>https://luzhaoyang.com/zh/posts/arrayyuan-xing-fang-fa-yuan-ma-shi-xian-da-jie-mi.html</id>
         <link href="https://luzhaoyang.com/zh/posts/arrayyuan-xing-fang-fa-yuan-ma-shi-xian-da-jie-mi.html">
         </link>
-        <updated>2021-04-26T00:56:47.960Z</updated>
+        <updated>2021-04-27T00:48:51.768Z</updated>
         <summary type="html"><![CDATA[}
   // Step 8. 返回新数组
   return A;
 };]]></summary>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CSS 命名规范 - BEM]]></title>
+        <id>https://luzhaoyang.com/zh/posts/css-ming-ming-gui-fan---bem.html</id>
+        <link href="https://luzhaoyang.com/zh/posts/css-ming-ming-gui-fan---bem.html">
+        </link>
+        <updated>2021-04-27T00:48:51.768Z</updated>
+        <summary type="html"><![CDATA[现在元素被修改了。请记住，元素是整个包含块中的子组件。
+.stick-man 代表 Block，.stick-man_head代表 Element。
+根据上面的例子，双连字符应该这样使用：]]></summary>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CSS-in-JS是恶魔还是天使？]]></title>
         <id>https://luzhaoyang.com/zh/posts/css-in-jsshi-e-mo-huan-shi-tian-shi-.html</id>
         <link href="https://luzhaoyang.com/zh/posts/css-in-jsshi-e-mo-huan-shi-tian-shi-.html">
         </link>
-        <updated>2021-04-26T00:56:47.960Z</updated>
+        <updated>2021-04-27T00:48:51.768Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[CSS中如何解决外边距塌陷问题？]]></title>
         <id>https://luzhaoyang.com/zh/posts/csszhong-ru-he-jie-jue-wai-bian-ju-ta-xian-wen-ti-.html</id>
         <link href="https://luzhaoyang.com/zh/posts/csszhong-ru-he-jie-jue-wai-bian-ju-ta-xian-wen-ti-.html">
         </link>
-        <updated>2021-04-26T00:56:47.960Z</updated>
+        <updated>2021-04-27T00:48:51.768Z</updated>
         <summary type="html"><![CDATA[这个段落的和下面段落的距离将为20px]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS混合模式]]></title>
-        <id>https://luzhaoyang.com/zh/posts/csshun-he-mo-shi.html</id>
-        <link href="https://luzhaoyang.com/zh/posts/csshun-he-mo-shi.html">
+        <title type="html"><![CDATA[CSS八种让人眼前一亮的HOVER效果]]></title>
+        <id>https://luzhaoyang.com/zh/posts/cssba-zhong-rang-ren-yan-qian-yi-liang-de-hoverxiao-guo.html</id>
+        <link href="https://luzhaoyang.com/zh/posts/cssba-zhong-rang-ren-yan-qian-yi-liang-de-hoverxiao-guo.html">
         </link>
-        <updated>2021-04-26T00:56:47.961Z</updated>
-        <summary type="html"><![CDATA[在 CSS3 混合模式中，目前仅有 16 种：normal，multiply,screen,overlay,darken,lighten,color-dodge,color-burn,hard-light,soft-light,difference,exclusion,hue,saturation,color,luminosity。
-其中每一种混合模式都有其自的计算模式]]></summary>
+        <updated>2021-04-27T00:48:51.769Z</updated>
+        <summary type="html"><![CDATA[HTML]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[CSS开发人员是干什么的？企业为什么需要这样一个职位？]]></title>
         <id>https://luzhaoyang.com/zh/posts/csskai-fa-ren-yuan-shi-gan-shi-me-de-qi-ye-wei-shi-me-xu-yao-zhe-yang-yi-ge-zhi-wei-.html</id>
         <link href="https://luzhaoyang.com/zh/posts/csskai-fa-ren-yuan-shi-gan-shi-me-de-qi-ye-wei-shi-me-xu-yao-zhe-yang-yi-ge-zhi-wei-.html">
         </link>
-        <updated>2021-04-26T00:56:47.962Z</updated>
+        <updated>2021-04-27T00:48:51.774Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS混合模式]]></title>
+        <id>https://luzhaoyang.com/zh/posts/csshun-he-mo-shi.html</id>
+        <link href="https://luzhaoyang.com/zh/posts/csshun-he-mo-shi.html">
+        </link>
+        <updated>2021-04-27T00:48:51.775Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[终于有个窝了]]></title>
+        <id>https://luzhaoyang.com/zh/other/finally-have-a-nest.html</id>
+        <link href="https://luzhaoyang.com/zh/other/finally-have-a-nest.html">
+        </link>
+        <updated>2021-04-27T00:48:51.775Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS第四级选择器]]></title>
+        <id>https://luzhaoyang.com/zh/posts/cssdi-si-ji-xuan-ze-qi.html</id>
+        <link href="https://luzhaoyang.com/zh/posts/cssdi-si-ji-xuan-ze-qi.html">
+        </link>
+        <updated>2021-04-27T00:48:51.775Z</updated>
     </entry>
 </feed>
