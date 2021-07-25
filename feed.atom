@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://luzhaoyang.com</id>
     <title></title>
-    <updated>2021-07-12T07:32:44.144Z</updated>
+    <updated>2021-07-25T05:01:14.969Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://luzhaoyang.com"/>
     <link rel="self" href="https://luzhaoyang.com/feed.atom"/>
@@ -11,21 +11,21 @@
         <id>https://luzhaoyang.com/other/finally-have-a-nest.html</id>
         <link href="https://luzhaoyang.com/other/finally-have-a-nest.html">
         </link>
-        <updated>2021-07-12T07:32:44.113Z</updated>
+        <updated>2021-07-25T05:01:14.940Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[快乐的时刻]]></title>
         <id>https://luzhaoyang.com/other/happy-moments.html</id>
         <link href="https://luzhaoyang.com/other/happy-moments.html">
         </link>
-        <updated>2021-07-12T07:32:44.116Z</updated>
+        <updated>2021-07-25T05:01:14.947Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[My First Post]]></title>
         <id>https://luzhaoyang.com/posts/my-first-post.html</id>
         <link href="https://luzhaoyang.com/posts/my-first-post.html">
         </link>
-        <updated>2021-07-12T07:32:44.117Z</updated>
+        <updated>2021-07-25T05:01:14.952Z</updated>
         <summary type="html"><![CDATA[Meta description, one of the three TDK tags on the original page, is also a page optimization element that SEO staff need to focus on optimization.]]></summary>
     </entry>
     <entry>
@@ -33,7 +33,7 @@
         <id>https://luzhaoyang.com/zh/other/2020ai-pu-sheng-guo-ji-quan-jing-she-ying-jiang-huo-jiang-zuo-pin-jie-xiao.html</id>
         <link href="https://luzhaoyang.com/zh/other/2020ai-pu-sheng-guo-ji-quan-jing-she-ying-jiang-huo-jiang-zuo-pin-jie-xiao.html">
         </link>
-        <updated>2021-07-12T07:32:44.117Z</updated>
+        <updated>2021-07-25T05:01:14.952Z</updated>
         <summary type="html"><![CDATA[一年一度的爱普生国际全景摄影奖(The EPSON International Pano Awards)专注于全景摄影艺术，是世界上最引人注目的摄影比赛之一。今年的一系列精彩作品提供了极具创意的各种图像，从崇高的广袤风景到色彩斑斓的建筑构图等。]]></summary>
     </entry>
     <entry>
@@ -41,28 +41,28 @@
         <id>https://luzhaoyang.com/zh/other/finally-have-a-nest.html</id>
         <link href="https://luzhaoyang.com/zh/other/finally-have-a-nest.html">
         </link>
-        <updated>2021-07-12T07:32:44.117Z</updated>
+        <updated>2021-07-25T05:01:14.952Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[令人难以置信的无人机航拍作品赢得年度自然TTL摄影大奖]]></title>
         <id>https://luzhaoyang.com/zh/other/ling-ren-nan-yi-zhi-xin-de-wu-ren-ji-hang-pai-zuo-pin-ying-de-nian-du-zi-ran-ttlshe-ying-da-jiang.html</id>
         <link href="https://luzhaoyang.com/zh/other/ling-ren-nan-yi-zhi-xin-de-wu-ren-ji-hang-pai-zuo-pin-ying-de-nian-du-zi-ran-ttlshe-ying-da-jiang.html">
         </link>
-        <updated>2021-07-12T07:32:44.118Z</updated>
+        <updated>2021-07-25T05:01:14.953Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[快乐的时刻]]></title>
         <id>https://luzhaoyang.com/zh/other/kuai-le-de-shi-ke.html</id>
         <link href="https://luzhaoyang.com/zh/other/kuai-le-de-shi-ke.html">
         </link>
-        <updated>2021-07-12T07:32:44.118Z</updated>
+        <updated>2021-07-25T05:01:14.953Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[10 个你可能还不知道 VS Code 使用技巧]]></title>
         <id>https://luzhaoyang.com/zh/posts/10-ge-ni-ke-neng-huan-bu-zhi-dao-vs-code-shi-yong-ji-qiao.html</id>
         <link href="https://luzhaoyang.com/zh/posts/10-ge-ni-ke-neng-huan-bu-zhi-dao-vs-code-shi-yong-ji-qiao.html">
         </link>
-        <updated>2021-07-12T07:32:44.118Z</updated>
+        <updated>2021-07-25T05:01:14.953Z</updated>
         <summary type="html"><![CDATA[经常帮一些同学 One-on-One 地解决问题，在看部分同学使用 VS Code 的时候，有些蹩脚，实际上一些有用的技巧能够提高我们的日常工作效率。]]></summary>
     </entry>
     <entry>
@@ -70,7 +70,7 @@
         <id>https://luzhaoyang.com/zh/posts/10fen-zhong-ru-men-webassembly.html</id>
         <link href="https://luzhaoyang.com/zh/posts/10fen-zhong-ru-men-webassembly.html">
         </link>
-        <updated>2021-07-12T07:32:44.118Z</updated>
+        <updated>2021-07-25T05:01:14.953Z</updated>
         <summary type="html"><![CDATA[`]]></summary>
     </entry>
     <entry>
@@ -78,7 +78,7 @@
         <id>https://luzhaoyang.com/zh/posts/12-ge-ti-gao-javascriptbian-ma-xiao-lu-de-npm-ji-qiao.html</id>
         <link href="https://luzhaoyang.com/zh/posts/12-ge-ti-gao-javascriptbian-ma-xiao-lu-de-npm-ji-qiao.html">
         </link>
-        <updated>2021-07-12T07:32:44.118Z</updated>
+        <updated>2021-07-25T05:01:14.953Z</updated>
         <summary type="html"><![CDATA["test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -92,7 +92,7 @@
         <id>https://luzhaoyang.com/zh/posts/12-zhong-shi-yong-vue-de-zui-jia-zuo-fa.html</id>
         <link href="https://luzhaoyang.com/zh/posts/12-zhong-shi-yong-vue-de-zui-jia-zuo-fa.html">
         </link>
-        <updated>2021-07-12T07:32:44.118Z</updated>
+        <updated>2021-07-25T05:01:14.953Z</updated>
         <summary type="html"><![CDATA[props: { 'title-text': String }]]></summary>
     </entry>
     <entry>
@@ -100,109 +100,82 @@
         <id>https://luzhaoyang.com/zh/posts/14ge-javascript-dai-ma-you-hua-ji-qiao.html</id>
         <link href="https://luzhaoyang.com/zh/posts/14ge-javascript-dai-ma-you-hua-ji-qiao.html">
         </link>
-        <updated>2021-07-12T07:32:44.119Z</updated>
+        <updated>2021-07-25T05:01:14.954Z</updated>
         <summary type="html"><![CDATA[作为一种高级语言，JS 会负责一些底层管理工作，例如内存管理。垃圾回收是大多数编程语言共有的过程。用外行术语来说，垃圾收集就是收集并释放已分配给对象，但目前尚未在程序的任何部分中使用的内存。在 C 这样的编程语言中，开发人员必须使用 malloc() 和 dealloc() 函数来处理内存分配和释放操作。]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2019年，是否可以抛弃CSS预处理器？]]></title>
-        <id>https://luzhaoyang.com/zh/posts/2019nian-shi-fou-ke-yi-pao-qi-cssyu-chu-li-qi-.html</id>
-        <link href="https://luzhaoyang.com/zh/posts/2019nian-shi-fou-ke-yi-pao-qi-cssyu-chu-li-qi-.html">
-        </link>
-        <updated>2021-07-12T07:32:44.119Z</updated>
-        <summary type="html"><![CDATA[篇幅有限，这里就不详细展开讲解 W3C 的标准流程了，如果想了解更多关于 W3C 标准流程与组织架构 的信息，可以查看 W3C 标准流程与组织架构。]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[15个必须知道的JavaScript数组方法]]></title>
         <id>https://luzhaoyang.com/zh/posts/15ge-bi-xu-zhi-dao-de-javascriptshu-zu-fang-fa.html</id>
         <link href="https://luzhaoyang.com/zh/posts/15ge-bi-xu-zhi-dao-de-javascriptshu-zu-fang-fa.html">
         </link>
-        <updated>2021-07-12T07:32:44.119Z</updated>
-        <summary type="html"><![CDATA[myAwesomeArray.every((test) => test === 'd');
-// -------> Output : falseconst
-myAwesomeArray2 = ['a', 'a', 'a', 'a', 'a'];
-myAwesomeArray2.every((test) => test === 'a');
-//-------> Output : true
-`]]></summary>
+        <updated>2021-07-25T05:01:14.954Z</updated>
+        <summary type="html"><![CDATA[`]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2021年，Flutter 与 React Native该如何选择？]]></title>
-        <id>https://luzhaoyang.com/zh/posts/2021nian-flutter-yu-react-nativegai-ru-he-xuan-ze-.html</id>
-        <link href="https://luzhaoyang.com/zh/posts/2021nian-flutter-yu-react-nativegai-ru-he-xuan-ze-.html">
+        <title type="html"><![CDATA[2019年，是否可以抛弃CSS预处理器？]]></title>
+        <id>https://luzhaoyang.com/zh/posts/2019nian-shi-fou-ke-yi-pao-qi-cssyu-chu-li-qi-.html</id>
+        <link href="https://luzhaoyang.com/zh/posts/2019nian-shi-fou-ke-yi-pao-qi-cssyu-chu-li-qi-.html">
         </link>
-        <updated>2021-07-12T07:32:44.119Z</updated>
-        <summary type="html"><![CDATA[React Native for Web 是一个跨平台应用，支持 Android、iOS 和 Web（Twitter 使用它来创建 Twitter Lite）。
-ReactXp——Skype 开发的一个应用，支持 Android、iOS、互联网和 Windows 10（UWP）。
-微软团队为所有 Windows 10 用户（PC、平板电脑、二合一、Xbox、混合现实设备等）创建了 React-native-windows。
-React Native 程序员对事物的看法和采取的行动与大多数人是不同的。
-你可以假设 Web 桌面应用、移动 Web 应用和原生应用都具有相同的业务逻辑，但是它们需要不同的 UI 才能满足不同的用户需求。]]></summary>
+        <updated>2021-07-25T05:01:14.954Z</updated>
+        <summary type="html"><![CDATA[篇幅有限，这里就不详细展开讲解 W3C 的标准流程了，如果想了解更多关于 W3C 标准流程与组织架构 的信息，可以查看 W3C 标准流程与组织架构。]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[8个有用的JavaScript技巧]]></title>
         <id>https://luzhaoyang.com/zh/posts/8ge-you-yong-de-javascriptji-qiao.html</id>
         <link href="https://luzhaoyang.com/zh/posts/8ge-you-yong-de-javascriptji-qiao.html">
         </link>
-        <updated>2021-07-12T07:32:44.120Z</updated>
-        <summary type="html"><![CDATA[const cities = [
-    { name: 'Paris', visited: 'no' },
-    { name: 'Lyon', visited: 'no' },
-    { name: 'Marseille', visited: 'yes' },
-    { name: 'Rome', visited: 'yes' },
-    { name: 'Milan', visited: 'no' },
-    { name: 'Palermo', visited: 'yes' },
-    { name: 'Genoa', visited: 'yes' },
-    { name: 'Berlin', visited: 'no' },
-    { name: 'Hamburg', visited: 'yes' },
-    { name: 'New York', visited: 'yes' }
-];
-const result = cities.reduce((accumulator, item) => {
-  return {
-    ...accumulator,
-    [item.name]: item.visited
-  }
-}, {});
-console.log(result);
-/* outputs
-Berlin: "no"
-Genoa: "yes"
-Hamburg: "yes"
-Lyon: "no"
-Marseille: "yes"
-Milan: "no"
-New York: "yes"
-Palermo: "yes"
-Paris: "no"
-Rome: "yes"
-*/
-`]]></summary>
+        <updated>2021-07-25T05:01:14.954Z</updated>
+        <summary type="html"><![CDATA[console.log(productManufacturer);
+// outputs { name: "Company Name", packaging: "Plastic", price: "5$", address: "The Company Address" }]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021年，Flutter 与 React Native该如何选择？]]></title>
+        <id>https://luzhaoyang.com/zh/posts/2021nian-flutter-yu-react-nativegai-ru-he-xuan-ze-.html</id>
+        <link href="https://luzhaoyang.com/zh/posts/2021nian-flutter-yu-react-nativegai-ru-he-xuan-ze-.html">
+        </link>
+        <updated>2021-07-25T05:01:14.954Z</updated>
+        <summary type="html"><![CDATA[请参阅以下示例，了解可让你同时在 iOS 和 Android 及其他系统（包括 Web 和桌面应用）上编程的库：
+React Native for Web 是一个跨平台应用，支持 Android、iOS 和 Web（Twitter 使用它来创建 Twitter Lite）。
+ReactXp——Skype 开发的一个应用，支持 Android、iOS、互联网和 Windows 10（UWP）。
+微软团队为所有 Windows 10 用户（PC、平板电脑、二合一、Xbox、混合现实设备等）创建了 React-native-windows。
+React Native 程序员对事物的看法和采取的行动与大多数人是不同的。
+你可以假设 Web 桌面应用、移动 Web 应用和原生应用都具有相同的业务逻辑，但是它们需要不同的 UI 才能满足不同的用户需求。]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Array原型方法源码实现大解密]]></title>
         <id>https://luzhaoyang.com/zh/posts/arrayyuan-xing-fang-fa-yuan-ma-shi-xian-da-jie-mi.html</id>
         <link href="https://luzhaoyang.com/zh/posts/arrayyuan-xing-fang-fa-yuan-ma-shi-xian-da-jie-mi.html">
         </link>
-        <updated>2021-07-12T07:32:44.120Z</updated>
-        <summary type="html"><![CDATA[简单看下面几个例子，在callbackfn中不要改变原数组，不然会有意想不到的情况发生。]]></summary>
+        <updated>2021-07-25T05:01:14.955Z</updated>
+        <summary type="html"><![CDATA[}
+  // Step 8. 返回新数组
+  return A;
+};]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[CSS 命名规范 - BEM]]></title>
         <id>https://luzhaoyang.com/zh/posts/css-ming-ming-gui-fan---bem.html</id>
         <link href="https://luzhaoyang.com/zh/posts/css-ming-ming-gui-fan---bem.html">
         </link>
-        <updated>2021-07-12T07:32:44.120Z</updated>
+        <updated>2021-07-25T05:01:14.955Z</updated>
+        <summary type="html"><![CDATA[现在元素被修改了。请记住，元素是整个包含块中的子组件。
+.stick-man 代表 Block，.stick-man_head代表 Element。
+根据上面的例子，双连字符应该这样使用：]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[CSS 新特性 contain，控制页面的重绘与重排]]></title>
         <id>https://luzhaoyang.com/zh/posts/css-xin-te-xing-contain-kong-zhi-ye-mian-de-chong-hui-yu-chong-pai.html</id>
         <link href="https://luzhaoyang.com/zh/posts/css-xin-te-xing-contain-kong-zhi-ye-mian-de-chong-hui-yu-chong-pai.html">
         </link>
-        <updated>2021-07-12T07:32:44.122Z</updated>
-        <summary type="html"><![CDATA[Coco]]></summary>
+        <updated>2021-07-25T05:01:14.955Z</updated>
+        <summary type="html"><![CDATA[正常而言，父元素的高度会因为子元素的增多而被撑高，而现在，子元素的变化不再影响父元素的样式布局，这就是 contain: size 的作用。
+contain: style]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[CSS-in-JS是恶魔还是天使？]]></title>
         <id>https://luzhaoyang.com/zh/posts/css-in-jsshi-e-mo-huan-shi-tian-shi-.html</id>
         <link href="https://luzhaoyang.com/zh/posts/css-in-jsshi-e-mo-huan-shi-tian-shi-.html">
         </link>
-        <updated>2021-07-12T07:32:44.127Z</updated>
+        <updated>2021-07-25T05:01:14.955Z</updated>
     </entry>
 </feed>
