@@ -8,14 +8,14 @@
             "id": "https://luzhaoyang.com/other/finally-have-a-nest.html",
             "url": "https://luzhaoyang.com/other/finally-have-a-nest.html",
             "title": "Finally Have A Nest",
-            "date_modified": "2021-08-29T12:37:49.349Z"
+            "date_modified": "2021-09-05T14:43:54.443Z"
         },
         {
             "id": "https://luzhaoyang.com/other/happy-moments.html",
             "url": "https://luzhaoyang.com/other/happy-moments.html",
             "title": "快乐的时刻",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg",
-            "date_modified": "2021-08-29T12:37:49.352Z"
+            "date_modified": "2021-09-05T14:43:54.458Z"
         },
         {
             "id": "https://luzhaoyang.com/posts/my-first-post.html",
@@ -23,7 +23,7 @@
             "title": "My First Post",
             "summary": "Meta description, one of the three TDK tags on the original page, is also a page optimization element that SEO staff need to focus on optimization.",
             "image": "https://luzhaoyang.com/images/posts-base/2018/8/my-first-post.png",
-            "date_modified": "2021-08-29T12:37:49.353Z"
+            "date_modified": "2021-09-05T14:43:54.462Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/other/2020ai-pu-sheng-guo-ji-quan-jing-she-ying-jiang-huo-jiang-zuo-pin-jie-xiao.html",
@@ -31,27 +31,28 @@
             "title": "2020爱普生国际全景摄影奖获奖作品揭晓",
             "summary": "一年一度的爱普生国际全景摄影奖(The EPSON International Pano Awards)专注于全景摄影艺术，是世界上最引人注目的摄影比赛之一。今年的一系列精彩作品提供了极具创意的各种图像，从崇高的广袤风景到色彩斑斓的建筑构图等。",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/2020ai-pu-sheng-guo-ji-quan-jing-she-ying-jiang-huo-jiang-zuo-pin-jie-xiao/1.jpg",
-            "date_modified": "2021-08-29T12:37:49.354Z"
-        },
-        {
-            "id": "https://luzhaoyang.com/zh/other/finally-have-a-nest.html",
-            "url": "https://luzhaoyang.com/zh/other/finally-have-a-nest.html",
-            "title": "终于有个窝了",
-            "date_modified": "2021-08-29T12:37:49.354Z"
+            "date_modified": "2021-09-05T14:43:54.462Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/other/ling-ren-nan-yi-zhi-xin-de-wu-ren-ji-hang-pai-zuo-pin-ying-de-nian-du-zi-ran-ttlshe-ying-da-jiang.html",
             "url": "https://luzhaoyang.com/zh/other/ling-ren-nan-yi-zhi-xin-de-wu-ren-ji-hang-pai-zuo-pin-ying-de-nian-du-zi-ran-ttlshe-ying-da-jiang.html",
             "title": "令人难以置信的无人机航拍作品赢得年度自然TTL摄影大奖",
+            "summary": "新的摄影比赛由 Nature TTL 举办，Nature TTL 是野生动物摄影师 Will Nichols 创建的一种新颖资源，旨在提供教育性教程和功能，以协助业余和专业自然摄影师。主办方还在获奖图像的旁边附上摄影师的访谈内容，以了解 Ledoux 等摄影师的创作过程，并为业余无人机摄影师提供了有关如何使用该技术处理野生生物的建议。",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/ling-ren-nan-yi-zhi-xin-de-wu-ren-ji-hang-pai-zuo-pin-ying-de-nian-du-zi-ranttl-she-ying-da-jiang/1.jpg =840x",
-            "date_modified": "2021-08-29T12:37:49.354Z"
+            "date_modified": "2021-09-05T14:43:54.467Z"
+        },
+        {
+            "id": "https://luzhaoyang.com/zh/other/finally-have-a-nest.html",
+            "url": "https://luzhaoyang.com/zh/other/finally-have-a-nest.html",
+            "title": "终于有个窝了",
+            "date_modified": "2021-09-05T14:43:54.467Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/other/kuai-le-de-shi-ke.html",
             "url": "https://luzhaoyang.com/zh/other/kuai-le-de-shi-ke.html",
             "title": "快乐的时刻",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg",
-            "date_modified": "2021-08-29T12:37:49.354Z"
+            "date_modified": "2021-09-05T14:43:54.468Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/10-ge-ni-ke-neng-huan-bu-zhi-dao-vs-code-shi-yong-ji-qiao.html",
@@ -59,7 +60,15 @@
             "title": "10 个你可能还不知道 VS Code 使用技巧",
             "summary": "经常帮一些同学 One-on-One 地解决问题，在看部分同学使用 VS Code 的时候，有些蹩脚，实际上一些有用的技巧能够提高我们的日常工作效率。",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/10-ge-ni-ke-neng-huan-bu-zhi-dao-vs-code-shi-yong-ji-qiao/0.png",
-            "date_modified": "2021-08-29T12:37:49.354Z"
+            "date_modified": "2021-09-05T14:43:54.468Z"
+        },
+        {
+            "id": "https://luzhaoyang.com/zh/posts/12-ge-ti-gao-javascriptbian-ma-xiao-lu-de-npm-ji-qiao.html",
+            "url": "https://luzhaoyang.com/zh/posts/12-ge-ti-gao-javascriptbian-ma-xiao-lu-de-npm-ji-qiao.html",
+            "title": "12 个提高JavaScript编码效率的 NPM 技巧",
+            "summary": "在这篇文章中，我将分享 NPM 的技巧和诀窍，它们可以提高你的工作效率，让你更明智、更高效地使用 NPM。",
+            "image": "https://luzhaoyang.com/@pub/images/posts-content/12-ge-ti-gaojavascript-bian-ma-xiao-lu-de-npm-ji-qiao/0.webp",
+            "date_modified": "2021-09-05T14:43:54.469Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/10fen-zhong-ru-men-webassembly.html",
@@ -67,7 +76,7 @@
             "title": "10分钟入门WebAssembly",
             "summary": "`",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/10fen-zhong-ru-men-webassembly/1.png",
-            "date_modified": "2021-08-29T12:37:49.355Z"
+            "date_modified": "2021-09-05T14:43:54.469Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/12-zhong-shi-yong-vue-de-zui-jia-zuo-fa.html",
@@ -75,82 +84,77 @@
             "title": "12 种使用 Vue 的最佳做法",
             "summary": "最佳做法只是遵循每种语言的约定。 在 JS 中，驼峰式声明是标准，在 HTML 中，是短横线命名。 因此，我们相应地使用它们。\n幸运的是，Vue 已经提供了驼峰式声明和短横线命名之间转换，因此除了实际声明它们之外，我们不必担心任何事情。",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg",
-            "date_modified": "2021-08-29T12:37:49.355Z"
-        },
-        {
-            "id": "https://luzhaoyang.com/zh/posts/12-ge-ti-gao-javascriptbian-ma-xiao-lu-de-npm-ji-qiao.html",
-            "url": "https://luzhaoyang.com/zh/posts/12-ge-ti-gao-javascriptbian-ma-xiao-lu-de-npm-ji-qiao.html",
-            "title": "12 个提高JavaScript编码效率的 NPM 技巧",
-            "summary": "\"license\": \"ISC\"\n}\n`",
-            "image": "https://luzhaoyang.com/@pub/images/posts-content/12-ge-ti-gaojavascript-bian-ma-xiao-lu-de-npm-ji-qiao/0.webp",
-            "date_modified": "2021-08-29T12:37:49.355Z"
-        },
-        {
-            "id": "https://luzhaoyang.com/zh/posts/15ge-bi-xu-zhi-dao-de-javascriptshu-zu-fang-fa.html",
-            "url": "https://luzhaoyang.com/zh/posts/15ge-bi-xu-zhi-dao-de-javascriptshu-zu-fang-fa.html",
-            "title": "15个必须知道的JavaScript数组方法",
-            "summary": "此方法接收一个函数作为累加器。它为数组中的每个元素依次执行回调函数，不包括数组中被删除或者从未被赋值的元素。函数应用于累加器，数组中的每个值最后只返回一个值。\n译者注：reduce() 方法接受四个参数：初始值（上一次回调的返回值），当前元素值，当前索引，原数组。",
-            "image": "https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg",
-            "date_modified": "2021-08-29T12:37:49.355Z"
+            "date_modified": "2021-09-05T14:43:54.469Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/14ge-javascript-dai-ma-you-hua-ji-qiao.html",
             "url": "https://luzhaoyang.com/zh/posts/14ge-javascript-dai-ma-you-hua-ji-qiao.html",
             "title": "14个 JavaScript 代码优化技巧",
-            "summary": "虽然在 JavaScript 中垃圾回收是自动执行的，但在某些情况下它也不是完美的。在 JavaScript ES6 中，引入了 Map 和 Set 及其“weaker”的同级对象。被称为 WeakMap 和 WeakSet 的“较弱”对应项持有对对象的“弱”引用。它们使未引用的值能够被垃圾回收，从而防止内存泄漏。你可以在此处了解有关 WeakMaps 的更多信息：",
+            "summary": "缓存可以减少延迟和网络流量，从而减少了显示资源表示所需的时间，以提高网站的速度和性能。缓存可以借助 Cache API 或 HTTP caching 来实现。你可能想知道内容更改时会发生什么。当满足某些条件（例如发布新内容）时，上述缓存机制能够处理和重新生成缓存。",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg",
-            "date_modified": "2021-08-29T12:37:49.355Z"
+            "date_modified": "2021-09-05T14:43:54.470Z"
+        },
+        {
+            "id": "https://luzhaoyang.com/zh/posts/16ge-gong-cheng-bi-bei-de-javascriptdai-ma-pian-duan-shang-.html",
+            "url": "https://luzhaoyang.com/zh/posts/16ge-gong-cheng-bi-bei-de-javascriptdai-ma-pian-duan-shang-.html",
+            "title": "16个工程必备的JavaScript代码片段（上）",
+            "summary": "}\n  let eleLink = document.createElement('a');\n  eleLink.download = name;\n  eleLink.style.display = 'none';\n  eleLink.href = link;\n  document.body.appendChild(eleLink);\n  eleLink.click();\n  document.body.removeChild(eleLink);\n}\n`",
+            "image": "https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg",
+            "date_modified": "2021-09-05T14:43:54.470Z"
+        },
+        {
+            "id": "https://luzhaoyang.com/zh/posts/15ge-bi-xu-zhi-dao-de-javascriptshu-zu-fang-fa.html",
+            "url": "https://luzhaoyang.com/zh/posts/15ge-bi-xu-zhi-dao-de-javascriptshu-zu-fang-fa.html",
+            "title": "15个必须知道的JavaScript数组方法",
+            "summary": "//-------> Output : true\n`",
+            "image": "https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg",
+            "date_modified": "2021-09-05T14:43:54.470Z"
+        },
+        {
+            "id": "https://luzhaoyang.com/zh/posts/16ge-gong-cheng-bi-bei-de-javascriptdai-ma-pian-duan-xia-.html",
+            "url": "https://luzhaoyang.com/zh/posts/16ge-gong-cheng-bi-bei-de-javascriptdai-ma-pian-duan-xia-.html",
+            "title": "16个工程必备的JavaScript代码片段（下）",
+            "summary": "return result;\n}\n`",
+            "image": "https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg",
+            "date_modified": "2021-09-05T14:43:54.470Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/2019nian-shi-fou-ke-yi-pao-qi-cssyu-chu-li-qi-.html",
             "url": "https://luzhaoyang.com/zh/posts/2019nian-shi-fou-ke-yi-pao-qi-cssyu-chu-li-qi-.html",
             "title": "2019年，是否可以抛弃CSS预处理器？",
-            "summary": "HTML 规范虽然规定了网页中的标题、段落应该使用的标签，但是没有涉及这些内容应该以何种样式(比如大小、位置、间距、缩进等属性)呈现在浏览器中。",
+            "summary": "于 1994 年，Håkon Wium Lie (哈肯·维姆·莱) 和 Bert Bos (伯特·波斯) 合作设计 CSS。他们在 1994 年首次在芝加哥的一次会议上第一次展示了 CSS 的建议。",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/2019-nian-shi-fou-ke-yi-pao-qicss-yu-chu-li-qi-/640-2.webp",
-            "date_modified": "2021-08-29T12:37:49.355Z"
-        },
-        {
-            "id": "https://luzhaoyang.com/zh/posts/2021nian-flutter-yu-react-nativegai-ru-he-xuan-ze-.html",
-            "url": "https://luzhaoyang.com/zh/posts/2021nian-flutter-yu-react-nativegai-ru-he-xuan-ze-.html",
-            "title": "2021年，Flutter 与 React Native该如何选择？",
-            "summary": "React Native for Web 是一个跨平台应用，支持 Android、iOS 和 Web（Twitter 使用它来创建 Twitter Lite）。\nReactXp——Skype 开发的一个应用，支持 Android、iOS、互联网和 Windows 10（UWP）。\n微软团队为所有 Windows 10 用户（PC、平板电脑、二合一、Xbox、混合现实设备等）创建了 React-native-windows。\nReact Native 程序员对事物的看法和采取的行动与大多数人是不同的。\n你可以假设 Web 桌面应用、移动 Web 应用和原生应用都具有相同的业务逻辑，但是它们需要不同的 UI 才能满足不同的用户需求。",
-            "image": "https://luzhaoyang.com/@pub/images/posts-content/2021nian-flutter-yu-react-nativegai-ru-he-xuan-ze-/1.jpg",
-            "date_modified": "2021-08-29T12:37:49.355Z"
+            "date_modified": "2021-09-05T14:43:54.471Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/8ge-you-yong-de-javascriptji-qiao.html",
             "url": "https://luzhaoyang.com/zh/posts/8ge-you-yong-de-javascriptji-qiao.html",
             "title": "8个有用的JavaScript技巧",
-            "summary": "const cities = [\n    { name: 'Paris', visited: 'no' },\n    { name: 'Lyon', visited: 'no' },\n    { name: 'Marseille', visited: 'yes' },\n    { name: 'Rome', visited: 'yes' },\n    { name: 'Milan', visited: 'no' },\n    { name: 'Palermo', visited: 'yes' },\n    { name: 'Genoa', visited: 'yes' },\n    { name: 'Berlin', visited: 'no' },\n    { name: 'Hamburg', visited: 'yes' },\n    { name: 'New York', visited: 'yes' }\n];\nconst result = cities.reduce((accumulator, item) => {\n  return {\n    ...accumulator,\n    [item.name]: item.visited\n  }\n}, {});\nconsole.log(result);\n/* outputs\nBerlin: \"no\"\nGenoa: \"yes\"\nHamburg: \"yes\"\nLyon: \"no\"\nMarseille: \"yes\"\nMilan: \"no\"\nNew York: \"yes\"\nPalermo: \"yes\"\nParis: \"no\"\nRome: \"yes\"\n*/\n`",
-            "date_modified": "2021-08-29T12:37:49.356Z"
+            "summary": "// outputs { name: \"Company Name\", packaging: \"Plastic\", price: \"5$\", address: \"The Company Address\" }",
+            "date_modified": "2021-09-05T14:43:54.471Z"
+        },
+        {
+            "id": "https://luzhaoyang.com/zh/posts/2021nian-flutter-yu-react-nativegai-ru-he-xuan-ze-.html",
+            "url": "https://luzhaoyang.com/zh/posts/2021nian-flutter-yu-react-nativegai-ru-he-xuan-ze-.html",
+            "title": "2021年，Flutter 与 React Native该如何选择？",
+            "summary": "React Native 使用的是 JavaScript 这种常用的编程语言，而 Dart 尚不为人所知。如果你是喜欢统计数据的开发人员，也可以使用 TypeScript（一个 JavaScript 的超集）。",
+            "image": "https://luzhaoyang.com/@pub/images/posts-content/2021nian-flutter-yu-react-nativegai-ru-he-xuan-ze-/1.jpg",
+            "date_modified": "2021-09-05T14:43:54.471Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/arrayyuan-xing-fang-fa-yuan-ma-shi-xian-da-jie-mi.html",
             "url": "https://luzhaoyang.com/zh/posts/arrayyuan-xing-fang-fa-yuan-ma-shi-xian-da-jie-mi.html",
             "title": "Array原型方法源码实现大解密",
-            "summary": "简单看下面几个例子，在callbackfn中不要改变原数组，不然会有意想不到的情况发生。",
-            "date_modified": "2021-08-29T12:37:49.356Z"
+            "summary": "只有 O 及其原型链上包含属性 k 时才会执行callbackfn函数，所以对于稀疏数组 empty 元素或者使用delete删除后的索引则不会被调用。",
+            "date_modified": "2021-09-05T14:43:54.472Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/css-ming-ming-gui-fan---bem.html",
             "url": "https://luzhaoyang.com/zh/posts/css-ming-ming-gui-fan---bem.html",
             "title": "CSS 命名规范 - BEM",
+            "summary": ".stick-man__head--small {\n}\n.stick-man__head--big {\n}\n`",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/css-ming-ming-gui-fan---bem/1.jpg",
-            "date_modified": "2021-08-29T12:37:49.356Z"
-        },
-        {
-            "id": "https://luzhaoyang.com/zh/posts/css-xin-te-xing-contain-kong-zhi-ye-mian-de-chong-hui-yu-chong-pai.html",
-            "url": "https://luzhaoyang.com/zh/posts/css-xin-te-xing-contain-kong-zhi-ye-mian-de-chong-hui-yu-chong-pai.html",
-            "title": "CSS 新特性 contain，控制页面的重绘与重排",
-            "summary": "Coco",
-            "image": "https://luzhaoyang.com/@pub/images/posts-content/css-xin-te-xing-contain-kong-zhi-ye-mian-de-chong-hui-yu-chong-pai/1.gif",
-            "date_modified": "2021-08-29T12:37:49.356Z"
-        },
-        {
-            "id": "https://luzhaoyang.com/zh/posts/css-in-jsshi-e-mo-huan-shi-tian-shi-.html",
-            "url": "https://luzhaoyang.com/zh/posts/css-in-jsshi-e-mo-huan-shi-tian-shi-.html",
-            "title": "CSS-in-JS是恶魔还是天使？",
-            "date_modified": "2021-08-29T12:37:49.360Z"
+            "date_modified": "2021-09-05T14:43:54.472Z"
         }
     ]
 }
