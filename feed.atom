@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://luzhaoyang.com</id>
     <title></title>
-    <updated>2021-09-12T15:15:46.371Z</updated>
+    <updated>2021-09-21T14:08:21.297Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://luzhaoyang.com"/>
     <link rel="self" href="https://luzhaoyang.com/feed.atom"/>
@@ -11,21 +11,21 @@
         <id>https://luzhaoyang.com/other/finally-have-a-nest.html</id>
         <link href="https://luzhaoyang.com/other/finally-have-a-nest.html">
         </link>
-        <updated>2021-09-12T15:15:46.354Z</updated>
+        <updated>2021-09-21T14:08:21.278Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[快乐的时刻]]></title>
         <id>https://luzhaoyang.com/other/happy-moments.html</id>
         <link href="https://luzhaoyang.com/other/happy-moments.html">
         </link>
-        <updated>2021-09-12T15:15:46.356Z</updated>
+        <updated>2021-09-21T14:08:21.281Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[My First Post]]></title>
         <id>https://luzhaoyang.com/posts/my-first-post.html</id>
         <link href="https://luzhaoyang.com/posts/my-first-post.html">
         </link>
-        <updated>2021-09-12T15:15:46.358Z</updated>
+        <updated>2021-09-21T14:08:21.283Z</updated>
         <summary type="html"><![CDATA[Meta description, one of the three TDK tags on the original page, is also a page optimization element that SEO staff need to focus on optimization.]]></summary>
     </entry>
     <entry>
@@ -33,7 +33,7 @@
         <id>https://luzhaoyang.com/zh/other/2020ai-pu-sheng-guo-ji-quan-jing-she-ying-jiang-huo-jiang-zuo-pin-jie-xiao.html</id>
         <link href="https://luzhaoyang.com/zh/other/2020ai-pu-sheng-guo-ji-quan-jing-she-ying-jiang-huo-jiang-zuo-pin-jie-xiao.html">
         </link>
-        <updated>2021-09-12T15:15:46.358Z</updated>
+        <updated>2021-09-21T14:08:21.284Z</updated>
         <summary type="html"><![CDATA[一年一度的爱普生国际全景摄影奖(The EPSON International Pano Awards)专注于全景摄影艺术，是世界上最引人注目的摄影比赛之一。今年的一系列精彩作品提供了极具创意的各种图像，从崇高的广袤风景到色彩斑斓的建筑构图等。]]></summary>
     </entry>
     <entry>
@@ -41,28 +41,28 @@
         <id>https://luzhaoyang.com/zh/other/finally-have-a-nest.html</id>
         <link href="https://luzhaoyang.com/zh/other/finally-have-a-nest.html">
         </link>
-        <updated>2021-09-12T15:15:46.358Z</updated>
+        <updated>2021-09-21T14:08:21.284Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[令人难以置信的无人机航拍作品赢得年度自然TTL摄影大奖]]></title>
         <id>https://luzhaoyang.com/zh/other/ling-ren-nan-yi-zhi-xin-de-wu-ren-ji-hang-pai-zuo-pin-ying-de-nian-du-zi-ran-ttlshe-ying-da-jiang.html</id>
         <link href="https://luzhaoyang.com/zh/other/ling-ren-nan-yi-zhi-xin-de-wu-ren-ji-hang-pai-zuo-pin-ying-de-nian-du-zi-ran-ttlshe-ying-da-jiang.html">
         </link>
-        <updated>2021-09-12T15:15:46.358Z</updated>
+        <updated>2021-09-21T14:08:21.284Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[快乐的时刻]]></title>
         <id>https://luzhaoyang.com/zh/other/kuai-le-de-shi-ke.html</id>
         <link href="https://luzhaoyang.com/zh/other/kuai-le-de-shi-ke.html">
         </link>
-        <updated>2021-09-12T15:15:46.358Z</updated>
+        <updated>2021-09-21T14:08:21.284Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[10 个你可能还不知道 VS Code 使用技巧]]></title>
         <id>https://luzhaoyang.com/zh/posts/10-ge-ni-ke-neng-huan-bu-zhi-dao-vs-code-shi-yong-ji-qiao.html</id>
         <link href="https://luzhaoyang.com/zh/posts/10-ge-ni-ke-neng-huan-bu-zhi-dao-vs-code-shi-yong-ji-qiao.html">
         </link>
-        <updated>2021-09-12T15:15:46.359Z</updated>
+        <updated>2021-09-21T14:08:21.284Z</updated>
         <summary type="html"><![CDATA[经常帮一些同学 One-on-One 地解决问题，在看部分同学使用 VS Code 的时候，有些蹩脚，实际上一些有用的技巧能够提高我们的日常工作效率。]]></summary>
     </entry>
     <entry>
@@ -70,7 +70,7 @@
         <id>https://luzhaoyang.com/zh/posts/10fen-zhong-ru-men-webassembly.html</id>
         <link href="https://luzhaoyang.com/zh/posts/10fen-zhong-ru-men-webassembly.html">
         </link>
-        <updated>2021-09-12T15:15:46.359Z</updated>
+        <updated>2021-09-21T14:08:21.284Z</updated>
         <summary type="html"><![CDATA[`]]></summary>
     </entry>
     <entry>
@@ -78,7 +78,7 @@
         <id>https://luzhaoyang.com/zh/posts/12-ge-ti-gao-javascriptbian-ma-xiao-lu-de-npm-ji-qiao.html</id>
         <link href="https://luzhaoyang.com/zh/posts/12-ge-ti-gao-javascriptbian-ma-xiao-lu-de-npm-ji-qiao.html">
         </link>
-        <updated>2021-09-12T15:15:46.359Z</updated>
+        <updated>2021-09-21T14:08:21.284Z</updated>
         <summary type="html"><![CDATA["test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -92,7 +92,7 @@
         <id>https://luzhaoyang.com/zh/posts/12-zhong-shi-yong-vue-de-zui-jia-zuo-fa.html</id>
         <link href="https://luzhaoyang.com/zh/posts/12-zhong-shi-yong-vue-de-zui-jia-zuo-fa.html">
         </link>
-        <updated>2021-09-12T15:15:46.359Z</updated>
+        <updated>2021-09-21T14:08:21.285Z</updated>
         <summary type="html"><![CDATA[props: { 'title-text': String }]]></summary>
     </entry>
     <entry>
@@ -100,7 +100,7 @@
         <id>https://luzhaoyang.com/zh/posts/14ge-javascript-dai-ma-you-hua-ji-qiao.html</id>
         <link href="https://luzhaoyang.com/zh/posts/14ge-javascript-dai-ma-you-hua-ji-qiao.html">
         </link>
-        <updated>2021-09-12T15:15:46.359Z</updated>
+        <updated>2021-09-21T14:08:21.285Z</updated>
         <summary type="html"><![CDATA[作为一种高级语言，JS 会负责一些底层管理工作，例如内存管理。垃圾回收是大多数编程语言共有的过程。用外行术语来说，垃圾收集就是收集并释放已分配给对象，但目前尚未在程序的任何部分中使用的内存。在 C 这样的编程语言中，开发人员必须使用 malloc() 和 dealloc() 函数来处理内存分配和释放操作。]]></summary>
     </entry>
     <entry>
@@ -108,7 +108,7 @@
         <id>https://luzhaoyang.com/zh/posts/15ge-bi-xu-zhi-dao-de-javascriptshu-zu-fang-fa.html</id>
         <link href="https://luzhaoyang.com/zh/posts/15ge-bi-xu-zhi-dao-de-javascriptshu-zu-fang-fa.html">
         </link>
-        <updated>2021-09-12T15:15:46.359Z</updated>
+        <updated>2021-09-21T14:08:21.285Z</updated>
         <summary type="html"><![CDATA[`]]></summary>
     </entry>
     <entry>
@@ -116,7 +116,7 @@
         <id>https://luzhaoyang.com/zh/posts/16ge-gong-cheng-bi-bei-de-javascriptdai-ma-pian-duan-shang-.html</id>
         <link href="https://luzhaoyang.com/zh/posts/16ge-gong-cheng-bi-bei-de-javascriptdai-ma-pian-duan-shang-.html">
         </link>
-        <updated>2021-09-12T15:15:46.359Z</updated>
+        <updated>2021-09-21T14:08:21.285Z</updated>
         <summary type="html"><![CDATA[}
   let eleLink = document.createElement('a');
   eleLink.download = name;
@@ -133,7 +133,7 @@
         <id>https://luzhaoyang.com/zh/posts/16ge-gong-cheng-bi-bei-de-javascriptdai-ma-pian-duan-xia-.html</id>
         <link href="https://luzhaoyang.com/zh/posts/16ge-gong-cheng-bi-bei-de-javascriptdai-ma-pian-duan-xia-.html">
         </link>
-        <updated>2021-09-12T15:15:46.360Z</updated>
+        <updated>2021-09-21T14:08:21.285Z</updated>
         <summary type="html"><![CDATA[return result;
 }
 `]]></summary>
@@ -143,7 +143,7 @@
         <id>https://luzhaoyang.com/zh/posts/2019nian-shi-fou-ke-yi-pao-qi-cssyu-chu-li-qi-.html</id>
         <link href="https://luzhaoyang.com/zh/posts/2019nian-shi-fou-ke-yi-pao-qi-cssyu-chu-li-qi-.html">
         </link>
-        <updated>2021-09-12T15:15:46.360Z</updated>
+        <updated>2021-09-21T14:08:21.285Z</updated>
         <summary type="html"><![CDATA[于 1994 年，Håkon Wium Lie (哈肯·维姆·莱) 和 Bert Bos (伯特·波斯) 合作设计 CSS。他们在 1994 年首次在芝加哥的一次会议上第一次展示了 CSS 的建议。]]></summary>
     </entry>
     <entry>
@@ -151,7 +151,7 @@
         <id>https://luzhaoyang.com/zh/posts/2021nian-flutter-yu-react-nativegai-ru-he-xuan-ze-.html</id>
         <link href="https://luzhaoyang.com/zh/posts/2021nian-flutter-yu-react-nativegai-ru-he-xuan-ze-.html">
         </link>
-        <updated>2021-09-12T15:15:46.360Z</updated>
+        <updated>2021-09-21T14:08:21.286Z</updated>
         <summary type="html"><![CDATA[React Native 程序员对事物的看法和采取的行动与大多数人是不同的。
 你可以假设 Web 桌面应用、移动 Web 应用和原生应用都具有相同的业务逻辑，但是它们需要不同的 UI 才能满足不同的用户需求。]]></summary>
     </entry>
@@ -160,7 +160,7 @@
         <id>https://luzhaoyang.com/zh/posts/8ge-you-yong-de-javascriptji-qiao.html</id>
         <link href="https://luzhaoyang.com/zh/posts/8ge-you-yong-de-javascriptji-qiao.html">
         </link>
-        <updated>2021-09-12T15:15:46.360Z</updated>
+        <updated>2021-09-21T14:08:21.286Z</updated>
         <summary type="html"><![CDATA[const cities = [
     { name: 'Paris', visited: 'no' },
     { name: 'Lyon', visited: 'no' },
@@ -199,7 +199,7 @@ Rome: "yes"
         <id>https://luzhaoyang.com/zh/posts/arrayyuan-xing-fang-fa-yuan-ma-shi-xian-da-jie-mi.html</id>
         <link href="https://luzhaoyang.com/zh/posts/arrayyuan-xing-fang-fa-yuan-ma-shi-xian-da-jie-mi.html">
         </link>
-        <updated>2021-09-12T15:15:46.360Z</updated>
+        <updated>2021-09-21T14:08:21.286Z</updated>
         <summary type="html"><![CDATA[简单看下面几个例子，在callbackfn中不要改变原数组，不然会有意想不到的情况发生。]]></summary>
     </entry>
     <entry>
@@ -207,6 +207,6 @@ Rome: "yes"
         <id>https://luzhaoyang.com/zh/posts/css-ming-ming-gui-fan---bem.html</id>
         <link href="https://luzhaoyang.com/zh/posts/css-ming-ming-gui-fan---bem.html">
         </link>
-        <updated>2021-09-12T15:15:46.360Z</updated>
+        <updated>2021-09-21T14:08:21.286Z</updated>
     </entry>
 </feed>
