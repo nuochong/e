@@ -4,7 +4,7 @@
         <title></title>
         <link>https://luzhaoyang.com</link>
         <description></description>
-        <lastBuildDate>Tue, 21 Sep 2021 14:18:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 14:54:54 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://luzhaoyang.com/feed.atom" rel="self" type="application/rss+xml"/>
@@ -12,13 +12,13 @@
             <title><![CDATA[Finally Have A Nest]]></title>
             <link>https://luzhaoyang.com/other/finally-have-a-nest.html</link>
             <guid>https://luzhaoyang.com/other/finally-have-a-nest.html</guid>
-            <pubDate>Tue, 21 Sep 2021 14:18:23 GMT</pubDate>
+            <pubDate>Wed, 13 Oct 2021 14:54:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[快乐的时刻]]></title>
             <link>https://luzhaoyang.com/other/happy-moments.html</link>
             <guid>https://luzhaoyang.com/other/happy-moments.html</guid>
-            <pubDate>Tue, 21 Sep 2021 14:18:23 GMT</pubDate>
+            <pubDate>Wed, 13 Oct 2021 14:54:54 GMT</pubDate>
             <enclosure url="https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg">
             </enclosure>
         </item>
@@ -26,7 +26,7 @@
             <title><![CDATA[My First Post]]></title>
             <link>https://luzhaoyang.com/posts/my-first-post.html</link>
             <guid>https://luzhaoyang.com/posts/my-first-post.html</guid>
-            <pubDate>Tue, 21 Sep 2021 14:18:23 GMT</pubDate>
+            <pubDate>Wed, 13 Oct 2021 14:54:54 GMT</pubDate>
             <description><![CDATA[Meta description, one of the three TDK tags on the original page, is also a page optimization element that SEO staff need to focus on optimization.]]></description>
             <enclosure url="https://luzhaoyang.com/images/posts-base/2018/8/my-first-post.png">
             </enclosure>
@@ -35,7 +35,7 @@
             <title><![CDATA[2020爱普生国际全景摄影奖获奖作品揭晓]]></title>
             <link>https://luzhaoyang.com/zh/other/2020ai-pu-sheng-guo-ji-quan-jing-she-ying-jiang-huo-jiang-zuo-pin-jie-xiao.html</link>
             <guid>https://luzhaoyang.com/zh/other/2020ai-pu-sheng-guo-ji-quan-jing-she-ying-jiang-huo-jiang-zuo-pin-jie-xiao.html</guid>
-            <pubDate>Tue, 21 Sep 2021 14:18:23 GMT</pubDate>
+            <pubDate>Wed, 13 Oct 2021 14:54:54 GMT</pubDate>
             <description><![CDATA[一年一度的爱普生国际全景摄影奖(The EPSON International Pano Awards)专注于全景摄影艺术，是世界上最引人注目的摄影比赛之一。今年的一系列精彩作品提供了极具创意的各种图像，从崇高的广袤风景到色彩斑斓的建筑构图等。]]></description>
             <enclosure url="https://luzhaoyang.com/@pub/images/posts-content/2020ai-pu-sheng-guo-ji-quan-jing-she-ying-jiang-huo-jiang-zuo-pin-jie-xiao/1.jpg">
             </enclosure>
@@ -44,30 +44,31 @@
             <title><![CDATA[终于有个窝了]]></title>
             <link>https://luzhaoyang.com/zh/other/finally-have-a-nest.html</link>
             <guid>https://luzhaoyang.com/zh/other/finally-have-a-nest.html</guid>
-            <pubDate>Tue, 21 Sep 2021 14:18:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[令人难以置信的无人机航拍作品赢得年度自然TTL摄影大奖]]></title>
-            <link>https://luzhaoyang.com/zh/other/ling-ren-nan-yi-zhi-xin-de-wu-ren-ji-hang-pai-zuo-pin-ying-de-nian-du-zi-ran-ttlshe-ying-da-jiang.html</link>
-            <guid>https://luzhaoyang.com/zh/other/ling-ren-nan-yi-zhi-xin-de-wu-ren-ji-hang-pai-zuo-pin-ying-de-nian-du-zi-ran-ttlshe-ying-da-jiang.html</guid>
-            <pubDate>Tue, 21 Sep 2021 14:18:23 GMT</pubDate>
-            <enclosure url="https://luzhaoyang.com/@pub/images/posts-content/ling-ren-nan-yi-zhi-xin-de-wu-ren-ji-hang-pai-zuo-pin-ying-de-nian-du-zi-ranttl-she-ying-da-jiang/1.jpg =840x">
-            </enclosure>
+            <pubDate>Wed, 13 Oct 2021 14:54:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[快乐的时刻]]></title>
             <link>https://luzhaoyang.com/zh/other/kuai-le-de-shi-ke.html</link>
             <guid>https://luzhaoyang.com/zh/other/kuai-le-de-shi-ke.html</guid>
-            <pubDate>Tue, 21 Sep 2021 14:18:23 GMT</pubDate>
+            <pubDate>Wed, 13 Oct 2021 14:54:54 GMT</pubDate>
             <enclosure url="https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[令人难以置信的无人机航拍作品赢得年度自然TTL摄影大奖]]></title>
+            <link>https://luzhaoyang.com/zh/other/ling-ren-nan-yi-zhi-xin-de-wu-ren-ji-hang-pai-zuo-pin-ying-de-nian-du-zi-ran-ttlshe-ying-da-jiang.html</link>
+            <guid>https://luzhaoyang.com/zh/other/ling-ren-nan-yi-zhi-xin-de-wu-ren-ji-hang-pai-zuo-pin-ying-de-nian-du-zi-ran-ttlshe-ying-da-jiang.html</guid>
+            <pubDate>Wed, 13 Oct 2021 14:54:54 GMT</pubDate>
+            <description><![CDATA[新的摄影比赛由 Nature TTL 举办，Nature TTL 是野生动物摄影师 Will Nichols 创建的一种新颖资源，旨在提供教育性教程和功能，以协助业余和专业自然摄影师。主办方还在获奖图像的旁边附上摄影师的访谈内容，以了解 Ledoux 等摄影师的创作过程，并为业余无人机摄影师提供了有关如何使用该技术处理野生生物的建议。]]></description>
+            <enclosure url="https://luzhaoyang.com/@pub/images/posts-content/ling-ren-nan-yi-zhi-xin-de-wu-ren-ji-hang-pai-zuo-pin-ying-de-nian-du-zi-ranttl-she-ying-da-jiang/1.jpg =840x">
             </enclosure>
         </item>
         <item>
             <title><![CDATA[10 个你可能还不知道 VS Code 使用技巧]]></title>
             <link>https://luzhaoyang.com/zh/posts/10-ge-ni-ke-neng-huan-bu-zhi-dao-vs-code-shi-yong-ji-qiao.html</link>
             <guid>https://luzhaoyang.com/zh/posts/10-ge-ni-ke-neng-huan-bu-zhi-dao-vs-code-shi-yong-ji-qiao.html</guid>
-            <pubDate>Tue, 21 Sep 2021 14:18:23 GMT</pubDate>
-            <description><![CDATA[经常帮一些同学 One-on-One 地解决问题，在看部分同学使用 VS Code 的时候，有些蹩脚，实际上一些有用的技巧能够提高我们的日常工作效率。]]></description>
+            <pubDate>Wed, 13 Oct 2021 14:54:54 GMT</pubDate>
+            <description><![CDATA[移动到新的文件：将指定的函数移动到新的文件，VS Code 将自动命名并创建文件，且在当前文件内引入新的文件。]]></description>
             <enclosure url="https://luzhaoyang.com/@pub/images/posts-content/10-ge-ni-ke-neng-huan-bu-zhi-dao-vs-code-shi-yong-ji-qiao/0.png">
             </enclosure>
         </item>
@@ -75,38 +76,53 @@
             <title><![CDATA[10分钟入门WebAssembly]]></title>
             <link>https://luzhaoyang.com/zh/posts/10fen-zhong-ru-men-webassembly.html</link>
             <guid>https://luzhaoyang.com/zh/posts/10fen-zhong-ru-men-webassembly.html</guid>
-            <pubDate>Tue, 21 Sep 2021 14:18:23 GMT</pubDate>
+            <pubDate>Wed, 13 Oct 2021 14:54:54 GMT</pubDate>
             <description><![CDATA[`]]></description>
             <enclosure url="https://luzhaoyang.com/@pub/images/posts-content/10fen-zhong-ru-men-webassembly/1.png">
-            </enclosure>
-        </item>
-        <item>
-            <title><![CDATA[12 种使用 Vue 的最佳做法]]></title>
-            <link>https://luzhaoyang.com/zh/posts/12-zhong-shi-yong-vue-de-zui-jia-zuo-fa.html</link>
-            <guid>https://luzhaoyang.com/zh/posts/12-zhong-shi-yong-vue-de-zui-jia-zuo-fa.html</guid>
-            <pubDate>Tue, 21 Sep 2021 14:18:23 GMT</pubDate>
-            <description><![CDATA[最佳做法只是遵循每种语言的约定。 在 JS 中，驼峰式声明是标准，在 HTML 中，是短横线命名。 因此，我们相应地使用它们。
-幸运的是，Vue 已经提供了驼峰式声明和短横线命名之间转换，因此除了实际声明它们之外，我们不必担心任何事情。]]></description>
-            <enclosure url="https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg">
             </enclosure>
         </item>
         <item>
             <title><![CDATA[12 个提高JavaScript编码效率的 NPM 技巧]]></title>
             <link>https://luzhaoyang.com/zh/posts/12-ge-ti-gao-javascriptbian-ma-xiao-lu-de-npm-ji-qiao.html</link>
             <guid>https://luzhaoyang.com/zh/posts/12-ge-ti-gao-javascriptbian-ma-xiao-lu-de-npm-ji-qiao.html</guid>
-            <pubDate>Tue, 21 Sep 2021 14:18:23 GMT</pubDate>
-            <description><![CDATA["license": "ISC"
+            <pubDate>Wed, 13 Oct 2021 14:54:54 GMT</pubDate>
+            <description><![CDATA["test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ankit Jain ",
+  "license": "ISC"
 }
 `]]></description>
             <enclosure url="https://luzhaoyang.com/@pub/images/posts-content/12-ge-ti-gaojavascript-bian-ma-xiao-lu-de-npm-ji-qiao/0.webp">
             </enclosure>
         </item>
         <item>
+            <title><![CDATA[12 种使用 Vue 的最佳做法]]></title>
+            <link>https://luzhaoyang.com/zh/posts/12-zhong-shi-yong-vue-de-zui-jia-zuo-fa.html</link>
+            <guid>https://luzhaoyang.com/zh/posts/12-zhong-shi-yong-vue-de-zui-jia-zuo-fa.html</guid>
+            <pubDate>Wed, 13 Oct 2021 14:54:54 GMT</pubDate>
+            <description><![CDATA[props: { 'title-text': String }]]></description>
+            <enclosure url="https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg">
+            </enclosure>
+        </item>
+        <item>
             <title><![CDATA[14个 JavaScript 代码优化技巧]]></title>
             <link>https://luzhaoyang.com/zh/posts/14ge-javascript-dai-ma-you-hua-ji-qiao.html</link>
             <guid>https://luzhaoyang.com/zh/posts/14ge-javascript-dai-ma-you-hua-ji-qiao.html</guid>
-            <pubDate>Tue, 21 Sep 2021 14:18:23 GMT</pubDate>
+            <pubDate>Wed, 13 Oct 2021 14:54:54 GMT</pubDate>
             <description><![CDATA[作为一种高级语言，JS 会负责一些底层管理工作，例如内存管理。垃圾回收是大多数编程语言共有的过程。用外行术语来说，垃圾收集就是收集并释放已分配给对象，但目前尚未在程序的任何部分中使用的内存。在 C 这样的编程语言中，开发人员必须使用 malloc() 和 dealloc() 函数来处理内存分配和释放操作。]]></description>
+            <enclosure url="https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[15 优雅的 JavaScript 个技巧]]></title>
+            <link>https://luzhaoyang.com/zh/posts/15-you-ya-de-javascript-ge-ji-qiao.html</link>
+            <guid>https://luzhaoyang.com/zh/posts/15-you-ya-de-javascript-ge-ji-qiao.html</guid>
+            <pubDate>Wed, 13 Oct 2021 14:54:54 GMT</pubDate>
+            <description><![CDATA[const person = { id: 1, name: '前端小智' };
+const { name: personName } = person;
+console.log(personName); // '前端小智'
+`]]></description>
             <enclosure url="https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg">
             </enclosure>
         </item>
@@ -114,8 +130,13 @@
             <title><![CDATA[15个必须知道的JavaScript数组方法]]></title>
             <link>https://luzhaoyang.com/zh/posts/15ge-bi-xu-zhi-dao-de-javascriptshu-zu-fang-fa.html</link>
             <guid>https://luzhaoyang.com/zh/posts/15ge-bi-xu-zhi-dao-de-javascriptshu-zu-fang-fa.html</guid>
-            <pubDate>Tue, 21 Sep 2021 14:18:23 GMT</pubDate>
-            <description><![CDATA[`]]></description>
+            <pubDate>Wed, 13 Oct 2021 14:54:54 GMT</pubDate>
+            <description><![CDATA[myAwesomeArray.every((test) => test === 'd');
+// -------> Output : falseconst
+myAwesomeArray2 = ['a', 'a', 'a', 'a', 'a'];
+myAwesomeArray2.every((test) => test === 'a');
+//-------> Output : true
+`]]></description>
             <enclosure url="https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg">
             </enclosure>
         </item>
@@ -123,8 +144,9 @@
             <title><![CDATA[16个工程必备的JavaScript代码片段（下）]]></title>
             <link>https://luzhaoyang.com/zh/posts/16ge-gong-cheng-bi-bei-de-javascriptdai-ma-pian-duan-xia-.html</link>
             <guid>https://luzhaoyang.com/zh/posts/16ge-gong-cheng-bi-bei-de-javascriptdai-ma-pian-duan-xia-.html</guid>
-            <pubDate>Tue, 21 Sep 2021 14:18:23 GMT</pubDate>
-            <description><![CDATA[};
+            <pubDate>Wed, 13 Oct 2021 14:54:54 GMT</pubDate>
+            <description><![CDATA[return result;
+}
 `]]></description>
             <enclosure url="https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg">
             </enclosure>
@@ -133,16 +155,19 @@
             <title><![CDATA[16个工程必备的JavaScript代码片段（上）]]></title>
             <link>https://luzhaoyang.com/zh/posts/16ge-gong-cheng-bi-bei-de-javascriptdai-ma-pian-duan-shang-.html</link>
             <guid>https://luzhaoyang.com/zh/posts/16ge-gong-cheng-bi-bei-de-javascriptdai-ma-pian-duan-shang-.html</guid>
-            <pubDate>Tue, 21 Sep 2021 14:18:23 GMT</pubDate>
-            <description><![CDATA[}
-  let eleLink = document.createElement('a');
-  eleLink.download = name;
-  eleLink.style.display = 'none';
-  eleLink.href = link;
-  document.body.appendChild(eleLink);
-  eleLink.click();
-  document.body.removeChild(eleLink);
-}
+            <pubDate>Wed, 13 Oct 2021 14:54:54 GMT</pubDate>
+            <description><![CDATA[`]]></description>
+            <enclosure url="https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[18 个常用的 JavaScript 单行代码]]></title>
+            <link>https://luzhaoyang.com/zh/posts/18-ge-chang-yong-de-javascript-dan-xing-dai-ma.html</link>
+            <guid>https://luzhaoyang.com/zh/posts/18-ge-chang-yong-de-javascript-dan-xing-dai-ma.html</guid>
+            <pubDate>Wed, 13 Oct 2021 14:54:54 GMT</pubDate>
+            <description><![CDATA[const removeDuplicates = (arr) => [...new Set(arr)];
+console.log(removeDuplicates([1, 2, 3, 3, 4, 4, 5, 5, 6]));
+// Result: [ 1, 2, 3, 4, 5, 6 ]
 `]]></description>
             <enclosure url="https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg">
             </enclosure>
@@ -151,8 +176,8 @@
             <title><![CDATA[2019年，是否可以抛弃CSS预处理器？]]></title>
             <link>https://luzhaoyang.com/zh/posts/2019nian-shi-fou-ke-yi-pao-qi-cssyu-chu-li-qi-.html</link>
             <guid>https://luzhaoyang.com/zh/posts/2019nian-shi-fou-ke-yi-pao-qi-cssyu-chu-li-qi-.html</guid>
-            <pubDate>Tue, 21 Sep 2021 14:18:23 GMT</pubDate>
-            <description><![CDATA[不过，在随后仅短短 10 年后，CSS 就被一个现代的 Web 社区全面采用，这期间的发生了一系列有趣的故事，有兴趣的可以看一下 A Look Back at the History of CSS。]]></description>
+            <pubDate>Wed, 13 Oct 2021 14:54:54 GMT</pubDate>
+            <description><![CDATA[CSS2 在 1998 年 5 月 由 W3C 发布，CSS2 规范是基于 CSS1 设计的，扩充和改进了很多更加强大的属性。包括选择器、位置模型、布局、表格样式、媒体类型、伪类、光标样式。]]></description>
             <enclosure url="https://luzhaoyang.com/@pub/images/posts-content/2019-nian-shi-fou-ke-yi-pao-qicss-yu-chu-li-qi-/640-2.webp">
             </enclosure>
         </item>
@@ -160,11 +185,8 @@
             <title><![CDATA[2021年，Flutter 与 React Native该如何选择？]]></title>
             <link>https://luzhaoyang.com/zh/posts/2021nian-flutter-yu-react-nativegai-ru-he-xuan-ze-.html</link>
             <guid>https://luzhaoyang.com/zh/posts/2021nian-flutter-yu-react-nativegai-ru-he-xuan-ze-.html</guid>
-            <pubDate>Tue, 21 Sep 2021 14:18:23 GMT</pubDate>
-            <description><![CDATA[ReactXp——Skype 开发的一个应用，支持 Android、iOS、互联网和 Windows 10（UWP）。
-微软团队为所有 Windows 10 用户（PC、平板电脑、二合一、Xbox、混合现实设备等）创建了 React-native-windows。
-React Native 程序员对事物的看法和采取的行动与大多数人是不同的。
-你可以假设 Web 桌面应用、移动 Web 应用和原生应用都具有相同的业务逻辑，但是它们需要不同的 UI 才能满足不同的用户需求。]]></description>
+            <pubDate>Wed, 13 Oct 2021 14:54:54 GMT</pubDate>
+            <description><![CDATA[React Native 使用的是 JavaScript 这种常用的编程语言，而 Dart 尚不为人所知。如果你是喜欢统计数据的开发人员，也可以使用 TypeScript（一个 JavaScript 的超集）。]]></description>
             <enclosure url="https://luzhaoyang.com/@pub/images/posts-content/2021nian-flutter-yu-react-nativegai-ru-he-xuan-ze-/1.jpg">
             </enclosure>
         </item>
@@ -172,12 +194,8 @@ React Native 程序员对事物的看法和采取的行动与大多数人是不�
             <title><![CDATA[8个有用的JavaScript技巧]]></title>
             <link>https://luzhaoyang.com/zh/posts/8ge-you-yong-de-javascriptji-qiao.html</link>
             <guid>https://luzhaoyang.com/zh/posts/8ge-you-yong-de-javascriptji-qiao.html</guid>
-            <pubDate>Tue, 21 Sep 2021 14:18:23 GMT</pubDate>
-            <description><![CDATA[const cities = [
-    { name: 'Paris', visited: 'no' },
-    { name: 'Lyon', visited: 'no' },
-    { name: 'Marseille', visited: 'yes' },
-    { name: 'Rome', visited: 'yes' },
+            <pubDate>Wed, 13 Oct 2021 14:54:54 GMT</pubDate>
+            <description><![CDATA[{ name: 'Rome', visited: 'yes' },
     { name: 'Milan', visited: 'no' },
     { name: 'Palermo', visited: 'yes' },
     { name: 'Genoa', visited: 'yes' },
@@ -205,21 +223,6 @@ Paris: "no"
 Rome: "yes"
 */
 `]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Array原型方法源码实现大解密]]></title>
-            <link>https://luzhaoyang.com/zh/posts/arrayyuan-xing-fang-fa-yuan-ma-shi-xian-da-jie-mi.html</link>
-            <guid>https://luzhaoyang.com/zh/posts/arrayyuan-xing-fang-fa-yuan-ma-shi-xian-da-jie-mi.html</guid>
-            <pubDate>Tue, 21 Sep 2021 14:18:23 GMT</pubDate>
-            <description><![CDATA[简单看下面几个例子，在callbackfn中不要改变原数组，不然会有意想不到的情况发生。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[CSS 命名规范 - BEM]]></title>
-            <link>https://luzhaoyang.com/zh/posts/css-ming-ming-gui-fan---bem.html</link>
-            <guid>https://luzhaoyang.com/zh/posts/css-ming-ming-gui-fan---bem.html</guid>
-            <pubDate>Tue, 21 Sep 2021 14:18:23 GMT</pubDate>
-            <enclosure url="https://luzhaoyang.com/@pub/images/posts-content/css-ming-ming-gui-fan---bem/1.jpg">
-            </enclosure>
         </item>
     </channel>
 </rss>
