@@ -1018,6 +1018,10 @@ self.__precacheManifest = [
     "revision": "67e3928e342ad16dcc9eb88e8a3f689e"
   },
   {
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/685a.jpg",
+    "revision": "685af6ebf92f061eb19dca63a6b156f8"
+  },
+  {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/6864.jpg",
     "revision": "6864a5a2556c20049202964ae614174e"
   },
@@ -1542,131 +1546,131 @@ self.__precacheManifest = [
     "revision": "af7302689b03adf2b40db51f4cbd34fb"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/0.styles.b3df1c7f.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/0.styles.0f6aff31.css",
     "revision": "1f88b78e2b6073ceb6140a176d654d88"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/1.styles.bf4ee1cd.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/1.styles.091fb99c.css",
     "revision": "3e038ec67d40ad35b4306f953c5b68bb"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/13.styles.f2e63d61.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/13.styles.52777849.css",
     "revision": "96cf0bfa80d2c1312888189b7cf80435"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/14.styles.d5576fdb.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/14.styles.1039a109.css",
     "revision": "6a60efb29c1ba2afd7cda5c8beb75137"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/15.styles.18b9382e.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/15.styles.9918cc08.css",
     "revision": "bf2b5d8f759255025f779664a03e26e9"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/16.styles.b9d6ff48.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/16.styles.f517fb81.css",
     "revision": "0271ffe986e34b0d8dc3c9ce4b5af31e"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/17.styles.dda6cf71.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/17.styles.d6aee28c.css",
     "revision": "ea66d298ade686cc900755bde519c637"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/18.styles.0d2e9a92.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/18.styles.0c4ac4ab.css",
     "revision": "86e463286683c49c2c08b770630cb28c"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/2.styles.c581ebe8.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/2.styles.906f4132.css",
     "revision": "7ad59edd57f5fe5313d735b3b2560e3f"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/21.styles.79912a9f.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/21.styles.490c7d0d.css",
     "revision": "d41d8cd98f00b204e9800998ecf8427e"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/22.styles.25c66615.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/22.styles.68c517ef.css",
     "revision": "99d163ec4da3ac325061f24a08f53abc"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/23.styles.d6a2a724.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/23.styles.02cfb30c.css",
     "revision": "66966f5a94d28a9f757aafc718fb67d6"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/24.styles.c8942a38.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/24.styles.d8e314f4.css",
     "revision": "bcf9eca32341b75323122b762fa9abb3"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/25.styles.473fbc0a.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/25.styles.a3aacb36.css",
     "revision": "3a816a4af8fb0b8ceeb61e47eaadd446"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/26.styles.4481f136.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/26.styles.6fd404c6.css",
     "revision": "62d73c7f95b2cb4ab2de48175ee3393b"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/27.styles.8cb2b5ee.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/27.styles.1e4668d2.css",
     "revision": "ef5ad4490dffcdfee5cbf9869146a5ac"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/28.styles.efb67362.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/28.styles.9578ef6a.css",
     "revision": "665eddf34bff48bdaf5e911f0482955f"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/29.styles.c7fac18e.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/29.styles.77f0540c.css",
     "revision": "e08cfead16fd0be21c7a9b7561329178"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/30.styles.d36c49d6.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/30.styles.19afe76c.css",
     "revision": "ee0b8df651aef52db64f5fbb36c8ebb1"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/31.styles.5e59233a.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/31.styles.fae1a26d.css",
     "revision": "2f64960dbe89b3d728c1f841cf7f37ca"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/32.styles.a87835b4.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/32.styles.444992df.css",
     "revision": "c6e5b912d7575ee2d2b379528b4d6e00"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/33.styles.30b989d0.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/33.styles.b16c6af5.css",
     "revision": "ee2570984dc2e39c3c25cb9fb0413359"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/34.styles.b725c5ba.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/34.styles.d2837903.css",
     "revision": "49e661aaf914fb980b2340d6375df3ba"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/35.styles.b1e84222.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/35.styles.daac48e2.css",
     "revision": "b856b4b3d5151f58db3290cfe137b8df"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/36.styles.91dbcac0.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/36.styles.f493260b.css",
     "revision": "d9dfd37f06d8f435dee028aabf1dbc48"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/37.styles.ea3dd70d.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/37.styles.2740f768.css",
     "revision": "41856c4745dee9bec4a5fdedff62c832"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/4.styles.24c3b347.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/4.styles.b2c7ddce.css",
     "revision": "bd33d9448b225cff24ecb4995c9cb6bf"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/5.styles.1cbd6fcd.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/5.styles.c338963f.css",
     "revision": "876b8d6019efbff1f13093dc39bf67d8"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/6.styles.fe520405.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/6.styles.2f8a1ae2.css",
     "revision": "0b2ae54c704619583566dca98da1702a"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/7.styles.8ae576a8.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/7.styles.8a5fb2bf.css",
     "revision": "95d6166296fdc068a3595d724c30d1f0"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/8.styles.981e5d56.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/8.styles.9003636d.css",
     "revision": "e5993078e223b8b0317bf1e538260a5b"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/styles.9cd20a26.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/styles.e0af6873.css",
     "revision": "96ae9fc671b5cdc7cc66ea7949445bc0"
   },
   {
@@ -3198,8 +3202,16 @@ self.__precacheManifest = [
     "revision": "c2b6e611d555514444bc78b53de4c706"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/play/4.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/play/Guido Negraszus - Sunset Avenue.jpg",
+    "revision": "685af6ebf92f061eb19dca63a6b156f8"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/play/Lights & Motion - Togetherness.jpg",
     "revision": "32f531ba33bcadd006f0aa75abec78e6"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/play/Tony Anderson - Breakthrough.jpg",
+    "revision": "7d63095f1cd686766bcdde983cf87171"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/social/image-social-share-en.png",
