@@ -1970,7 +1970,7 @@ self.__precacheManifest = [
     "revision": "62d73c7f95b2cb4ab2de48175ee3393b"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/27.styles.6b0308a7.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/27.styles.bc759e43.css",
     "revision": "ef5ad4490dffcdfee5cbf9869146a5ac"
   },
   {
@@ -2034,7 +2034,7 @@ self.__precacheManifest = [
     "revision": "e5993078e223b8b0317bf1e538260a5b"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/styles.b1815dd8.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/styles.a728480b.css",
     "revision": "bf7fd9aa42f994a849099f5424d6d174"
   },
   {
@@ -3779,7 +3779,7 @@ self.__precacheManifest = [
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/music/beethoven_andiefernegeliebte.html",
-    "revision": "f241ae58f221de1e9ec3d6ae42e12455"
+    "revision": "2786110f37893b500907537e41e5371a"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/music/ding.mp3",
@@ -3791,23 +3791,23 @@ self.__precacheManifest = [
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/music/happy-moments.html",
-    "revision": "c08cbe27eb4929209d2578198a32d6f8"
+    "revision": "688f52d6f73da27110f39d05be1dfc25"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/music/index.html",
-    "revision": "30144cc6d606ad44e1f4530f81a99916"
+    "revision": "aa72ee0e681758759c7f4e41ba08b411"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/music/josephhaydn_concertantecello.html",
-    "revision": "6d9620fd6d476999b06535dbcc8318c1"
+    "revision": "53f9ca12994c1f2e025e8a455303081f"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/music/josephhaydn_concertantecello2.html",
-    "revision": "b1c11584a2ec4d1e045f7eb38fe325aa"
+    "revision": "322187cd13cf32f868b14b690084ba80"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/music/osmd_function_test_all.html",
-    "revision": "aaaa52847d2ee41140d0f27cbbbffd78"
+    "revision": "da5f50fc06bcbaeca68cb2072cd2f071"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/locales/en/manifest.json",
