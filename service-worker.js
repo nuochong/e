@@ -1934,7 +1934,7 @@ self.__precacheManifest = [
     "revision": "ea66d298ade686cc900755bde519c637"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/17.styles.dc902aff.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/17.styles.11db928c.css",
     "revision": "86e463286683c49c2c08b770630cb28c"
   },
   {
@@ -1950,19 +1950,19 @@ self.__precacheManifest = [
     "revision": "99d163ec4da3ac325061f24a08f53abc"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/22.styles.dacb1f4f.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/22.styles.fb5c1bdd.css",
     "revision": "66966f5a94d28a9f757aafc718fb67d6"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/23.styles.0bbd3dd5.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/23.styles.3e0e1c88.css",
     "revision": "cc75bd87358482f6d955ef523fe6027f"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/24.styles.50acabf1.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/24.styles.aa8606a5.css",
     "revision": "bcf9eca32341b75323122b762fa9abb3"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/25.styles.f85a7184.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/25.styles.e0e554c0.css",
     "revision": "56c950ed0e00c32a90f31a04c980fc48"
   },
   {
@@ -1970,7 +1970,7 @@ self.__precacheManifest = [
     "revision": "62d73c7f95b2cb4ab2de48175ee3393b"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/27.styles.bc759e43.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/27.styles.6b0308a7.css",
     "revision": "ef5ad4490dffcdfee5cbf9869146a5ac"
   },
   {
@@ -2034,7 +2034,7 @@ self.__precacheManifest = [
     "revision": "e5993078e223b8b0317bf1e538260a5b"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/styles.ca079f29.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/styles.e1fb50a6.css",
     "revision": "bf7fd9aa42f994a849099f5424d6d174"
   },
   {
@@ -2256,10 +2256,6 @@ self.__precacheManifest = [
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/bef7.jpg",
     "revision": "bef797a48201143b6a84b2207d8527d4"
-  },
-  {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/browserconfig.xml",
-    "revision": "082fcff265b9a8a287d19558c7c64a84"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/c075.jpg",
@@ -3678,44 +3674,12 @@ self.__precacheManifest = [
     "revision": "4240e98a8008dee7317a4a5020f6437a"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/music-score/Beethoven_AnDieFerneGeliebte.xml",
-    "revision": "b326fef274110e5a0700bc02cd58a83b"
-  },
-  {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/music-score/Happy_Moments.musicxml",
-    "revision": "e63b3c0b8449f24397148b74e7775e78"
-  },
-  {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/music-score/Happy_Moments.xml",
-    "revision": "6b896a145b742a5f800d901e23a70f79"
-  },
-  {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/music-score/Happy_Moments/Happy_Moments.xml",
-    "revision": "b5b88a0636c3006069bb602aa51bbcae"
-  },
-  {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/music-score/img/header1.jpg",
     "revision": "5cfdef69e771aea441d2a6d85223110c"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/music-score/img/header2.jpg",
     "revision": "949c914cbc2d08465fe5a9e74c3697de"
-  },
-  {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/music-score/JosephHaydn_ConcertanteCello.xml",
-    "revision": "cd37a0acd41dbe646565704e5ea85a94"
-  },
-  {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/music-score/JosephHaydn_ConcertanteCello2.xml",
-    "revision": "c4399b133f51343615857a386fbdb882"
-  },
-  {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/music-score/OSMD_function_test_all.xml",
-    "revision": "ebb805b76e6f50d287b216644ab18a23"
-  },
-  {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/music-score/快乐的时刻.xml",
-    "revision": "606d35e13ebbddbb24dbaf662d107b55"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/photograph/banner-1xx.jpg",
@@ -3786,20 +3750,12 @@ self.__precacheManifest = [
     "revision": "7d63095f1cd686766bcdde983cf87171"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/rss.xml",
-    "revision": "faaf0ec3be0fac16a3e15959eed8486a"
-  },
-  {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/screenshots/screenshot-en.webp",
     "revision": "c7ec438a888feba09ab98becfe4e8c35"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/screenshots/screenshot-zh.webp",
     "revision": "a7979b2c60e3f56ad723580435efbb73"
-  },
-  {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/sitemap.xml",
-    "revision": "4fa6059adfa8732f5b4200ae3f61e9f6"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/social/image-social-share-en.png",
@@ -3823,7 +3779,7 @@ self.__precacheManifest = [
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/music/beethoven_andiefernegeliebte.html",
-    "revision": "b811571882a92467d75dc0d9f6449834"
+    "revision": "91d5f3542e25f5655b807fb31aee3334"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/music/ding.mp3",
@@ -3835,23 +3791,23 @@ self.__precacheManifest = [
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/music/happy-moments.html",
-    "revision": "d5f05d3d21879c9888e2f3918d04c6bb"
+    "revision": "c4c642004ee338dff72f1118fba4b685"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/music/index.html",
-    "revision": "b8784380a61ae29221ddd104a6546eac"
+    "revision": "5b63bfd12bb4137c015626494d8749ee"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/music/josephhaydn_concertantecello.html",
-    "revision": "5cc6bba979dc442bed1898b29e1f03cf"
+    "revision": "be02f7abb392e6085180054a54379c97"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/music/josephhaydn_concertantecello2.html",
-    "revision": "6b6cb1f3af3c35e35442e02610682b8f"
+    "revision": "7c1fa38651f1c786e94dfe40e5fa2374"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/music/osmd_function_test_all.html",
-    "revision": "e04589b1422372c9b3da55d3bf8db63e"
+    "revision": "039efee158ddafcf89f797b77dfe5771"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/locales/en/manifest.json",
@@ -3864,6 +3820,34 @@ self.__precacheManifest = [
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/locales/zh/manifest.json",
     "revision": "994d9b7a37bc976416ff87e9e6f198a8"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/music-score/Beethoven_AnDieFerneGeliebte.xml",
+    "revision": "b326fef274110e5a0700bc02cd58a83b"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/music-score/Happy_Moments.musicxml",
+    "revision": "e63b3c0b8449f24397148b74e7775e78"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/music-score/Happy_Moments.xml",
+    "revision": "6b896a145b742a5f800d901e23a70f79"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/music-score/JosephHaydn_ConcertanteCello.xml",
+    "revision": "cd37a0acd41dbe646565704e5ea85a94"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/music-score/JosephHaydn_ConcertanteCello2.xml",
+    "revision": "c4399b133f51343615857a386fbdb882"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/music-score/OSMD_function_test_all.xml",
+    "revision": "ebb805b76e6f50d287b216644ab18a23"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/music-score/快乐的时刻.xml",
+    "revision": "606d35e13ebbddbb24dbaf662d107b55"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});

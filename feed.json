@@ -8,7 +8,7 @@
             "id": "https://luzhaoyang.com/other/finally-have-a-nest.html",
             "url": "https://luzhaoyang.com/other/finally-have-a-nest.html",
             "title": "Finally Have A Nest",
-            "date_modified": "2022-08-17T02:36:35.461Z"
+            "date_modified": "2022-08-17T03:21:18.656Z"
         },
         {
             "id": "https://luzhaoyang.com/posts/my-first-post.html",
@@ -16,147 +16,147 @@
             "title": "My First Post",
             "summary": "Meta description, one of the three TDK tags on the original page, is also a page optimization element that SEO staff need to focus on optimization.",
             "image": "https://luzhaoyang.com/images/posts-base/2018/8/my-first-post.png",
-            "date_modified": "2022-08-17T02:36:35.463Z"
+            "date_modified": "2022-08-17T03:21:18.660Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/other/2020ai-pu-sheng-guo-ji-quan-jing-she-ying-jiang-huo-jiang-zuo-pin-jie-xiao.html",
             "url": "https://luzhaoyang.com/zh/other/2020ai-pu-sheng-guo-ji-quan-jing-she-ying-jiang-huo-jiang-zuo-pin-jie-xiao.html",
             "title": "2020爱普生国际全景摄影奖获奖作品揭晓",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/2020ai-pu-sheng-guo-ji-quan-jing-she-ying-jiang-huo-jiang-zuo-pin-jie-xiao/1.jpg",
-            "date_modified": "2022-08-17T02:36:35.465Z"
-        },
-        {
-            "id": "https://luzhaoyang.com/zh/other/ling-ren-nan-yi-zhi-xin-de-wu-ren-ji-hang-pai-zuo-pin-ying-de-nian-du-zi-ran-ttlshe-ying-da-jiang.html",
-            "url": "https://luzhaoyang.com/zh/other/ling-ren-nan-yi-zhi-xin-de-wu-ren-ji-hang-pai-zuo-pin-ying-de-nian-du-zi-ran-ttlshe-ying-da-jiang.html",
-            "title": "令人难以置信的无人机航拍作品赢得年度自然TTL摄影大奖",
-            "summary": "新的摄影比赛由 Nature TTL 举办，Nature TTL 是野生动物摄影师 Will Nichols 创建的一种新颖资源，旨在提供教育性教程和功能，以协助业余和专业自然摄影师。主办方还在获奖图像的旁边附上摄影师的访谈内容，以了解 Ledoux 等摄影师的创作过程，并为业余无人机摄影师提供了有关如何使用该技术处理野生生物的建议。",
-            "image": "https://luzhaoyang.com/@pub/images/posts-content/ling-ren-nan-yi-zhi-xin-de-wu-ren-ji-hang-pai-zuo-pin-ying-de-nian-du-zi-ranttl-she-ying-da-jiang/1.jpg =840x",
-            "date_modified": "2022-08-17T02:36:35.465Z"
+            "date_modified": "2022-08-17T03:21:18.661Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/other/finally-have-a-nest.html",
             "url": "https://luzhaoyang.com/zh/other/finally-have-a-nest.html",
             "title": "终于有个窝了",
-            "date_modified": "2022-08-17T02:36:35.466Z"
+            "date_modified": "2022-08-17T03:21:18.661Z"
+        },
+        {
+            "id": "https://luzhaoyang.com/zh/other/ling-ren-nan-yi-zhi-xin-de-wu-ren-ji-hang-pai-zuo-pin-ying-de-nian-du-zi-ran-ttlshe-ying-da-jiang.html",
+            "url": "https://luzhaoyang.com/zh/other/ling-ren-nan-yi-zhi-xin-de-wu-ren-ji-hang-pai-zuo-pin-ying-de-nian-du-zi-ran-ttlshe-ying-da-jiang.html",
+            "title": "令人难以置信的无人机航拍作品赢得年度自然TTL摄影大奖",
+            "image": "https://luzhaoyang.com/@pub/images/posts-content/ling-ren-nan-yi-zhi-xin-de-wu-ren-ji-hang-pai-zuo-pin-ying-de-nian-du-zi-ranttl-she-ying-da-jiang/1.jpg =840x",
+            "date_modified": "2022-08-17T03:21:18.661Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/10-ge-ni-ke-neng-huan-bu-zhi-dao-vs-code-shi-yong-ji-qiao.html",
             "url": "https://luzhaoyang.com/zh/posts/10-ge-ni-ke-neng-huan-bu-zhi-dao-vs-code-shi-yong-ji-qiao.html",
             "title": "10 个你可能还不知道 VS Code 使用技巧",
+            "summary": "经常帮一些同学 One-on-One 地解决问题，在看部分同学使用 VS Code 的时候，有些蹩脚，实际上一些有用的技巧能够提高我们的日常工作效率。",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/10-ge-ni-ke-neng-huan-bu-zhi-dao-vs-code-shi-yong-ji-qiao/0.png",
-            "date_modified": "2022-08-17T02:36:35.466Z"
+            "date_modified": "2022-08-17T03:21:18.662Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/10ge-chang-yong-de-jsgong-ju-ku.html",
             "url": "https://luzhaoyang.com/zh/posts/10ge-chang-yong-de-jsgong-ju-ku.html",
             "title": "10个常用的JS工具库",
-            "summary": "一个极简的处理时间和日期的 JavaScript 库，和 Moment.js 的 API 设计保持一样, 但体积仅有 2KB。",
+            "summary": "`",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg",
-            "date_modified": "2022-08-17T02:36:35.466Z"
+            "date_modified": "2022-08-17T03:21:18.662Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/10fen-zhong-ru-men-webassembly.html",
             "url": "https://luzhaoyang.com/zh/posts/10fen-zhong-ru-men-webassembly.html",
             "title": "10分钟入门WebAssembly",
-            "summary": "官网定义：WebAssembly/wasm WebAssembly 或者 wasm 是一个可移植、体积小、加载快并且兼容 Web 的全新格式（二进制）。是由主流浏览器厂商组成的 W3C 社区团体 制定的一个新的规范。",
+            "summary": "`",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/10fen-zhong-ru-men-webassembly/1.png",
-            "date_modified": "2022-08-17T02:36:35.467Z"
+            "date_modified": "2022-08-17T03:21:18.662Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/12-ge-chang-yong-de-javascript-han-shu.html",
             "url": "https://luzhaoyang.com/zh/posts/12-ge-chang-yong-de-javascript-han-shu.html",
             "title": "12 个常用的 JavaScript 函数",
-            "summary": "console.log(generateRandomHexColor());\n`",
+            "summary": "const isDarkMode = () => window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/13/1.png",
-            "date_modified": "2022-08-17T02:36:35.467Z"
+            "date_modified": "2022-08-17T03:21:18.662Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/12-ge-ti-gao-javascriptbian-ma-xiao-lu-de-npm-ji-qiao.html",
             "url": "https://luzhaoyang.com/zh/posts/12-ge-ti-gao-javascriptbian-ma-xiao-lu-de-npm-ji-qiao.html",
             "title": "12 个提高JavaScript编码效率的 NPM 技巧",
-            "summary": "npm init -y\n`",
+            "summary": "}\n`",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/12-ge-ti-gaojavascript-bian-ma-xiao-lu-de-npm-ji-qiao/0.webp",
-            "date_modified": "2022-08-17T02:36:35.467Z"
+            "date_modified": "2022-08-17T03:21:18.663Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/12-zhong-shi-yong-vue-de-zui-jia-zuo-fa.html",
             "url": "https://luzhaoyang.com/zh/posts/12-zhong-shi-yong-vue-de-zui-jia-zuo-fa.html",
             "title": "12 种使用 Vue 的最佳做法",
-            "summary": "\n\n`",
+            "summary": "props: { 'title-text': String }",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg",
-            "date_modified": "2022-08-17T02:36:35.468Z"
+            "date_modified": "2022-08-17T03:21:18.663Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/14ge-javascript-dai-ma-you-hua-ji-qiao.html",
             "url": "https://luzhaoyang.com/zh/posts/14ge-javascript-dai-ma-you-hua-ji-qiao.html",
             "title": "14个 JavaScript 代码优化技巧",
-            "summary": "要不断问自己，某个功能或代码段是否是必要的。",
+            "summary": "作为一种高级语言，JS 会负责一些底层管理工作，例如内存管理。垃圾回收是大多数编程语言共有的过程。用外行术语来说，垃圾收集就是收集并释放已分配给对象，但目前尚未在程序的任何部分中使用的内存。在 C 这样的编程语言中，开发人员必须使用 malloc() 和 dealloc() 函数来处理内存分配和释放操作。",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg",
-            "date_modified": "2022-08-17T02:36:35.468Z"
+            "date_modified": "2022-08-17T03:21:18.663Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/15-you-ya-de-javascript-ge-ji-qiao.html",
             "url": "https://luzhaoyang.com/zh/posts/15-you-ya-de-javascript-ge-ji-qiao.html",
             "title": "15 优雅的 JavaScript 个技巧",
-            "summary": "可以使用 in 关键字来检查 JavaScript 对象中是否存在某个属性。",
+            "summary": "const person = { id: 1, name: '前端小智' };\nconst { name: personName } = person;\nconsole.log(personName); // '前端小智'\n`",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg",
-            "date_modified": "2022-08-17T02:36:35.468Z"
+            "date_modified": "2022-08-17T03:21:18.663Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/15ge-bi-xu-zhi-dao-de-javascriptshu-zu-fang-fa.html",
             "url": "https://luzhaoyang.com/zh/posts/15ge-bi-xu-zhi-dao-de-javascriptshu-zu-fang-fa.html",
             "title": "15个必须知道的JavaScript数组方法",
-            "summary": "`",
+            "summary": "myAwesomeArray.every((test) => test === 'd');\n// -------> Output : falseconst\nmyAwesomeArray2 = ['a', 'a', 'a', 'a', 'a'];\nmyAwesomeArray2.every((test) => test === 'a');\n//-------> Output : true\n`",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg",
-            "date_modified": "2022-08-17T02:36:35.468Z"
+            "date_modified": "2022-08-17T03:21:18.663Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/16ge-gong-cheng-bi-bei-de-javascriptdai-ma-pian-duan-shang-.html",
             "url": "https://luzhaoyang.com/zh/posts/16ge-gong-cheng-bi-bei-de-javascriptdai-ma-pian-duan-shang-.html",
             "title": "16个工程必备的JavaScript代码片段（上）",
-            "summary": "}\n  let eleLink = document.createElement('a');\n  eleLink.download = name;\n  eleLink.style.display = 'none';\n  eleLink.href = link;\n  document.body.appendChild(eleLink);\n  eleLink.click();\n  document.body.removeChild(eleLink);\n}\n`",
+            "summary": "`",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg",
-            "date_modified": "2022-08-17T02:36:35.468Z"
+            "date_modified": "2022-08-17T03:21:18.663Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/16ge-gong-cheng-bi-bei-de-javascriptdai-ma-pian-duan-xia-.html",
             "url": "https://luzhaoyang.com/zh/posts/16ge-gong-cheng-bi-bei-de-javascriptdai-ma-pian-duan-xia-.html",
             "title": "16个工程必备的JavaScript代码片段（下）",
-            "summary": "return result;\n}\n`",
+            "summary": "uuid();\n`",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg",
-            "date_modified": "2022-08-17T02:36:35.469Z"
+            "date_modified": "2022-08-17T03:21:18.663Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/18-ge-chang-yong-de-javascript-dan-xing-dai-ma.html",
             "url": "https://luzhaoyang.com/zh/posts/18-ge-chang-yong-de-javascript-dan-xing-dai-ma.html",
             "title": "18 个常用的 JavaScript 单行代码",
-            "summary": "const removeDuplicates = (arr) => [...new Set(arr)];\nconsole.log(removeDuplicates([1, 2, 3, 3, 4, 4, 5, 5, 6]));\n// Result: [ 1, 2, 3, 4, 5, 6 ]\n`",
+            "summary": "console.log(removeDuplicates([1, 2, 3, 3, 4, 4, 5, 5, 6]));\n// Result: [ 1, 2, 3, 4, 5, 6 ]\n`",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg",
-            "date_modified": "2022-08-17T02:36:35.469Z"
-        },
-        {
-            "id": "https://luzhaoyang.com/zh/posts/2019nian-shi-fou-ke-yi-pao-qi-cssyu-chu-li-qi-.html",
-            "url": "https://luzhaoyang.com/zh/posts/2019nian-shi-fou-ke-yi-pao-qi-cssyu-chu-li-qi-.html",
-            "title": "2019年，是否可以抛弃CSS预处理器？",
-            "summary": "CSS2 在 1998 年 5 月 由 W3C 发布，CSS2 规范是基于 CSS1 设计的，扩充和改进了很多更加强大的属性。包括选择器、位置模型、布局、表格样式、媒体类型、伪类、光标样式。",
-            "image": "https://luzhaoyang.com/@pub/images/posts-content/2019-nian-shi-fou-ke-yi-pao-qicss-yu-chu-li-qi-/640-2.webp",
-            "date_modified": "2022-08-17T02:36:35.469Z"
+            "date_modified": "2022-08-17T03:21:18.663Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/2021nian-flutter-yu-react-nativegai-ru-he-xuan-ze-.html",
             "url": "https://luzhaoyang.com/zh/posts/2021nian-flutter-yu-react-nativegai-ru-he-xuan-ze-.html",
             "title": "2021年，Flutter 与 React Native该如何选择？",
-            "summary": "React Native 使用的是 JavaScript 这种常用的编程语言，而 Dart 尚不为人所知。如果你是喜欢统计数据的开发人员，也可以使用 TypeScript（一个 JavaScript 的超集）。",
+            "summary": "React Native 程序员对事物的看法和采取的行动与大多数人是不同的。\n你可以假设 Web 桌面应用、移动 Web 应用和原生应用都具有相同的业务逻辑，但是它们需要不同的 UI 才能满足不同的用户需求。",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/2021nian-flutter-yu-react-nativegai-ru-he-xuan-ze-/1.jpg",
-            "date_modified": "2022-08-17T02:36:35.469Z"
+            "date_modified": "2022-08-17T03:21:18.664Z"
+        },
+        {
+            "id": "https://luzhaoyang.com/zh/posts/2019nian-shi-fou-ke-yi-pao-qi-cssyu-chu-li-qi-.html",
+            "url": "https://luzhaoyang.com/zh/posts/2019nian-shi-fou-ke-yi-pao-qi-cssyu-chu-li-qi-.html",
+            "title": "2019年，是否可以抛弃CSS预处理器？",
+            "summary": "Cascading Style Sheets Level 2 Revision 1，通常被称为“ CSS 2.1” ，修复了 CSS 2 中的错误，删除了支持不良或不能完全互操作的特性，并为规范增加了已经实现的浏览器扩展。为了遵守 W3C 标准化技术规范的过程，CSS 2.1 在 Working Draft (WD) 状态和 Candidate Recommendation (CP) 状态之间来回了很多年。",
+            "image": "https://luzhaoyang.com/@pub/images/posts-content/2019-nian-shi-fou-ke-yi-pao-qicss-yu-chu-li-qi-/640-2.webp",
+            "date_modified": "2022-08-17T03:21:18.664Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/45-ge-git-jing-dian-cao-zuo-chang-jing.html",
             "url": "https://luzhaoyang.com/zh/posts/45-ge-git-jing-dian-cao-zuo-chang-jing.html",
             "title": "45 个 Git 经典操作场景",
-            "summary": "hint: Updates were rejected because the tip of your current branch is behind\nhint: its remote counterpart. Integrate the remote changes (e.g.\nhint: 'git pull ...') before pushing again.\nhint: See the 'Note about fast-forwards' in 'git push --help' for details.\n`",
+            "summary": "hint: its remote counterpart. Integrate the remote changes (e.g.\nhint: 'git pull ...') before pushing again.\nhint: See the 'Note about fast-forwards' in 'git push --help' for details.\n`",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg",
-            "date_modified": "2022-08-17T02:36:35.469Z"
+            "date_modified": "2022-08-17T03:21:18.664Z"
         }
     ]
 }
