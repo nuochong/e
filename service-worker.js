@@ -1942,7 +1942,7 @@ self.__precacheManifest = [
     "revision": "ea66d298ade686cc900755bde519c637"
   },
   {
-    "url": "assets/css/17.styles.074e81e9.css",
+    "url": "assets/css/17.styles.975b8406.css",
     "revision": "86e463286683c49c2c08b770630cb28c"
   },
   {
@@ -1962,23 +1962,23 @@ self.__precacheManifest = [
     "revision": "66966f5a94d28a9f757aafc718fb67d6"
   },
   {
-    "url": "assets/css/23.styles.8ad38517.css",
+    "url": "assets/css/23.styles.a5cd073a.css",
     "revision": "cc75bd87358482f6d955ef523fe6027f"
   },
   {
-    "url": "assets/css/24.styles.52bdedba.css",
+    "url": "assets/css/24.styles.2d8de481.css",
     "revision": "bcf9eca32341b75323122b762fa9abb3"
   },
   {
-    "url": "assets/css/25.styles.edfc12b1.css",
+    "url": "assets/css/25.styles.014cc5d2.css",
     "revision": "3c23614bc905872078b0b08b778881b1"
   },
   {
-    "url": "assets/css/26.styles.149fb601.css",
+    "url": "assets/css/26.styles.4a0e0f55.css",
     "revision": "62d73c7f95b2cb4ab2de48175ee3393b"
   },
   {
-    "url": "assets/css/27.styles.70132b67.css",
+    "url": "assets/css/27.styles.88cd5db2.css",
     "revision": "ef5ad4490dffcdfee5cbf9869146a5ac"
   },
   {
@@ -2042,7 +2042,7 @@ self.__precacheManifest = [
     "revision": "e5993078e223b8b0317bf1e538260a5b"
   },
   {
-    "url": "assets/css/styles.87bf8276.css",
+    "url": "assets/css/styles.0787fb62.css",
     "revision": "6704e5f4fac5035e2835b9ceacff5b54"
   },
   {
@@ -3787,7 +3787,7 @@ self.__precacheManifest = [
   },
   {
     "url": "music/beethoven_andiefernegeliebte.html",
-    "revision": "775b8bbac2bb1f56d59c3712c82bcb7a"
+    "revision": "e0866a0b474a402c109a57673a1c83ce"
   },
   {
     "url": "music/ding.mp3",
@@ -3799,23 +3799,23 @@ self.__precacheManifest = [
   },
   {
     "url": "music/happy-moments.html",
-    "revision": "03ee26d9bf6a1526b1b4e65288f50a85"
+    "revision": "461cff9ff8d6a124773a47ea1cd864c3"
   },
   {
     "url": "music/index.html",
-    "revision": "7a921cddb7a1616c4163ca9f5d31d3d6"
+    "revision": "0bebc5a3610a1dcb5c7c3e8f8828f2bc"
   },
   {
     "url": "music/josephhaydn_concertantecello.html",
-    "revision": "0675af388e2aa694bcbee158c48a356e"
+    "revision": "96689610608b7e5362953586ca78ddde"
   },
   {
     "url": "music/josephhaydn_concertantecello2.html",
-    "revision": "8e38f0640e7eb169222c4b33c0161fba"
+    "revision": "dbd52fe7469e54ae55617fed79b94a29"
   },
   {
     "url": "music/osmd_function_test_all.html",
-    "revision": "e6c2cc326c511230036463177f4c8e9c"
+    "revision": "be2735e820bcd43cc68ec17fcc39c133"
   },
   {
     "url": "locales/en/manifest.json",
