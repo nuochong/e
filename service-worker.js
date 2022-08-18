@@ -1954,19 +1954,19 @@ self.__precacheManifest = [
     "revision": "d41d8cd98f00b204e9800998ecf8427e"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/21.styles.8922c695.css",
-    "revision": "c501f057887263bbddd63d47c33ed754"
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/21.styles.c7a490fb.css",
+    "revision": "2df6caed28c7a73cce39869d2d676f2c"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/22.styles.7d07cd8c.css",
     "revision": "66966f5a94d28a9f757aafc718fb67d6"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/23.styles.25799f12.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/23.styles.44010f77.css",
     "revision": "cc75bd87358482f6d955ef523fe6027f"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/24.styles.8630626b.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/24.styles.0bbbc647.css",
     "revision": "bcf9eca32341b75323122b762fa9abb3"
   },
   {
@@ -2042,7 +2042,7 @@ self.__precacheManifest = [
     "revision": "e5993078e223b8b0317bf1e538260a5b"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/styles.50c12f04.css",
+    "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/assets/css/styles.b48b8c7d.css",
     "revision": "bf7fd9aa42f994a849099f5424d6d174"
   },
   {
@@ -3787,7 +3787,7 @@ self.__precacheManifest = [
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/music/beethoven_andiefernegeliebte.html",
-    "revision": "fea420fe2434ae85f9a5caba19613e83"
+    "revision": "3517830eff03906868ac24ba05abe44d"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/music/ding.mp3",
@@ -3799,23 +3799,23 @@ self.__precacheManifest = [
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/music/happy-moments.html",
-    "revision": "2e4df58ed5a6b9967b4d2d146e455558"
+    "revision": "639b94014a52f03dcce94e1928ce6c57"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/music/index.html",
-    "revision": "6b359f83878eb971b8b1f40cec19e29e"
+    "revision": "b2c774a74fcec534c2fed236e87be7d1"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/music/josephhaydn_concertantecello.html",
-    "revision": "49cf4941e9a3e3a178558e5763cb2350"
+    "revision": "8dddb4b9df1ae41ccf44b2c31e583ed3"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/music/josephhaydn_concertantecello2.html",
-    "revision": "8679092b94eed8d06ee9594cb665a261"
+    "revision": "b397878a0c8729a028aff2e284394f1b"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/music/osmd_function_test_all.html",
-    "revision": "52a2dde11b79769a2c346787013a9bf6"
+    "revision": "38c11883633ef5ec792207f32504029e"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/nuochong/e@1.0/locales/en/manifest.json",
