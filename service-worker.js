@@ -918,10 +918,6 @@ self.__precacheManifest = [
     "revision": "4f92350f96782728e921acbeac11c8f8"
   },
   {
-    "url": "4fd0.jpg",
-    "revision": "4fd0b32a379f35738a80b98b5a5a8d8a"
-  },
-  {
     "url": "4fec.png",
     "revision": "4fecc6259facc86049ae3bee783f876e"
   },
@@ -1124,10 +1120,6 @@ self.__precacheManifest = [
   {
     "url": "5efd.png",
     "revision": "5efd3b74f030be906fa964c54287ca66"
-  },
-  {
-    "url": "6.jpg",
-    "revision": "4fd0b32a379f35738a80b98b5a5a8d8a"
   },
   {
     "url": "602a.jpg",
@@ -1630,6 +1622,10 @@ self.__precacheManifest = [
     "revision": "8f5b709ad094879802c3a6449d37e9c0"
   },
   {
+    "url": "8f83.jpg",
+    "revision": "8f8374ac07340b3157a29975669db710"
+  },
+  {
     "url": "8fdc.jpg",
     "revision": "8fdcf356971c4b31bfd687265cad98d2"
   },
@@ -1914,135 +1910,135 @@ self.__precacheManifest = [
     "revision": "af7302689b03adf2b40db51f4cbd34fb"
   },
   {
-    "url": "assets/css/0.styles.3414ecec.css",
+    "url": "assets/css/0.styles.f10aff81.css",
     "revision": "1f88b78e2b6073ceb6140a176d654d88"
   },
   {
-    "url": "assets/css/1.styles.712571b6.css",
+    "url": "assets/css/1.styles.32a72fa6.css",
     "revision": "3e038ec67d40ad35b4306f953c5b68bb"
   },
   {
-    "url": "assets/css/12.styles.4d562f79.css",
+    "url": "assets/css/12.styles.05c2375c.css",
     "revision": "d36a0e8b65cefd3698ef491938ecd442"
   },
   {
-    "url": "assets/css/13.styles.425657b4.css",
+    "url": "assets/css/13.styles.a9c56131.css",
     "revision": "6a60efb29c1ba2afd7cda5c8beb75137"
   },
   {
-    "url": "assets/css/14.styles.3c72808e.css",
+    "url": "assets/css/14.styles.d1711691.css",
     "revision": "7102c799dcad3cc7d162423ab3537914"
   },
   {
-    "url": "assets/css/15.styles.84ed4430.css",
+    "url": "assets/css/15.styles.4760e373.css",
     "revision": "0271ffe986e34b0d8dc3c9ce4b5af31e"
   },
   {
-    "url": "assets/css/16.styles.9fe24574.css",
+    "url": "assets/css/16.styles.ade10ec1.css",
     "revision": "ea66d298ade686cc900755bde519c637"
   },
   {
-    "url": "assets/css/17.styles.975b8406.css",
+    "url": "assets/css/17.styles.b0980db0.css",
     "revision": "86e463286683c49c2c08b770630cb28c"
   },
   {
-    "url": "assets/css/2.styles.b9cc3864.css",
+    "url": "assets/css/2.styles.56369e87.css",
     "revision": "7ad59edd57f5fe5313d735b3b2560e3f"
   },
   {
-    "url": "assets/css/20.styles.9ce308c5.css",
+    "url": "assets/css/20.styles.a062c0db.css",
     "revision": "d41d8cd98f00b204e9800998ecf8427e"
   },
   {
-    "url": "assets/css/21.styles.b0c96c59.css",
+    "url": "assets/css/21.styles.64aa4119.css",
     "revision": "f47ae60213dd8b3afba1850bdcb237a0"
   },
   {
-    "url": "assets/css/22.styles.3ca31c73.css",
+    "url": "assets/css/22.styles.838c1707.css",
     "revision": "66966f5a94d28a9f757aafc718fb67d6"
   },
   {
-    "url": "assets/css/23.styles.a5cd073a.css",
+    "url": "assets/css/23.styles.18451972.css",
     "revision": "cc75bd87358482f6d955ef523fe6027f"
   },
   {
-    "url": "assets/css/24.styles.2d8de481.css",
+    "url": "assets/css/24.styles.d351a2b8.css",
     "revision": "bcf9eca32341b75323122b762fa9abb3"
   },
   {
-    "url": "assets/css/25.styles.014cc5d2.css",
+    "url": "assets/css/25.styles.4799abcd.css",
     "revision": "3c23614bc905872078b0b08b778881b1"
   },
   {
-    "url": "assets/css/26.styles.4a0e0f55.css",
+    "url": "assets/css/26.styles.a8770358.css",
     "revision": "62d73c7f95b2cb4ab2de48175ee3393b"
   },
   {
-    "url": "assets/css/27.styles.88cd5db2.css",
+    "url": "assets/css/27.styles.30d8b491.css",
     "revision": "ef5ad4490dffcdfee5cbf9869146a5ac"
   },
   {
-    "url": "assets/css/28.styles.46c27c76.css",
+    "url": "assets/css/28.styles.1863f41f.css",
     "revision": "665eddf34bff48bdaf5e911f0482955f"
   },
   {
-    "url": "assets/css/29.styles.34d1e0b1.css",
+    "url": "assets/css/29.styles.92afe155.css",
     "revision": "e08cfead16fd0be21c7a9b7561329178"
   },
   {
-    "url": "assets/css/30.styles.a4510993.css",
+    "url": "assets/css/30.styles.e4499e91.css",
     "revision": "ee0b8df651aef52db64f5fbb36c8ebb1"
   },
   {
-    "url": "assets/css/31.styles.2d2c53e0.css",
+    "url": "assets/css/31.styles.5cceee28.css",
     "revision": "2d81d91b47de8fe599473ba78bd36546"
   },
   {
-    "url": "assets/css/32.styles.fa6c5a23.css",
+    "url": "assets/css/32.styles.0b0e8ea2.css",
     "revision": "c6e5b912d7575ee2d2b379528b4d6e00"
   },
   {
-    "url": "assets/css/33.styles.23749355.css",
+    "url": "assets/css/33.styles.b4e8db64.css",
     "revision": "ee2570984dc2e39c3c25cb9fb0413359"
   },
   {
-    "url": "assets/css/34.styles.89ea6bdc.css",
+    "url": "assets/css/34.styles.6a64adb2.css",
     "revision": "49e661aaf914fb980b2340d6375df3ba"
   },
   {
-    "url": "assets/css/35.styles.562e7b47.css",
+    "url": "assets/css/35.styles.c604304c.css",
     "revision": "b856b4b3d5151f58db3290cfe137b8df"
   },
   {
-    "url": "assets/css/36.styles.b67becdb.css",
+    "url": "assets/css/36.styles.fe10df5d.css",
     "revision": "d9dfd37f06d8f435dee028aabf1dbc48"
   },
   {
-    "url": "assets/css/37.styles.203fdad9.css",
+    "url": "assets/css/37.styles.e65227f9.css",
     "revision": "41856c4745dee9bec4a5fdedff62c832"
   },
   {
-    "url": "assets/css/4.styles.acba661a.css",
+    "url": "assets/css/4.styles.b393ba72.css",
     "revision": "bd33d9448b225cff24ecb4995c9cb6bf"
   },
   {
-    "url": "assets/css/5.styles.fcb13e7a.css",
+    "url": "assets/css/5.styles.3a69964e.css",
     "revision": "876b8d6019efbff1f13093dc39bf67d8"
   },
   {
-    "url": "assets/css/6.styles.18842597.css",
+    "url": "assets/css/6.styles.c512a2b7.css",
     "revision": "0b2ae54c704619583566dca98da1702a"
   },
   {
-    "url": "assets/css/7.styles.e349f439.css",
+    "url": "assets/css/7.styles.acd18578.css",
     "revision": "95d6166296fdc068a3595d724c30d1f0"
   },
   {
-    "url": "assets/css/8.styles.6e236fb2.css",
+    "url": "assets/css/8.styles.d46bb1cd.css",
     "revision": "e5993078e223b8b0317bf1e538260a5b"
   },
   {
-    "url": "assets/css/styles.0787fb62.css",
+    "url": "assets/css/styles.61a7af94.css",
     "revision": "6704e5f4fac5035e2835b9ceacff5b54"
   },
   {
@@ -2270,6 +2266,10 @@ self.__precacheManifest = [
     "revision": "c075964800f8f4aefee79df8604cc1bd"
   },
   {
+    "url": "c0e3.jpg",
+    "revision": "c0e309788e7789900b1338127859ee84"
+  },
+  {
     "url": "c16d.jpg",
     "revision": "c16dd9a75e047fcc1f38006193cbb270"
   },
@@ -2408,6 +2408,10 @@ self.__precacheManifest = [
   {
     "url": "cdd6.jpg",
     "revision": "cdd629bf8022629d5bb2e1ec2afeb605"
+  },
+  {
+    "url": "cdd9.jpg",
+    "revision": "cdd94e29581730715d88a896249bab0a"
   },
   {
     "url": "cf8e.jpg",
@@ -3787,7 +3791,7 @@ self.__precacheManifest = [
   },
   {
     "url": "music/beethoven_andiefernegeliebte.html",
-    "revision": "e0866a0b474a402c109a57673a1c83ce"
+    "revision": "07e0eaee6c5262d25870f7370e0bb4d0"
   },
   {
     "url": "music/ding.mp3",
@@ -3799,23 +3803,23 @@ self.__precacheManifest = [
   },
   {
     "url": "music/happy-moments.html",
-    "revision": "461cff9ff8d6a124773a47ea1cd864c3"
+    "revision": "023596d6e603f9e306709728e16cdb71"
   },
   {
     "url": "music/index.html",
-    "revision": "0bebc5a3610a1dcb5c7c3e8f8828f2bc"
+    "revision": "8702e7497acaa483583142f8296a3e10"
   },
   {
     "url": "music/josephhaydn_concertantecello.html",
-    "revision": "96689610608b7e5362953586ca78ddde"
+    "revision": "ee3b727a16c1787fe88f675aef923250"
   },
   {
     "url": "music/josephhaydn_concertantecello2.html",
-    "revision": "dbd52fe7469e54ae55617fed79b94a29"
+    "revision": "6b9349d3304da1c64ae47f794c16e3c6"
   },
   {
     "url": "music/osmd_function_test_all.html",
-    "revision": "be2735e820bcd43cc68ec17fcc39c133"
+    "revision": "208293049973d4cea51e7f28398f36b5"
   },
   {
     "url": "locales/en/manifest.json",
