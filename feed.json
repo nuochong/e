@@ -8,7 +8,7 @@
             "id": "https://luzhaoyang.com/other/finally-have-a-nest.html",
             "url": "https://luzhaoyang.com/other/finally-have-a-nest.html",
             "title": "Finally Have A Nest",
-            "date_modified": "2022-08-18T17:34:30.717Z"
+            "date_modified": "2022-08-19T02:36:10.514Z"
         },
         {
             "id": "https://luzhaoyang.com/posts/my-first-post.html",
@@ -16,27 +16,27 @@
             "title": "My First Post",
             "summary": "Meta description, one of the three TDK tags on the original page, is also a page optimization element that SEO staff need to focus on optimization.",
             "image": "https://luzhaoyang.com/images/posts-base/2018/8/my-first-post.png",
-            "date_modified": "2022-08-18T17:34:30.723Z"
+            "date_modified": "2022-08-19T02:36:10.516Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/other/2020ai-pu-sheng-guo-ji-quan-jing-she-ying-jiang-huo-jiang-zuo-pin-jie-xiao.html",
             "url": "https://luzhaoyang.com/zh/other/2020ai-pu-sheng-guo-ji-quan-jing-she-ying-jiang-huo-jiang-zuo-pin-jie-xiao.html",
             "title": "2020爱普生国际全景摄影奖获奖作品揭晓",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/2020ai-pu-sheng-guo-ji-quan-jing-she-ying-jiang-huo-jiang-zuo-pin-jie-xiao/1.jpg",
-            "date_modified": "2022-08-18T17:34:30.725Z"
+            "date_modified": "2022-08-19T02:36:10.517Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/other/finally-have-a-nest.html",
             "url": "https://luzhaoyang.com/zh/other/finally-have-a-nest.html",
             "title": "终于有个窝了",
-            "date_modified": "2022-08-18T17:34:30.725Z"
+            "date_modified": "2022-08-19T02:36:10.518Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/other/ling-ren-nan-yi-zhi-xin-de-wu-ren-ji-hang-pai-zuo-pin-ying-de-nian-du-zi-ran-ttlshe-ying-da-jiang.html",
             "url": "https://luzhaoyang.com/zh/other/ling-ren-nan-yi-zhi-xin-de-wu-ren-ji-hang-pai-zuo-pin-ying-de-nian-du-zi-ran-ttlshe-ying-da-jiang.html",
             "title": "令人难以置信的无人机航拍作品赢得年度自然TTL摄影大奖",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/ling-ren-nan-yi-zhi-xin-de-wu-ren-ji-hang-pai-zuo-pin-ying-de-nian-du-zi-ranttl-she-ying-da-jiang/1.jpg =840x",
-            "date_modified": "2022-08-18T17:34:30.726Z"
+            "date_modified": "2022-08-19T02:36:10.518Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/10-ge-ni-ke-neng-huan-bu-zhi-dao-vs-code-shi-yong-ji-qiao.html",
@@ -44,7 +44,7 @@
             "title": "10 个你可能还不知道 VS Code 使用技巧",
             "summary": "经常帮一些同学 One-on-One 地解决问题，在看部分同学使用 VS Code 的时候，有些蹩脚，实际上一些有用的技巧能够提高我们的日常工作效率。",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/10-ge-ni-ke-neng-huan-bu-zhi-dao-vs-code-shi-yong-ji-qiao/0.png",
-            "date_modified": "2022-08-18T17:34:30.726Z"
+            "date_modified": "2022-08-19T02:36:10.518Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/10ge-chang-yong-de-jsgong-ju-ku.html",
@@ -52,15 +52,7 @@
             "title": "10个常用的JS工具库",
             "summary": "`",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg",
-            "date_modified": "2022-08-18T17:34:30.727Z"
-        },
-        {
-            "id": "https://luzhaoyang.com/zh/posts/12-ge-chang-yong-de-javascript-han-shu.html",
-            "url": "https://luzhaoyang.com/zh/posts/12-ge-chang-yong-de-javascript-han-shu.html",
-            "title": "12 个常用的 JavaScript 函数",
-            "summary": "const shuffle = (arr) => arr.sort(() => Math.random() - 0.5);",
-            "image": "https://luzhaoyang.com/@pub/images/posts-content/13/1.png",
-            "date_modified": "2022-08-18T17:34:30.727Z"
+            "date_modified": "2022-08-19T02:36:10.518Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/10fen-zhong-ru-men-webassembly.html",
@@ -68,15 +60,23 @@
             "title": "10分钟入门WebAssembly",
             "summary": "`",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/10fen-zhong-ru-men-webassembly/1.png",
-            "date_modified": "2022-08-18T17:34:30.727Z"
+            "date_modified": "2022-08-19T02:36:10.518Z"
+        },
+        {
+            "id": "https://luzhaoyang.com/zh/posts/12-ge-chang-yong-de-javascript-han-shu.html",
+            "url": "https://luzhaoyang.com/zh/posts/12-ge-chang-yong-de-javascript-han-shu.html",
+            "title": "12 个常用的 JavaScript 函数",
+            "summary": "const isDarkMode = () => window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;",
+            "image": "https://luzhaoyang.com/@pub/images/posts-content/13/1.png",
+            "date_modified": "2022-08-19T02:36:10.518Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/12-ge-ti-gao-javascriptbian-ma-xiao-lu-de-npm-ji-qiao.html",
             "url": "https://luzhaoyang.com/zh/posts/12-ge-ti-gao-javascriptbian-ma-xiao-lu-de-npm-ji-qiao.html",
             "title": "12 个提高JavaScript编码效率的 NPM 技巧",
-            "summary": "\"test\": \"echo \\\"Error: no test specified\\\" && exit 1\"\n  },\n  \"keywords\": [],\n  \"author\": \"Ankit Jain \",\n  \"license\": \"ISC\"\n}\n`",
+            "summary": "}\n`",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/12-ge-ti-gaojavascript-bian-ma-xiao-lu-de-npm-ji-qiao/0.webp",
-            "date_modified": "2022-08-18T17:34:30.727Z"
+            "date_modified": "2022-08-19T02:36:10.518Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/12-zhong-shi-yong-vue-de-zui-jia-zuo-fa.html",
@@ -84,7 +84,7 @@
             "title": "12 种使用 Vue 的最佳做法",
             "summary": "props: { 'title-text': String }",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg",
-            "date_modified": "2022-08-18T17:34:30.728Z"
+            "date_modified": "2022-08-19T02:36:10.518Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/14ge-javascript-dai-ma-you-hua-ji-qiao.html",
@@ -92,7 +92,7 @@
             "title": "14个 JavaScript 代码优化技巧",
             "summary": "作为一种高级语言，JS 会负责一些底层管理工作，例如内存管理。垃圾回收是大多数编程语言共有的过程。用外行术语来说，垃圾收集就是收集并释放已分配给对象，但目前尚未在程序的任何部分中使用的内存。在 C 这样的编程语言中，开发人员必须使用 malloc() 和 dealloc() 函数来处理内存分配和释放操作。",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg",
-            "date_modified": "2022-08-18T17:34:30.728Z"
+            "date_modified": "2022-08-19T02:36:10.518Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/15-you-ya-de-javascript-ge-ji-qiao.html",
@@ -100,7 +100,7 @@
             "title": "15 优雅的 JavaScript 个技巧",
             "summary": "const person = { id: 1, name: '前端小智' };\nconst { name: personName } = person;\nconsole.log(personName); // '前端小智'\n`",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg",
-            "date_modified": "2022-08-18T17:34:30.728Z"
+            "date_modified": "2022-08-19T02:36:10.519Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/15ge-bi-xu-zhi-dao-de-javascriptshu-zu-fang-fa.html",
@@ -108,7 +108,7 @@
             "title": "15个必须知道的JavaScript数组方法",
             "summary": "myAwesomeArray.every((test) => test === 'd');\n// -------> Output : falseconst\nmyAwesomeArray2 = ['a', 'a', 'a', 'a', 'a'];\nmyAwesomeArray2.every((test) => test === 'a');\n//-------> Output : true\n`",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg",
-            "date_modified": "2022-08-18T17:34:30.729Z"
+            "date_modified": "2022-08-19T02:36:10.519Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/16ge-gong-cheng-bi-bei-de-javascriptdai-ma-pian-duan-shang-.html",
@@ -116,7 +116,7 @@
             "title": "16个工程必备的JavaScript代码片段（上）",
             "summary": "`",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg",
-            "date_modified": "2022-08-18T17:34:30.729Z"
+            "date_modified": "2022-08-19T02:36:10.519Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/16ge-gong-cheng-bi-bei-de-javascriptdai-ma-pian-duan-xia-.html",
@@ -124,7 +124,7 @@
             "title": "16个工程必备的JavaScript代码片段（下）",
             "summary": "uuid();\n`",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg",
-            "date_modified": "2022-08-18T17:34:30.729Z"
+            "date_modified": "2022-08-19T02:36:10.519Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/18-ge-chang-yong-de-javascript-dan-xing-dai-ma.html",
@@ -132,7 +132,7 @@
             "title": "18 个常用的 JavaScript 单行代码",
             "summary": "console.log(removeDuplicates([1, 2, 3, 3, 4, 4, 5, 5, 6]));\n// Result: [ 1, 2, 3, 4, 5, 6 ]\n`",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg",
-            "date_modified": "2022-08-18T17:34:30.729Z"
+            "date_modified": "2022-08-19T02:36:10.519Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/2019nian-shi-fou-ke-yi-pao-qi-cssyu-chu-li-qi-.html",
@@ -140,7 +140,7 @@
             "title": "2019年，是否可以抛弃CSS预处理器？",
             "summary": "CSS2 在 1998 年 5 月 由 W3C 发布，CSS2 规范是基于 CSS1 设计的，扩充和改进了很多更加强大的属性。包括选择器、位置模型、布局、表格样式、媒体类型、伪类、光标样式。",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/2019-nian-shi-fou-ke-yi-pao-qicss-yu-chu-li-qi-/640-2.webp",
-            "date_modified": "2022-08-18T17:34:30.730Z"
+            "date_modified": "2022-08-19T02:36:10.519Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/2021nian-flutter-yu-react-nativegai-ru-he-xuan-ze-.html",
@@ -148,7 +148,7 @@
             "title": "2021年，Flutter 与 React Native该如何选择？",
             "summary": "React Native 使用的是 JavaScript 这种常用的编程语言，而 Dart 尚不为人所知。如果你是喜欢统计数据的开发人员，也可以使用 TypeScript（一个 JavaScript 的超集）。",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/2021nian-flutter-yu-react-nativegai-ru-he-xuan-ze-/1.jpg",
-            "date_modified": "2022-08-18T17:34:30.730Z"
+            "date_modified": "2022-08-19T02:36:10.520Z"
         },
         {
             "id": "https://luzhaoyang.com/zh/posts/45-ge-git-jing-dian-cao-zuo-chang-jing.html",
@@ -156,7 +156,7 @@
             "title": "45 个 Git 经典操作场景",
             "summary": "hint: Updates were rejected because the tip of your current branch is behind\nhint: its remote counterpart. Integrate the remote changes (e.g.\nhint: 'git pull ...') before pushing again.\nhint: See the 'Note about fast-forwards' in 'git push --help' for details.\n`",
             "image": "https://luzhaoyang.com/@pub/images/posts-content/test/test.jpg",
-            "date_modified": "2022-08-18T17:34:30.730Z"
+            "date_modified": "2022-08-19T02:36:10.520Z"
         }
     ]
 }
