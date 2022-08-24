@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[42],{2212:function(n,t,e){"use strict";e.r(t);var a={name:"Comment",mounted(){}},s=e(4),i=Object(s.a)(a,(function(){var n=this.$createElement;return(this._self._c||n)("div",{staticClass:"gitalk-container"})}),[],!1,null,null,null);t.default=i.exports}}]);
