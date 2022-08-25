@@ -1962,7 +1962,7 @@ self.__precacheManifest = [
     "revision": "62d73c7f95b2cb4ab2de48175ee3393b"
   },
   {
-    "url": "assets/css/27.styles.1b526a15.css",
+    "url": "assets/css/27.styles.7c71406c.css",
     "revision": "ef5ad4490dffcdfee5cbf9869146a5ac"
   },
   {
@@ -2026,7 +2026,7 @@ self.__precacheManifest = [
     "revision": "e5993078e223b8b0317bf1e538260a5b"
   },
   {
-    "url": "assets/css/styles.80647112.css",
+    "url": "assets/css/styles.a961792d.css",
     "revision": "6704e5f4fac5035e2835b9ceacff5b54"
   },
   {
@@ -3763,7 +3763,7 @@ self.__precacheManifest = [
   },
   {
     "url": "music/beethoven_andiefernegeliebte.html",
-    "revision": "bd0b7818ad5a0ffa00d08907827fcd02"
+    "revision": "bb0d17168760310e12a1541f24fdfe33"
   },
   {
     "url": "music/ding.mp3",
@@ -3775,23 +3775,23 @@ self.__precacheManifest = [
   },
   {
     "url": "music/happy-moments.html",
-    "revision": "ab90fd2b2ac0e49fb3e6870ca1749175"
+    "revision": "00344b6e48bf142e77605a9b3b247feb"
   },
   {
     "url": "music/index.html",
-    "revision": "0fe754053ef52c32c4c1a9b5a7e9d78b"
+    "revision": "53d30e394341b41802e9fb99b24a9e98"
   },
   {
     "url": "music/josephhaydn_concertantecello.html",
-    "revision": "251803c8cf969f1b1d5f287b31f19057"
+    "revision": "2f73ea55a2e6be8dc19b28d2f1f6da3e"
   },
   {
     "url": "music/josephhaydn_concertantecello2.html",
-    "revision": "6f9491de7e7feedba20830ae8647f557"
+    "revision": "86ed9b7972d961a3cf8494de6de0f65a"
   },
   {
     "url": "music/osmd_function_test_all.html",
-    "revision": "1d6c874fdb453c774ad612a54e62335b"
+    "revision": "076a03a0b1298b8d3205a1340a8deea1"
   },
   {
     "url": "locales/en/manifest.json",
